@@ -4,4 +4,4 @@ In process conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and la
 
 Need to determine whether to provide vss files for Visio 2003-2013.
 
-Template files are screenshots and in process of being converted to templates in Visio.
+Template files are screenshots from other tools plus the reference architectures from Paul Bahr and in process of being converted to templates in Visio.
