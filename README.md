@@ -1,6 +1,6 @@
 # IBM Cloud Visio Icons
 
-In process conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later with additional icons being added as need plus the groups icons are additional.  
+Tentative (subject to change/review) conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later with additional icons being added as need plus the groups icons are additional.  
 
 Need to determine whether to provide vss files for Visio 2003-2013.
 
