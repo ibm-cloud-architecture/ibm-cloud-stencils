@@ -1,12 +1,12 @@
 # IBM Cloud Visio Icons
 
-## Icon Key
+## Component Legend
 
-![Icon Key](/images/icon_key.png)
+![Component Legend](/images/component_legend.png)
 
-## Group Key
+## Group Legend
 
-![Group Key](/images/group_key.png)
+![Group Legend](/images/group_legend.png)
 
 ## Visio Icon Conversion
 
