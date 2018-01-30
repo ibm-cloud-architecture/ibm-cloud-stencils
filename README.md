@@ -1,12 +1,8 @@
 # IBM Cloud Visio Icons
 
-## Component Legend
+## Legends
 
-![Component Legend](/images/component-legend.png)
-
-## Group Legend
-
-![Group Legend](/images/group-legend.png)
+![Legends](/images/legends.png)
 
 ## Visio Icon Conversion (vssx folder)
 
