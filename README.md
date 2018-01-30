@@ -6,7 +6,7 @@
 
 ## 3-Tier Template
 
-![3-Tier Template](/images/3-Tier Architecture Screenshot.png)
+![3-Tier](/images/3-tier.png)
 
 ## Visio Icon Conversion (vssx folder)
 
