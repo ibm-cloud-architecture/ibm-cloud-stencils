@@ -2,11 +2,11 @@
 
 ## Component Legend
 
-![Component Legend](/images/component_legend.png)
+![Component Legend](/images/component-legend.png)
 
 ## Group Legend
 
-![Group Legend](/images/group_legend.png)
+![Group Legend](/images/group-legend.png)
 
 ## Visio Icon Conversion (vssx folder)
 
