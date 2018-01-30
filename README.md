@@ -4,6 +4,10 @@
 
 ![Legends](/images/legends.png)
 
+## 3-Tier Template
+
+![3-Tier Template](/images/3-Tier Architecture Screenshot.png)
+
 ## Visio Icon Conversion (vssx folder)
 
 Tentative (subject to change/review) conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later with additional icons being added as needed plus the groups icons are additional. Need to determine whether to provide vss files for Visio 2003-2013.  
