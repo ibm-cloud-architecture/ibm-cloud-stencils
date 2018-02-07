@@ -15,9 +15,9 @@ Tentative (subject to change/review) conversion of IBM Cloud Icons from pptx to 
 The list of names in the region and zone are intended to be edited to a single name or replaced with another name.
 
 The color scheme is:
-* Outer Containers - blue (RGB 67, 120, 187 which is identical to 4378bb)
-* Security Containers/Groups - red (RGB 255, 0, 0) 
-* Inner Groups (non-security) - green (RGB 0, 136, 43)
+* Outer Containers - blue (RGB 67, 120, 187 or Hex 4378BB)
+* Security Containers/Groups - red (RGB 255, 0, 0 or Hex FF0000) 
+* Inner Groups (non-security) - green (RGB 0, 136, 43 or Hex 00882B)
 
 Need to determine whether to provide vss files for Visio 2003-2013.  
 
