@@ -19,7 +19,13 @@ The color scheme is:
 * Security Containers/Groups - red (RGB 255, 0, 0 or Hex FF0000) 
 * Inner Groups (non-security) - green (RGB 0, 136, 43 or Hex 00882B)
 
-Use the blue above for user text and lines if desired.  The master name is not included when the icons are dragged to the canvas.  To add text to the icons on the canvas, select the icon and start typing the desired text and change the text to the blue color above if desired.  The text will be placed directly below the icon which can mean that a line will obstruct the text.  To fix this, select the text, right-click and select Font, go to Text Block, and select solid color of white for the text background.
+Edit Steps:
+1. Drag icon from stencil to canvas.  Note that the master name is not automatically included on the canvas.
+2. To add text to an icon on the canvas, select the icon and start typing the desired text.
+3. Resize text to Calibri 10 pt if desired to fit more text than Calibri 12 pt.
+4. Change text to the blue color above if desired.  
+5. If a line obstructs the text, select the text, right-click and select Font, go to Text Block, and select solid color of white for the text background.
+6. If any of the text wraps to next line, select the text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen the text box and move the widened text box to be in the center under icon. 
 
 Need to determine whether to provide vss files for Visio 2003-2013.  
 
