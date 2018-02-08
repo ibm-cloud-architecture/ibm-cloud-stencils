@@ -26,6 +26,7 @@ Edit Steps:
 4. Change text to the blue color above if desired.  
 5. If a line obstructs the text, select the text, right-click and select Font, go to Text Block, and select solid color of white for the text background.
 6. If any of the text wraps to next line, select the text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen the text box and move the widened text box to be in the center under icon. 
+7. Edit the list of names in the region and zone to the desired name or replace with another name.
 
 Need to determine whether to provide vss files for Visio 2003-2013.  
 
