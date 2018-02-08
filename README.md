@@ -12,7 +12,7 @@
 
 Tentative (subject to change/review) conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  This Visio version contains additional icons as needed for IaaS plus the groups.  Need to determine whether to provide vss files for Visio 2003-2013.  
 
-Color scheme is:
+Color Scheme:
 * Outer Containers - blue (RGB 67, 120, 187 or Hex 4378BB)
 * Security Containers/Groups - red (RGB 255, 0, 0 or Hex FF0000) 
 * Inner Groups (non-security) - green (RGB 0, 136, 43 or Hex 00882B)
