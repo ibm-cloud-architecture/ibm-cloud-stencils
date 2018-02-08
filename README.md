@@ -26,8 +26,6 @@ Edit Steps:
 6. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
 7. Edit list of names in the region and zone to the desired name from the provide list or replace with another name.
 
-Need to determine whether to provide vss files for Visio 2003-2013.  
-
 ## Visio Diagram Templates (vstx folder)
 
 Template files are in the process of being converted to Visio from other tools including reference architectures from Paul Bahr.  Also working with draw.io support to fix problems with the export of draw.io templates to Visio. The list of names in the region and zone are intended to be edited to a single name by the architect.  
