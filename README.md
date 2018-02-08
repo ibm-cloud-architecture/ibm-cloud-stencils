@@ -10,7 +10,7 @@
 
 ## Visio Icon Conversion (vssx folder)
 
-Tentative (subject to change/review) conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  This Visio version contains additional icons as needed for IaaS plus the groups.  Need to determine whether to provide vss files for Visio 2003-2013.  
+Tentative (subject to change) conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  This Visio version contains additional icons as needed for IaaS plus the groups.  Need to determine whether to provide vss files for Visio 2003-2013.  
 
 Color Scheme:
 * Outer Containers - blue (RGB 67, 120, 187 or Hex 4378BB)
