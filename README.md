@@ -19,7 +19,7 @@ Color scheme is:
 
 Edit Steps:
 1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
-2. To add text to an icon on the canvas, select the icon and start typing the desired text.
+2. To add text to an icon on the canvas, select the icon and type the desired text.
 3. Resize text to Calibri 10 pt if desired to fit more text than Calibri 12 pt.
 4. Change text to the blue color above if desired.  
 5. If a line obstructs the text, select the text, right-click and select Font, go to Text Block, and select solid color of white for the text background.
