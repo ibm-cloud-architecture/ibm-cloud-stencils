@@ -18,7 +18,7 @@ Color scheme is:
 * Inner Groups (non-security) - green (RGB 0, 136, 43 or Hex 00882B)
 
 Edit Steps:
-1. Drag icon from stencil to canvas.  Note that the master name is not automatically included on the canvas.
+1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
 2. To add text to an icon on the canvas, select the icon and start typing the desired text.
 3. Resize text to Calibri 10 pt if desired to fit more text than Calibri 12 pt.
 4. Change text to the blue color above if desired.  
