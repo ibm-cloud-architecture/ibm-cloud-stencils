@@ -20,7 +20,8 @@ Color Scheme:
 Container Steps:
 1. Drag and drop the desired containers from the groups onto the canvas.
 2. Select a single name from the provided list in the region and zone or replace with another name.
-3. Optionally add the provided logo icons to the side border or bottom border or inside the respective containers for IBM Cloud, Virtual Private Cloud, or Network ACL.  Note that adding the logo icon to the top border of the containers will break the container so it is no longer recognized as a container.
+3. Optionally delete any container name that is not desired to save vertical space.
+4. Optionally add the provided logo icons on the side border or bottom border or inside or outside the respective containers for IBM Cloud, Virtual Private Cloud, and Network ACL.  Note that adding the logo icon to the top border of the containers will break the container so it is no longer recognized as a container.
 
 Icon Steps:
 1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
@@ -29,6 +30,7 @@ Icon Steps:
 4. Change text to blue color above if desired.  
 5. If a line obstructs the text, select text, right-click and select Font, go to Text Block, and select solid color of white for text background.
 6. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
+7. Add lines between desired objects either shape-to-shape by clicking inside the shape or point-to-point by clicking on points on the border of the shape.  Note that shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
 
 ## Visio Diagram Templates (vstx folder)
 
