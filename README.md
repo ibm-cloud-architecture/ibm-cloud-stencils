@@ -17,14 +17,18 @@ Color Scheme:
 * Security Containers/Groups - red (RGB 255, 0, 0 or Hex FF0000) 
 * Inner Groups (non-security) - green (RGB 0, 136, 43 or Hex 00882B)
 
-Edit Steps:
+Container Steps:
+1. Drag and drop the desired containers from the groups onto the canvas.
+2. Select a single name from the provided list in the region and zone or replace with another name.
+3. Optionally add the provided logo icons to the side border or bottom border or inside the respective containers for IBM Cloud, Virtual Private Cloud, or Network ACL.  Note that adding the logo icon to the top border of the containers will break the container so it is no longer recognized as a container.
+
+Icon Steps:
 1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
 2. To add text to an icon on the canvas, select the icon and type the desired text.
 3. Resize text to Calibri 10 pt if desired to fit more text than Calibri 12 pt.
 4. Change text to blue color above if desired.  
 5. If a line obstructs the text, select text, right-click and select Font, go to Text Block, and select solid color of white for text background.
 6. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
-7. Edit list of names in the region and zone to the desired name from the provide list or replace with another name.
 
 ## Visio Diagram Templates (vstx folder)
 
