@@ -10,7 +10,7 @@
 
 ## Visio Icon Conversion (vssx folder)
 
-Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  This Visio version contains additional IaaS icons IaaS containers.  Need to determine whether to provide vss files for Visio 2003-2013.  
+Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  Thisvversion contains additional IaaS icons plus the new IaaS containers.  Note that VPC will be removed from the published version until VPC is announced.  Need to determine whether to provide vss files for Visio 2003-2013.  
 
 ## Visio Diagram Templates (vstx folder)
 
