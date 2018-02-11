@@ -34,10 +34,10 @@ Template files are in the process of being converted to Visio from other tools i
 1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
 2. To add text to an icon on the canvas, select the icon and type the desired text.
 3. Resize text to Calibri 10 pt if desired to fit more text than Calibri 12 pt.
-4. Change text to blue color above if desired.  
+4. Change text to blue color if desired.  
 5. If a line obstructs the text, select text, right-click and select Font, go to Text Block, and select solid color of white for text background.
 6. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
-7. Add lines between desired objects either shape-to-shape by clicking inside the shape or point-to-point by clicking on points on the border of the shape.  Note that shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
+7. Add lines between desired objects either shape-to-shape by clicking inside the shape or point-to-point by clicking on points on the border of the shape or add additional points to the object as desired.  Change line color to blue and weight to 1 1/2 pt.  Note that shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
 
 ## Visio Diagram Templates (vstx folder)
 
