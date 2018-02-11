@@ -22,7 +22,7 @@ Template files are in the process of being converted to Visio from other tools i
 * Blue (RGB 67, 120, 187 or Hex 4378BB) - Used for outer containers, text, and lines.
 * Red (RGB 255, 0, 0 or Hex FF0000) - Used for security containers and security groups.
 * Green (RGB 0, 136, 43 or Hex 00882B) - Used for inner non-security groups).
-* Yellow (RGB 237, 193, 28, or EDC11C) - Used for lines as additional color besides blue.
+* Yellow (RGB 237, 193, 28, or EDC11C) - Can also be used for specific lines as additional color besides blue.
 
 ### Container Steps
 1. Drag and drop the desired containers from the groups onto the canvas.
