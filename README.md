@@ -14,7 +14,7 @@ Tentative (subject to change) conversion of IBM Cloud Icons from pptx to vssx fo
 
 ## Visio Diagram Templates (vstx folder)
 
-Template files are in the process of being converted to Visio from other tools including reference architectures from Paul Bahr.  Also working with draw.io support to fix problems with the export of draw.io templates to Visio. The list of names in the region and zone are intended to be edited to a single name by the architect.  
+Template files are in the process of being converted to Visio from other tools including reference architectures from the client success team.  Also working with draw.io support to fix problems with the export of draw.io templates to Visio. 
 
 ## User Guide
 
