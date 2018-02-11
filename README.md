@@ -4,9 +4,13 @@
 
 ![Legends](/images/legends.png)
 
-## 3-Tier Template
+## 3-Tier Example
 
 ![3-Tier](/images/3-tier.png)
+
+## Multizone Example
+
+![Multizone](/images/Multizone.png)
 
 ## Visio Icon Conversion (vssx folder)
 
