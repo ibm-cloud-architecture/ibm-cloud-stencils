@@ -28,7 +28,7 @@ Template files are in the process of being converted to Visio from other tools i
 1. Drag and drop the desired containers from the groups onto the canvas.
 2. Select a single name from the provided list in the region and zone or replace with another name.
 3. Optionally delete any container name that is not desired to save vertical space.
-4. Optionally add the provided logo icons on the side border or bottom border or inside or outside the respective containers for IBM Cloud, Virtual Private Cloud, and Network ACL.  Note that it is recommended to not add the logo icon to the top border of the containers as this will break the container so it is no longer recognized as a container.
+4. Optionally add the provided logo icons on a border or inside or outside the respective containers for IBM Cloud, Virtual Private Cloud, and Network ACL.  
 
 ### Icon Steps
 1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
