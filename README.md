@@ -36,10 +36,11 @@ Template files are in the process of being converted to Visio from other tools i
 
 ### Icon Steps
 1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
-2. To add text to an icon on the canvas, select the icon and type the desired text.
-3. Resize text to Calibri 10 pt if desired to fit more text than Calibri 12 pt.
-4. Change text to blue color if desired.  
-5. If a line obstructs the text, select text, right-click and select Font, go to Text Block, and select solid color of white for text background.
-6. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
-7. If subscript or superscript of the text or parts of the text is desired, highlight the desired text and press CTRL+= to make the highlighted text subscript or CTRL+SHIFT+= to make the highlighted text superscript. 
-8. Add lines between desired objects either shape-to-shape by clicking inside the shape or point-to-point by clicking on existing points on the border of the shape or add additional points to the object as desired.  Change line color to blue and weight to 1 1/2 pt.  Note that when objects are moved the shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
+2. If an icon does not go exactly where you want it (e.g. Visio tries to align the icon with other icons on the canvas), go to Snap & Glue and uncheck Snap and Glue, put the icon where you want it, then go back and recheck Snap and Glue if you prefer to have it turned on.  If you don't have Snap & Glue in the Quick Access Toolbar at the top of Visio, go to File -> Options -> Quick Access Toolbar, search All Commands and add Snap & Glue to the Quick Access Toolbar.
+3. To add text to an icon on the canvas, select the icon and type the desired text.
+4. Resize text to Calibri 10 pt if desired to fit more text than Calibri 12 pt.
+5. Change text to blue color if desired.  
+6. If a line obstructs the text, select text, right-click and select Font, go to Text Block, and select solid color of white for text background.
+7. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
+8. If subscript or superscript of the text or parts of the text is desired, highlight the desired text and press CTRL+= to make the highlighted text subscript or CTRL+SHIFT+= to make the highlighted text superscript. 
+9. Add lines between desired objects either shape-to-shape by clicking inside the shape or point-to-point by clicking on existing points on the border of the shape or add additional points to the object as desired.  Change line color to blue and weight to 1 1/2 pt.  Note that when objects are moved the shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
