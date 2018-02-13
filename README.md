@@ -30,6 +30,15 @@ Template files are in the process of being converted to Visio from other tools i
 * Yellow (RGB 237, 193, 28, or Hex EDC11C) - Can also be used for specific lines as additional color besides blue.
 
 ### Group/Container Steps
+1. Objects are provided as containers, groups, or both:
+a. IBM Cloud - Provided as a container with optional IBM Cloud icon.
+b. Virtual Private Cloud - Provided as a container with optional IBM Cloud icon.
+c. Region - Provided as a container with a list of regions to select from.
+d. Zone - Provided as a container with a relative list of regions to select from.
+e. Network ACL - Provided as a container with optional security icon. 
+f. Security Group - Provided as a rectangular container, rectangular outline, or circular outline to accomodate various uses but may be reduced to a single option.
+g. Auto Scale Group - Provided as a rectangular container, rectangular outline, or circular outline to accomodate various uses but may be reduced to a single option.
+h. Performance Group (GT only) - Provided as a rectangular container, rectangular outline, or circular outline to accomodate various uses but may be reduced to a single option.
 1. Drag and drop the desired group/containers from the groups onto the canvas.
 2. Select a single name from the provided list in the region and zone or replace with another name.
 3. Optionally delete any group/container name that is not desired to save vertical space.
