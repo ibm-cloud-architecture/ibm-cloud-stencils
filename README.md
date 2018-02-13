@@ -30,7 +30,7 @@ Template files are in the process of being converted to Visio from other tools i
 * Yellow (RGB 237, 193, 28, or Hex EDC11C) - Can also be used for specific lines as additional color besides blue.
 
 ### Group Overview
-Group objects are provided as rectangular containers, rectangular or circular groups, or both to accomodate various uses but may change to single optio:
+Group objects are provided as rectangular containers, rectangular or circular groups, or both to accomodate various uses but may change to single option:
 1. IBM Cloud - Provided as a container with optional IBM Cloud icon.
 2. Virtual Private Cloud (GC and GT) - Provided as a container with optional IBM Cloud icon. To be temporarily renamed to Reserved Container until VPC is announced.
 3. Region - Provided as a container with a list of regions to select from.
