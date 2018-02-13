@@ -12,6 +12,10 @@
 
 ![Multizone](/images/Multizone.png)
 
+## Hybrid Example
+
+![Hybrid](/images/Hybrid1.png)
+
 ## Visio Icon Conversion (vssx folder)
 
 Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  Thisvversion contains additional IaaS icons plus the new IaaS containers.  Note that VPC will be removed from the published version until VPC is announced.  Need to determine whether to provide vss files for Visio 2003-2013.  
@@ -31,14 +35,15 @@ Template files are in the process of being converted to Visio from other tools i
 
 ### Group Overview
 Group objects are provided as rectangular containers, rectangular or circular groups, or both to accomodate various uses but may change to single option:
-1. IBM Cloud - Provided as a container with optional IBM Cloud icon.
-2. Virtual Private Cloud (GC and GT) - Provided as a container with optional IBM Cloud icon. To be temporarily renamed to Reserved Container until VPC is announced.
-3. Region - Provided as a container with a list of multi-zone regions to select from.  Single-zone regions will also be included when names are available.  
-4. Zone - Provided as a container with a relative list of zones to select from.
-5. Network ACL - Provided as a container with optional security icon. 
-6. Security Group - Provided as a rectangular container, rectangular outline, or circular outline.
-7. Auto Scale Group - Provided as a rectangular container, rectangular outline, or circular outline.
-8. Performance Group (GT only) - Provided as a rectangular container, rectangular outline, or circular outline.  To be temporarily renamed to Reserved Group until GT is announced.
+1. Cloud Universe + Public Network + Enterprise Network - 3 containers plug IBM Cloud container to encompass the previous 3 section container-like diagram used for hybrid diagrams but with the power of Visio containers.  Refer to Hybrid example above.
+2. IBM Cloud - Provided as a container with optional IBM Cloud icon.
+3. Virtual Private Cloud (GC and GT) - Provided as a container with optional IBM Cloud icon. To be temporarily renamed to Reserved Container until VPC is announced.
+4. Region - Provided as a container with a list of multi-zone regions to select from.  Single-zone regions will also be included when names are available.  
+5. Zone - Provided as a container with a relative list of zones to select from.
+6. Network ACL - Provided as a container with optional security icon. 
+7. Security Group - Provided as a rectangular container, rectangular outline, or circular outline.
+8. Auto Scale Group - Provided as a rectangular container, rectangular outline, or circular outline.
+9. Performance Group (GT only) - Provided as a rectangular container, rectangular outline, or circular outline.  To be temporarily renamed to Reserved Group until GT is announced.
 
 ### Group Steps
 1. Drag and drop the desired group/container from the groups onto the canvas.
