@@ -32,13 +32,13 @@ Template files are in the process of being converted to Visio from other tools i
 ### Group Overview
 Group objects are provided as containers, groups, or both:
 1. IBM Cloud - Provided as a container with optional IBM Cloud icon.
-2. Virtual Private Cloud - Provided as a container with optional IBM Cloud icon.
+2. Virtual Private Cloud (renamed to Reserved Container until VPC is announced) - Provided as a container with optional IBM Cloud icon.
 3. Region - Provided as a container with a list of regions to select from.
 4. Zone - Provided as a container with a relative list of regions to select from.
 5. Network ACL - Provided as a container with optional security icon. 
 6. Security Group - Provided as a rectangular container, rectangular outline, or circular outline to accomodate various uses but may be reduced to a single option.
 7. Auto Scale Group - Provided as a rectangular container, rectangular outline, or circular outline to accomodate various uses but may be reduced to a single option.
-8. Performance Group (GT only) - Provided as a rectangular container, rectangular outline, or circular outline to accomodate various uses but may be reduced to a single option.
+8. Performance Group (GT only, renamed to Reserved Group until GT is announced) - Provided as a rectangular container, rectangular outline, or circular outline to accomodate various uses but may be reduced to a single option.
 
 ### Group Steps
 1. Drag and drop the desired group/containers from the groups onto the canvas.
