@@ -33,8 +33,8 @@ Template files are in the process of being converted to Visio from other tools i
 Group objects are provided as rectangular containers, rectangular or circular groups, or both to accomodate various uses but may change to single option:
 1. IBM Cloud - Provided as a container with optional IBM Cloud icon.
 2. Virtual Private Cloud (GC and GT) - Provided as a container with optional IBM Cloud icon. To be temporarily renamed to Reserved Container until VPC is announced.
-3. Region - Provided as a container with a list of regions to select from.
-4. Zone - Provided as a container with a relative list of regions to select from.
+3. Region - Provided as a container with a list of multi-zone regions to select from.  Single-zone regions will also be included when names are available.  
+4. Zone - Provided as a container with a relative list of zones to select from.
 5. Network ACL - Provided as a container with optional security icon. 
 6. Security Group - Provided as a rectangular container, rectangular outline, or circular outline.
 7. Auto Scale Group - Provided as a rectangular container, rectangular outline, or circular outline.
