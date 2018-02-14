@@ -69,7 +69,7 @@ The existing 3-section rectangle doesn't work as a single container with divider
 
 ![Multizone](/images/Multizone.png)
 
-##E Hybrid
+### Hybrid
 
 ![Hybrid](/images/Hybrid1.png)
 
