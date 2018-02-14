@@ -48,9 +48,9 @@ The existing 3-section rectangle doesn't work as a single container with divider
 | Region | Container | All |
 | Zone | Container | All |
 | Network ACL R| Container | All |
-| Security Group | Container | All |
-| Auto Scale Group | Container | All |
-| Performance Group | Container | GT |
+| Security Group | Outline | All |
+| Auto Scale Group | Outline | All |
+| Performance Group | Outline | GT |
 
 ### Group Steps
 1. Drag and drop the desired group/container from the groups onto the canvas.
