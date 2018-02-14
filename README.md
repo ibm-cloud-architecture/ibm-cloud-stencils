@@ -36,17 +36,21 @@ Template files are in the process of being converted to Visio from other tools i
 | Yellow | 237, 193, 28 | EDC11C | Alternative for lines |
 | IaaS Green | 141, 197, 63 | 8DC53F | IaaS icons |
 
-### Group Overview
-Group objects are provided as rectangular containers, rectangular or circular groups, or both to accomodate various uses but may change to single option:
-1. Cloud Universe + Public Network + Enterprise Network - 3 containers plug IBM Cloud container to encompass the previous 3 section container-like diagram used for hybrid diagrams but with the power of Visio containers.  Refer to Hybrid example above.
-2. IBM Cloud - Provided as a container with optional IBM Cloud icon.
-3. Virtual Private Cloud (GC and GT) - Provided as a container with optional IBM Cloud icon. To be temporarily renamed to Reserved Container until VPC is announced.
-4. Region - Provided as a container with a list of multi-zone regions to select from.  Single-zone regions will also be included when names are available.  
-5. Zone - Provided as a container with a relative list of zones to select from.
-6. Network ACL - Provided as a container with optional security icon. 
-7. Security Group - Provided as a rectangular container, rectangular outline, or circular outline.
-8. Auto Scale Group - Provided as a rectangular container, rectangular outline, or circular outline.
-9. Performance Group (GT only) - Provided as a rectangular container, rectangular outline, or circular outline.  To be temporarily renamed to Reserved Group until GT is announced.
+## Group Overview
+
+The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being CLOUD UNIVERSE or IBM CLOUD or VPC.  Each group object is provided as either a container or an outline as appropriate.
+
+| Object | Type | Product |
+| :--- | :--- |
+| Cloud Universe | Container | All |
+| IBM Cloud | Container | All |
+| Virtual Private Cloud | Container | GC, GT |
+| Region | Container | All |
+| Zone | Container | All |
+| Network ACL R| Container | All |
+| Security Group | Container | All |
+| Auto Scale Group | Container | All |
+| Performance Group | Container | GT |
 
 ### Group Steps
 1. Drag and drop the desired group/container from the groups onto the canvas.
