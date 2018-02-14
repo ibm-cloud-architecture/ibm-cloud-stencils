@@ -4,18 +4,6 @@
 
 ![Legends](/images/legends.png)
 
-## 3-Tier Example
-
-![3-Tier](/images/3-tier.png)
-
-## Multizone Example
-
-![Multizone](/images/Multizone.png)
-
-## Hybrid Example
-
-![Hybrid](/images/Hybrid1.png)
-
 ## Visio Icon Conversion (vssx folder)
 
 Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  Thisvversion contains additional IaaS icons plus the new IaaS containers.  Note that VPC will be removed from the published version until VPC is announced.  Need to determine whether to provide vss files for Visio 2003-2013.  
@@ -69,3 +57,19 @@ The existing 3-section rectangle doesn't work as a single container with divider
 7. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
 8. If subscript or superscript of the text or parts of the text is desired, highlight the desired text and press CTRL+= to make the highlighted text subscript or CTRL+SHIFT+= to make the highlighted text superscript. 
 9. Add lines between desired objects either shape-to-shape by clicking inside the shape or point-to-point by clicking on existing points on the border of the shape or add additional points to the object as desired.  Change line color to blue and weight to 1 1/2 pt.  Note that when objects are moved the shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
+
+## Examples
+
+### 3-Tier
+
+![3-Tier](/images/3-tier.png)
+
+### Multizone
+
+![Multizone](/images/Multizone.png)
+
+##E Hybrid
+
+![Hybrid](/images/Hybrid1.png)
+
+
