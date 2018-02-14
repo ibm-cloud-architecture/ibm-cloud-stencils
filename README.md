@@ -47,7 +47,7 @@ The existing 3-section rectangle doesn't work as a single container with divider
 | Virtual Private Cloud | Container | GC, GT |
 | Region | Container | All |
 | Zone | Container | All |
-| Network ACL R| Container | All |
+| Network ACL | Container | All |
 | Security Group | Outline | All |
 | Auto Scale Group | Outline | All |
 | Performance Group | Outline | GT |
