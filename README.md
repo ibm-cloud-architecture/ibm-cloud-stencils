@@ -50,6 +50,7 @@ Group objects are provided as rectangular containers, rectangular or circular gr
 2. Select a single name from the provided list in the region and zone or replace with another name.
 3. Optionally delete any group/container name that is not desired to save vertical space.
 4. Optionally add the provided logo icons on a border or inside the respective group/container for IBM Cloud, Virtual Private Cloud, and Network ACL.  
+5. Before a group can be placed over multiple containers the containers must be locked under FORMAT then unlocked after the group has been placed.
 
 ### Icon Steps
 1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
