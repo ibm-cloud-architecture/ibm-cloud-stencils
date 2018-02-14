@@ -44,7 +44,7 @@ The existing 3-section rectangle doesn't work as a single container with divider
 | :--- | :--- | :--- | :--- |
 | Cloud Universe | Container | Blue Solid | All |
 | IBM Cloud | Container | Blue Solid | All |
-| Virtual Private Cloud | Blue Solid | Container | GC, GT |
+| Virtual Private Cloud | Container | Blue Solid | GC, GT |
 | Region | Container | Blue Dot | All | 
 | Zone | Container | Blue Dash | All |
 | Network ACL | Container |  Red Solid | All |
