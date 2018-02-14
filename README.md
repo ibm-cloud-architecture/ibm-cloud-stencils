@@ -41,7 +41,7 @@ Template files are in the process of being converted to Visio from other tools i
 The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being CLOUD UNIVERSE or IBM CLOUD or VPC.  Each group object is provided as either a container or an outline as appropriate.
 
 | Object | Type | Product |
-| :--- | :--- |
+| :--- | :--- | :--- |
 | Cloud Universe | Container | All |
 | IBM Cloud | Container | All |
 | Virtual Private Cloud | Container | GC, GT |
