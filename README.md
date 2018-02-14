@@ -29,7 +29,7 @@ Template files are in the process of being converted to Visio from other tools i
 ### Color Scheme
 
 | Color | RGB | Hex | Description |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | Blue | 67, 120, 187 | 4378BB | Outer containers, text, and lines |
 | Red | 255, 0, 0 | FF0000 | Security containers and groups |
 | Green | 0, 136, 43 | 00882B | Non-security groups |
