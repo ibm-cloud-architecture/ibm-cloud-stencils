@@ -65,6 +65,10 @@ The existing 3-section rectangle doesn't work as a single container with divider
 
 ![3-Tier](/images/3-tier.png)
 
+### 3-Tier With Classic
+
+![3-TierWithClassic](/images/3-tierWithClassic.png)
+
 ### Multizone
 
 ![Multizone](/images/Multizone.png)
