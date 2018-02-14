@@ -1,9 +1,5 @@
 # IBM Cloud Visio Icons
 
-## Legends
-
-![Legends](/images/legends.png)
-
 ## Visio Icon Conversion (vssx folder)
 
 Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  Thisvversion contains additional IaaS icons plus the new IaaS containers.  Note that VPC will be removed from the published version until VPC is announced.  Need to determine whether to provide vss files for Visio 2003-2013.  
@@ -13,6 +9,11 @@ Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  Thisv
 Template files are in the process of being converted to Visio from other tools including reference architectures from the client success team.  Also working with draw.io support to fix problems with the export of draw.io templates to Visio. 
 
 ## User Guide
+
+### Legends
+
+![Legends](/images/legends.png)
+
 
 ### Color Scheme
 
@@ -24,7 +25,7 @@ Template files are in the process of being converted to Visio from other tools i
 | Yellow | 237, 193, 28 | EDC11C | Alternative for lines |
 | IaaS Green | 141, 197, 63 | 8DC53F | IaaS icons |
 
-## Group Overview
+### Group Overview
 
 The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or an outline as appropriate.
 
