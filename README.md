@@ -40,17 +40,17 @@ Template files are in the process of being converted to Visio from other tools i
 
 The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or an outline as appropriate.
 
-| Object | Type | Product |
-| :--- | :--- | :--- |
-| Cloud Universe | Container | All |
-| IBM Cloud | Container | All |
-| Virtual Private Cloud | Container | GC, GT |
-| Region | Container | All |
-| Zone | Container | All |
-| Network ACL | Container | All |
-| Security Group | Outline | All |
-| Auto Scale Group | Outline | All |
-| Performance Group | Outline | GT |
+| Object | Type | Color | Product |
+| :--- | :--- | :--- | :--- |
+| Cloud Universe | Container | Blue Solid | All |
+| IBM Cloud | Container | Blue Solid | All |
+| Virtual Private Cloud | Blue Solid | Container | GC, GT |
+| Region | Container | Blue Dot | All | 
+| Zone | Container | Blue Dash | All |
+| Network ACL | Container |  Red Solid | All |
+| Security Group | Outline | Red Dash | All |
+| Auto Scale Group | Outline | Green Solid | All |
+| Performance Group | Outline | Green Dash | GT |
 
 ### Group Steps
 1. Drag and drop the desired group/container from the groups onto the canvas.
