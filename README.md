@@ -2,7 +2,36 @@
 
 ## Visio Icon Conversion (vssx folder)
 
-Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  Thisvversion contains additional IaaS icons plus the new IaaS containers.  Note that VPC will be removed from the published version until VPC is announced.  Need to determine whether to provide vss files for Visio 2003-2013.  
+Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  
+Need to determine whether to provide vss files for Visio 2003-2013.  
+
+The Visio version contains the new groups and additional icons including some redesigns from design team and customer experiences (original and redesign are both available for now):
+1. Bare Metal Servers
+2. Block Storage
+3. Bridge
+4. Content Delivery Network
+5. Data Backup Service
+6. Direct Link
+7. File Storage
+8. Firewall (original and redesign)
+9. Floating IP
+10. Gateway (original and redesign)
+11. Load Balancer (original and redesign)
+12. Object Storage
+13. Router
+14. Scalable
+15. Virtual Machines
+16. Virtual Machines (GT)
+17. Virtual Router Appliance
+18. VPN (IaaS and Security, original and redesign) 
+19. Availability Governance
+20. Disaster Recovery Management
+
+Pre-Announce Names:
+1. VPC will be named Reserved Container in the published version until VPC is announced.  
+2. Performance Group will be named Reserved Group in the published version until GT is announced.
+
+Need to determine whether to provide vss files for Visio 2003-2013.  
 
 ## Visio Diagram Templates (vstx folder)
 
