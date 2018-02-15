@@ -7,7 +7,9 @@ TODO: Need to determine whether to provide vss files for Visio 2003-2013.
 
 ### Icons
 
-The proposed icons in Visio that are different from other tools are shown below.  This includes additional icons and some redesigns from design team and customer experiences (original and redesign are both available).  The redesigned icons are Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).  Colorful icons pulled in from bluemix portal may not look professional when converted to the color-coding of the IBM Cloud Icons and are therefore black-and-whited as appropriate, otherwise a new icon can be created from scratch if needed.
+The proposed icons in Visio that are different from other tools are shown below.  This includes additional icons and some redesigns from design team and customer experiences (original and redesign are both available).  The redesigned icons are Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).  
+
+Colorful icons pulled in from bluemix portal may not look professional when placed on top of the IaaS green in the IBM Cloud Icons and are therefore black-and-whited as appropriate, otherwise a new icon can be created from scratch if needed.
 
 ![Icons](/images/icons.png)
 
