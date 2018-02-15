@@ -27,9 +27,6 @@ The existing 3-section rectangle doesn't work as a single container with divider
 | Security Group | Border | Red Dash | None | All |
 | Auto Scale Group | Border | Green Solid | None | All |
 | Performance Group | Border | Green Dash | None | GT |
-Pre-Announce Names:
-1. VPC will be named Reserved Container in the published version until VPC is announced.  
-2. Performance Group will be named Reserved Group in the published version until GT is announced.
 
 ## Visio Diagram Templates (vstx folder)
 
