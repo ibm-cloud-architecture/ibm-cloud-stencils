@@ -5,10 +5,28 @@
 Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  
 Need to determine whether to provide vss files for Visio 2003-2013.  
 
-The Visio version contains the new groups and additional icons including some redesigns from design team and customer experiences (original and redesign are both available).  The redesign include the icons for Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).
+### Icons
+
+The Visio icons includes additional icons and some redesigns from design team and customer experiences (original and redesign are both available).  The redesign include the icons for Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).
 
 ![Icons](/images/icons.png)
 
+### Groups
+
+The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or as a border.
+
+| Object | Type | Color | Icon | Product |
+| :--- | :--- | :--- | :--- | :--- |
+| Cloud Universe | Container | Blue Solid | None | All |
+| IBM Cloud | Container | Blue Solid | IBM Cloud Logo | All |
+| Other Network | Container | Blue Solid | Classic, Network, Public Logo | All |
+| Virtual Private Cloud | Container | Blue Solid | VPC Logo | GC, GT |
+| Region | Container | Blue Dot | None | All | 
+| Zone | Container | Blue Dash | None | All |
+| Network ACL | Container |  Red Solid | ACL Logo | All |
+| Security Group | Border | Red Dash | None | All |
+| Auto Scale Group | Border | Green Solid | None | All |
+| Performance Group | Border | Green Dash | None | GT |
 Pre-Announce Names:
 1. VPC will be named Reserved Container in the published version until VPC is announced.  
 2. Performance Group will be named Reserved Group in the published version until GT is announced.
@@ -35,23 +53,6 @@ Template files are in the process of being converted to Visio from other tools i
 | Green | 0, 136, 43 | 00882B | Non-security groups |
 | Yellow | 237, 193, 28 | EDC11C | Alternative for lines |
 | IaaS Green | 141, 197, 63 | 8DC53F | IaaS icons |
-
-### Group Overview
-
-The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or as a borde.
-
-| Object | Type | Color | Icon | Product |
-| :--- | :--- | :--- | :--- | :--- |
-| Cloud Universe | Container | Blue Solid | None | All |
-| IBM Cloud | Container | Blue Solid | IBM Cloud Logo | All |
-| Other Network | Container | Blue Solid | Classic, Network, Public Logo | All |
-| Virtual Private Cloud | Container | Blue Solid | VPC Logo | GC, GT |
-| Region | Container | Blue Dot | None | All | 
-| Zone | Container | Blue Dash | None | All |
-| Network ACL | Container |  Red Solid | ACL Logo | All |
-| Security Group | Border | Red Dash | None | All |
-| Auto Scale Group | Border | Green Solid | None | All |
-| Performance Group | Border | Green Dash | None | GT |
 
 ### Group Steps
 1. Drag and drop the desired group/container from the groups onto the canvas.
