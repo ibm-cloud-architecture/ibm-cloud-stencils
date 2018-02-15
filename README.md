@@ -6,6 +6,7 @@ Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.
 Need to determine whether to provide vss files for Visio 2003-2013.  
 
 The Visio version contains the new groups and additional icons including some redesigns from design team and customer experiences (original and redesign are both available):
+
 | Name | Component | New? |
 | :--- | :--- | :--- |
 | Bare Metal Server | IaaS | New |
