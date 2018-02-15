@@ -7,7 +7,7 @@ Need to determine whether to provide vss files for Visio 2003-2013.
 
 ### Icons
 
-The Visio icons includes additional icons and some redesigns from design team and customer experiences (original and redesign are both available).  The redesign include the icons for Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).
+The proposed icons in Visio that are different from other tools are shown below.  This includes additional icons and some redesigns from design team and customer experiences (original and redesign are both available).  The redesign include the icons for Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).
 
 ![Icons](/images/icons.png)
 
