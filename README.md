@@ -35,7 +35,7 @@ Pre-Announce Names:
 1. VPC will be named Reserved Container in the published version until VPC is announced.  
 2. Performance Group will be named Reserved Group in the published version until GT is announced.
 
-Need to determine whether to provide vss files for Visio 2003-2013.  
+TODO: Need to determine whether to provide vss files for Visio 2003-2013.  
 
 ## Visio Diagram Templates (vstx folder)
 
