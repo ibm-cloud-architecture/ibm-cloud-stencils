@@ -19,7 +19,7 @@ Icons pulled in from bluemix portal contain color which may not look professiona
 
 The proposed groups in Visio are shown below.
 
-The 3-section rectangle that has been in used doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  
+The 3-section rectangle that has been in use previously doesn't work well as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  
 
 The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group is provided as either a container or as a border.  The provided logos can be added to the border if desired or the provided group name can be used or deleted to reclaim space.  The groups are different sizes to allow an inner group to be dropped on top of an outer group.  
 
