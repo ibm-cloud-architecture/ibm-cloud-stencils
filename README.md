@@ -38,19 +38,20 @@ Template files are in the process of being converted to Visio from other tools i
 
 ### Group Overview
 
-The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or an outline as appropriate.
+The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or as a borde.
 
-| Object | Type | Color | Product |
-| :--- | :--- | :--- | :--- |
-| Cloud Universe | Container | Blue Solid | All |
-| IBM Cloud | Container | Blue Solid | All |
-| Virtual Private Cloud | Container | Blue Solid | GC, GT |
-| Region | Container | Blue Dot | All | 
-| Zone | Container | Blue Dash | All |
-| Network ACL | Container |  Red Solid | All |
-| Security Group | Outline | Red Dash | All |
-| Auto Scale Group | Outline | Green Solid | All |
-| Performance Group | Outline | Green Dash | GT |
+| Object | Type | Color | Icon | Product |
+| :--- | :--- | :--- | :--- | :--- |
+| Cloud Universe | Container | Blue Solid | None | All |
+| IBM Cloud | Container | Blue Solid | IBM Cloud Logo | All |
+| Other Network | Container | Blue Solid | Classic, Network, Public Logo | All |
+| Virtual Private Cloud | Container | Blue Solid | VPC Logo | GC, GT |
+| Region | Container | Blue Dot | None | All | 
+| Zone | Container | Blue Dash | None | All |
+| Network ACL | Container |  Red Solid | ACL Logo | All |
+| Security Group | Border | Red Dash | None | All |
+| Auto Scale Group | Border | Green Solid | None | All |
+| Performance Group | Border | Green Dash | None | GT |
 
 ### Group Steps
 1. Drag and drop the desired group/container from the groups onto the canvas.
