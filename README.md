@@ -3,7 +3,7 @@
 ## Visio Icon Conversion (vssx folder)
 
 Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  
-Need to determine whether to provide vss files for Visio 2003-2013.  
+TODO: Need to determine whether to provide vss files for Visio 2003-2013.  
 
 ### Icons
 
@@ -30,8 +30,6 @@ The existing 3-section rectangle doesn't work as a single container with divider
 Pre-Announce Names:
 1. VPC will be named Reserved Container in the published version until VPC is announced.  
 2. Performance Group will be named Reserved Group in the published version until GT is announced.
-
-TODO: Need to determine whether to provide vss files for Visio 2003-2013.  
 
 ## Visio Diagram Templates (vstx folder)
 
