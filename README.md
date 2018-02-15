@@ -5,31 +5,9 @@
 Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  
 Need to determine whether to provide vss files for Visio 2003-2013.  
 
-The Visio version contains the new groups and additional icons including some redesigns from design team and customer experiences (original and redesign are both available):
+The Visio version contains the new groups and additional icons including some redesigns from design team and customer experiences (original and redesign are both available).  The redesign include the icons for Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).
 
-| Name | Component | New? |
-| :--- | :--- | :--- |
-| Bare Metal Server | IaaS | New |
-| Block Storage | IaaS | New |
-| Bridge | IaaS | New |
-| Content Delivery Network | IaaS | New |
-| Data Backup Service | IaaS | New |
-| Direct Link | IaaS | New |
-| File Storage | IaaS | New |
-| Firewall | Security | Redesign |
-| Floating IP | IaaS | New |
-| Gateway | Security | Redesign | 
-| Load Balancer | IaaS | Redesign | 
-| Object Storage | IaaS | New |
-| Router | IaaS | New |
-| Scalable | IaaS | New |
-| Virtual Machine | IaaS | New |
-| Virtual Machine (GT) | IaaS | New |
-| Virtual Router Appliance | IaaS | New |
-| VPN | IaaS | Redesign |  
-| VPN | Security | Redesign |  
-| Availability Governance | IaaS | New |
-| Disaster Recovery Management | IaaS | New |
+![Icons](/images/icons.png)
 
 Pre-Announce Names:
 1. VPC will be named Reserved Container in the published version until VPC is announced.  
