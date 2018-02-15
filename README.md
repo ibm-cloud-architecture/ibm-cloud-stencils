@@ -17,20 +17,9 @@ Colorful icons pulled in from bluemix portal may not look professional when plac
 
 The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  
 
-The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or as a border.  The logos provided can be added to the border such as upper left corner if desired or the provided group name can be used or deleted to reclaim space.  The groups are different sizes to allow inner group to be dropped on top of outer groups.  The group sizes in the following table are in order of largest to smallest.
+The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or as a border.  The logos provided can be added to the border such as upper left corner if desired or the provided group name can be used or deleted to reclaim space.  The groups are different sizes to allow an inner group to be dropped on top of an outer groups.  
 
-| Object | Type | Color | Icon | Product |
-| :--- | :--- | :--- | :--- | :--- |
-| Cloud Universe | Container | Blue Solid | None | All |
-| IBM Cloud | Container | Blue Solid | IBM Cloud Logo | All |
-| Other Network | Container | Blue Solid | Classic, Network, Public Logo | All |
-| Virtual Private Cloud | Container | Blue Solid | VPC Logo | GC, GT |
-| Region | Container | Blue Dot | None | All | 
-| Zone | Container | Blue Dash | None | All |
-| Network ACL | Container |  Red Solid | ACL Logo | All |
-| Security Group | Border | Red Dash | None | All |
-| Auto Scale Group | Border | Green Solid | None | All |
-| Performance Group | Border | Green Dash | None | GT |
+![Groups](/images/groups.png)
 
 ## Visio Diagram Templates (vstx folder)
 
