@@ -13,7 +13,9 @@ The proposed icons in Visio that are different from other tools are shown below.
 
 ### Groups
 
-The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or as a border.
+The existing 3-section rectangle doesn't work as a single container with dividers.  Therefore, to take advantage of containers for Visio power users, the 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks.  
+
+The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group object is provided as either a container or as a border.  The logos provided can be added to the border such as upper left corner if desired or the provided group name can be used or deleted to reclaim space.  The groups are different sizes to allow inner group to be dropped on top of outer groups.  The group sizes in the following table are in order of largest to smallest.
 
 | Object | Type | Color | Icon | Product |
 | :--- | :--- | :--- | :--- | :--- |
