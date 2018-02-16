@@ -19,9 +19,9 @@ Icons pulled in from bluemix portal contain color which may not look professiona
 
 The proposed groups in Visio are shown below.
 
-The 3-section rectangle in use previously is accomplished with Cloud Universe + IBM Cloud + Other Networks in order to take advantage of containers for Visio power users and to bridge the former with the rest of the new containers.
+The existing 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks in order to take advantage of containers for Visio power users and to bridge the former with the new containers.
 
-The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group is provided as either a container or as a border.  The provided logos can be added to the border if desired or the provided group name can be used or deleted to reclaim space.  The groups are different sizes to allow an inner group to be dropped on top of an outer group.  
+The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group is provided as either a container or non-container.  The provided logos can be added to the border if desired or the provided group name can be used or deleted to reclaim space.  The groups have initial sizes that vary to allow an inner group to be dropped on top of an outer group.  
 
 ![Groups](/images/groups.png)
 
@@ -62,7 +62,7 @@ Template files are in the process of being converted to Visio from other tools i
 6. If a line obstructs the text, select text, right-click and select Font, go to Text Block, and select solid color of white for text background.
 7. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
 8. If subscript or superscript of the text or parts of the text is desired, highlight the desired text and press CTRL+= to make the highlighted text subscript or CTRL+SHIFT+= to make the highlighted text superscript. 
-9. Add lines between desired objects either shape-to-shape by clicking inside the shape or point-to-point by clicking on existing points on the border of the shape or add additional points to the object as desired.  Change line color to blue and weight to 1 1/2 pt.  Note that when objects are moved the shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
+9. Add lines between desired objects either object-to-object by clicking inside the objects or point-to-point by clicking on existing points on the border of the objects or add additional points to the objects as desired.  Change line color to blue and weight to 3 pt to allow the lines to standout from the groups.  Note that when objects are moved the shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
 
 ## Examples
 
