@@ -76,7 +76,7 @@ Notes:
 
 ### VPC with Classic Network
 
-![VPCwithClassic](/images/VPCwithClassic.png)
+![VPCwithClassicNetwork](/images/VPCwithClassicNetwork.png)
 
 ### Existing Hybrid Example Using Containers
 
