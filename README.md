@@ -70,9 +70,13 @@ Notes:
 1. The public gateway needs to be instantiated in each zone and can be attached to one or more subnets.
 
 
-### 3-Tier Multizone Security Group 
+### VPC with Multizone Security Group 
 
-![3-TierMultizoneSG](/images/MultizoneSG.png)
+![VPCwithMultizoneSG](/images/VPCwithMultizoneSG.png)
+
+### VPC with Classic Network
+
+![VPCwithClassic](/images/VPCwithClassic.png)
 
 ### Existing Hybrid Example Using Containers
 
