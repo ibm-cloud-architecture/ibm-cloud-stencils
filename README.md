@@ -60,7 +60,7 @@ Template files are in the process of being converted to Visio from other tools i
 4. Resize text to Calibri 10 pt if desired to fit more text than Calibri 12 pt.
 5. Change text to blue color if desired.  
 6. If a line obstructs the text, select text, right-click and select Font, go to Text Block, and select solid color of white for text background.
-7. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon. 
+7. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Connection Point under HOME, widen text box and move widened text box to be in the center under icon.  While in Text Block mode you can also move the text to other sides of the icon out of the way of lines as desired.  
 8. If subscript or superscript of the text or parts of the text is desired, highlight the desired text and press CTRL+= to make the highlighted text subscript or CTRL+SHIFT+= to make the highlighted text superscript. 
 9. Add lines between desired objects either object-to-object by clicking inside the objects or point-to-point by clicking on existing points on the border of the objects or add additional points to the objects as desired.  Change line color to blue and weight to 3 pt to allow the lines to standout from the groups.  Note that when objects are moved the shape-to-shape will automatically reorganize where the line attaches to the objects and point-to-point will always maintain the line at each point.
 
