@@ -70,11 +70,11 @@ Notes:
 1. The public gateway needs to be instantiated in each zone and can be attached to one or more subnets.
 
 
-### 3-Tier Multizone Security Group Example 
+### 3-Tier Multizone Security Group 
 
 ![3-TierMultizoneSG](/images/MultizoneSG.png)
 
-### Former Hybrid Example
+### Existing Hybrid Example Using Containers
 
 ![Hybrid](/images/Hybrid1.png)
 
