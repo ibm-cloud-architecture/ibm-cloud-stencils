@@ -70,6 +70,9 @@ Template files are in the process of being converted to Visio from other tools i
 
 ![3-TierMultizoneSG](/images/MultizoneSG.png)
 
+Notes:
+1. The public gateway needs to be instantiated in each zone and can be attached to one or more subnets.
+
 ### 3-Tier With Classic
 
 ![3-TierWithClassic](/images/3-tierWithClassic.png)
