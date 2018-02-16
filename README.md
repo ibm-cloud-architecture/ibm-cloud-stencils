@@ -66,17 +66,13 @@ Template files are in the process of being converted to Visio from other tools i
 
 ## Examples
 
-### 3-Tier
+### 3-Tier Multizone Security Group 
 
-![3-Tier](/images/3-tier.png)
+![3-TierMultizoneSG](/images/MultizoneSG.png)
 
 ### 3-Tier With Classic
 
 ![3-TierWithClassic](/images/3-tierWithClassic.png)
-
-### Multizone
-
-![Multizone](/images/Multizone.png)
 
 ### Hybrid
 
