@@ -70,7 +70,11 @@ Notes:
 1. The public gateway needs to be instantiated in each zone and can be attached to one or more subnets.
 
 
-### VPC with Multizone Security Group 
+### VPC with Single Zone Security Group 
+
+![VPCwithSinglezoneSG](/images/VPCwithsinglezoneSG.png)
+
+### VPC with Multi Zone Security Group 
 
 ![VPCwithMultizoneSG](/images/VPCwithMultizoneSG.png)
 
