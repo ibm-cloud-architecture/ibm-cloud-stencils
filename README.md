@@ -72,7 +72,7 @@ Notes:
 
 ### VPC with Single Zone Security Group 
 
-![VPCwithSinglezoneSG](/images/VPCwithsinglezoneSG.png)
+![VPCwithSinglezoneSG](/images/VPCwithSinglezoneSG.png)
 
 ### VPC with Multi Zone Security Group 
 
