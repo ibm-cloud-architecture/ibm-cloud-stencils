@@ -45,14 +45,14 @@ Template files are in the process of being converted from draw.io to Visio.  Als
 | Yellow | 237, 193, 28 | EDC11C | Alternative for lines |
 | IaaS Green | 141, 197, 63 | 8DC53F | IaaS icons |
 
-### Group Steps
+### Containers and Groups
 1. Drag and drop the desired group/container from the groups onto the canvas.
 2. Select a single name from the provided list in the region and zone or replace with another name.
 3. Optionally delete any group/container name that is not desired to save vertical space.
 4. Optionally add the provided logo icons on a border or inside the respective group/container for IBM Cloud, Virtual Private Cloud, and Network ACL.  
 5. Before a group can be placed over multiple containers the containers must be locked under FORMAT then unlocked after the group has been placed.
 
-### Icon Steps
+### Icons
 1. Drag icon from stencil to canvas.  Note that the master name is not automatically included with the icon on the canvas.
 2. If an icon does not go exactly where you want it (e.g. Visio tries to align the icon with other icons on the canvas), go to Snap & Glue and uncheck Snap and Glue, put the icon where you want it, then go back and recheck Snap and Glue if you prefer to have it turned on.  If you don't have Snap & Glue in the Quick Access Toolbar at the top of Visio, go to File -> Options -> Quick Access Toolbar, search All Commands and add Snap & Glue to the Quick Access Toolbar.
 3. To add text to an icon on the canvas, select the icon and type the desired text.
