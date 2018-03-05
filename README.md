@@ -20,7 +20,7 @@ The proposed containers and groups in Visio are shown below.
 
 The existing 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks in order to take advantage of containers for Visio power users and to bridge the former with the new containers.
 
-The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  The provided logos can be added to the border if desired or the provided name can be used or deleted to reclaim space.  The containers have initial sizes that vary to allow an inner container to be dropped on top of an outer container.
+The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  The provided logos can be added to the border if desired or the provided name can be used or deleted to reclaim space.  The containers have initial sizes that vary to allow an inner container to be dropped inside an outer container.
 
 ![Groups](/images/groups.png)
 
