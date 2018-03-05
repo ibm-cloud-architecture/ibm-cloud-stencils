@@ -12,19 +12,21 @@ The proposed icons in Visio that are different from other tools are shown below:
 
 This includes additional icons and some redesigns from VPC design team experiences (original and redesign are both available).  The redesigned icons are Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).  
 
-### Groups
+The default size of the master icons in Visio are approxiimately .5 inches x .5 inches which can be customized as desired on the canvas.
 
-The proposed groups in Visio are shown below.
+### Containers and Groups
+
+The proposed containers and groups in Visio are shown below.
 
 The existing 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks in order to take advantage of containers for Visio power users and to bridge the former with the new containers.
 
-The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  Each group is provided as either a container or non-container.  The provided logos can be added to the border if desired or the provided group name can be used or deleted to reclaim space.  The groups have initial sizes that vary to allow an inner group to be dropped on top of an outer group.  
+The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  The provided logos can be added to the border if desired or the provided group name can be used or deleted to reclaim space.  The containers have initial sizes that vary to allow an inner group to be dropped on top of an outer group.  
 
 ![Groups](/images/groups.png)
 
 ## Visio Diagram Templates (vstx folder)
 
-Template files are in the process of being converted to Visio from other tools including reference architectures from the client success team.  Also working with draw.io support to fix problems with the export of draw.io templates to Visio. 
+Template files are in the process of being converted from draw.io to Visio.  Also working with draw.io support to fix problems with their beta export of draw.io templates to Visio. 
 
 ## User Guide
 
