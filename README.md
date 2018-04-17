@@ -10,14 +10,18 @@
 
 ![Colors](/images/colors.png)
 
-### Installing the Stencils
+### Installing the Stencils (vssx files)
 
-1. Create a stencils folder: My Documents \ My Shapes \ IBM_Cloud_Visio_Stencils
-2. Copy the Stencils (vssx files) from the GitHub Stencils folder or zip to this folder.
-3. Create a templates folder: My Documents \ My Shapes \ IBM_Cloud_Visio_Stencils\Templates 
-4. Copy the Templates (vstx files) from the GitHub Templates folder or zip to this folder.
+1. Create a local stencils folder: My Documents \ My Shapes \ IBM_Cloud_Visio_Stencils
+2. Copy the contents of the GitHub Stencils folder or zip to the local stencils folder.
+
+### Installing the Templates (vstx files)
+
+1. Create a local templates folder: My Documents \ My Shapes \ IBM_Cloud_Visio_Stencils\Templates 
+2. Copy the contents of the GitHub Templates folder or zip to the local templates folder.
 
 ### Using a Template
+
 1. Select one of the teamplate files to bring up a fully editable diagram in Visio.
 2. Delete any icons and connecting lines that are not needed. 
 3. Go to More Shapes to the folder you created and select the stencils that you want to use in your diagrams.
