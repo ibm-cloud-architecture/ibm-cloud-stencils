@@ -1,18 +1,12 @@
-# IBM Cloud Visio Icons
+# IBM Cloud Visio Stencils and Templates
 
-## Visio Icon Conversion (vssx folder)
+## Stencils
 
-Conversion of IBM Cloud Icons from pptx to vssx for Visio 2013 and later.  
-TODO: Need to determine whether to provide vss files for Visio 2003-2013.  
+IBM Cloud Stencils (vssx files) are located in the Stencils folder.
 
 ### Icons
 
-The proposed icons in Visio that are different or additional from other tools are shown below:  
-![Icons](/images/icons.png)
-
-This includes additional icons and some redesigns from VPC design team experiences (original and redesign are both available).  The redesigned icons are Firewall (Security), Gateway (Security), Load Balancer (IaaS), and VPN (IaaS and Security).  
-
-The default size of the master icons in Visio are approxiimately .5 inches x .5 inches which can be customized as desired on the canvas.
+IBM Cloud Templates (vstx files) are located in the Templates folder.
 
 ### Containers and Groups
 
