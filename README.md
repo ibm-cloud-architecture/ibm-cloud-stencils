@@ -1,43 +1,24 @@
 # IBM Cloud Visio Stencils and Templates
 
-## Stencils
+## Folders
+
+### Stencils
 
 IBM Cloud Stencils (vssx files) are located in the Stencils folder.
 
-### Icons
+### Templates
 
 IBM Cloud Templates (vstx files) are located in the Templates folder.
-
-### Containers and Groups
-
-The proposed containers and groups in Visio are shown below.
-
-The existing 3-section rectangle is accomplished with Cloud Universe + IBM Cloud + Other Networks in order to take advantage of containers for Visio power users and to bridge the former with the new containers.
-
-The user has a choice of the outermost container being Cloud Universe or IBM Cloud or VPC.  The provided logos can be added to the border if desired or the provided name can be used or deleted to reclaim space.  The containers have initial sizes that vary to allow an inner container to be dropped inside an outer container and customized from there.
-
-![Groups](/images/groups.png)
-
-## Visio Diagram Templates (vstx folder)
-
-Template files are in the process of being converted from draw.io to Visio.  Also working with draw.io support to fix problems with their beta export of draw.io templates to Visio. 
-
+p
 ## User Guide
 
-### Legends
+### Legend
 
-![Legends](/images/legends.png)
+![Legend](/images/legend.png)
 
+### Colors
 
-### Color Scheme
-
-| Color | RGB | Hex | Description |
-| :--- | :--- | :--- | :--- |
-| Blue | 67, 120, 187 | 4378BB | Outer containers, text, and lines |
-| Red | 255, 0, 0 | FF0000 | Security containers and groups |
-| Green | 0, 136, 43 | 00882B | Non-security groups |
-| Yellow | 237, 193, 28 | EDC11C | Alternative for lines |
-| IaaS Green | 141, 197, 63 | 8DC53F | IaaS icons |
+![Colors](/images/colors.png
 
 ### Containers and Groups
 1. Drag and drop the desired group/container from the groups onto the canvas.
