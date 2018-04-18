@@ -24,11 +24,10 @@
 
 #### Containers
 1. Visio containers are provided for IBM Cloud to help organize diagrams.  
-2. The provided templates are already organized with Visio containers.  
-3. The provided Visio containers can also be added to diagrams.
-4. The provided Visio containers can be used to represent the sectional rectangle used in other IBM Cloud tools.
-5. The provided Visio containers have initial sizes that vary to allow an inner container to be dropped inside an outer container and the container sizes can then be customized as desired.
-4. If an object will be placed over multiple containers simultanenously the containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.  The CONTAINER TOOLS is only visible when a container is selected.
+2. The provided templates are already organized with Visio containers that represent the sectional rectangle used in other IBM Cloud tools, or the provided Visio containers can be added to diagrams.
+3. The provided Visio containers have initial sizes that vary to allow an inner container to be dropped inside an outer container which can then be customized as desired.
+4. The provided container logos can be placed on the container borders as desired.  The container logos are not provided directly with the provided containers because objects in containers cannot be saved as master containers.
+5. If an object will be placed over multiple containers simultanenously the containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.  The CONTAINER TOOLS is only visible when a container is selected.
 
 ![RibbonWithFormat](/images/ribbonwithformat.png)
 
@@ -48,13 +47,12 @@
 
 ![Ribbon](/images/ribbon.png)
 
-### Adding Icons
+### Adding Objects
 
 #### Containers
 1. Add a provided Visio container and resize as desired.
 2. If an existing container name is not desired you can delete the container name to save space.
-3. If a container logo is desired you can place one of the provided container logos on the container border.  The container logos are not provided directly with ithe provided containers because objects in containers cannot be saved as master containers.
-4. if an object will be placed over multiple containers simultanenously the containers must be locked under FORMAT then unlocked after the object has been put into position.
+3. If a container logo is desired you can place one of the provided container logos on the container border.  
 
 ![ContainerWithLogo](/images/containerwithlogo.png)
 
