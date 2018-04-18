@@ -57,7 +57,7 @@
 ![ContainerWithLogo](/images/containerwithlogo.png)
 
 #### Icons & Lines
-1. Drag an icon to the diagram. 
+1. Add an icon to a container. 
 2. Add text to the new icon by clicking on the icon and typing the desired text.
 3. Customize the size and color of the text under Font.
 4. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Tools, widen and reposition the text box.  You can also move the text to other sides of the icon out of the way of lines.  When done unselect the Text Block by selecting the Pointer Tool under Tools. 
