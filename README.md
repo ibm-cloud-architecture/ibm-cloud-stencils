@@ -26,7 +26,7 @@
 1. Visio containers are provided for IBM Cloud to help organize diagrams.  
 2. The provided templates are already organized with Visio containers.  
 3. The provided Visio containers can also be added to diagrams.
-4. If an object will be placed over multiple containers simultanenously the containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.
+4. If an object will be placed over multiple containers simultanenously the containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.  The CONTAINER TOOLS is only visible when a container is selected.
 
 ![RibbonWithFormat](/images/ribbonwithformat.png)
 
