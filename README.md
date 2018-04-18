@@ -36,13 +36,13 @@
 
 ![SnapAndGlue](/images/snapandglue.png)
 
-#### Lines
+#### Lines & Text
 1. Lines are added between icons using the Connector under Tools.
 2. Weight, color, and arrows of lines can be customized under Shape Styles.  
+3. Size and color of the icon text can be customized under Font.
+4. Position of the icon text can be modified by selecting the Text Block (Shift+Ctrl+4) under Tools.
 
-#### Text
-1. Size and color of the icon text can be customized under Font.
-2. Position of the icon text can be modified by selecting the Text Block (Shift+Ctrl+4) under Tools.
+![Ribbon](/images/ribbon.png)
 
 ### Adding IBM Cloud Icons
 
