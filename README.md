@@ -22,6 +22,13 @@
 
 ![Shapes](/images/shapes.png)
 
+#### Containers
+1. Visio containers are provided for IBM Cloud to help organize diagrams.  
+2. The provided templates are already organized with Visio containers.  
+3. The provided Visio containers can also be added to diagrams.
+
+![Container](/images/container.png)
+
 #### Snap & Glue
 1. Snap & Glue is enabled by default and helps with aligning icons and drawing lines among other things.
 2. Disabling Snap & Glue allows precise icon placement when an icon won't go where you want it because of alignment.
@@ -39,6 +46,14 @@
 ![Ribbon](/images/ribbon.png)
 
 ### Adding Icons
+
+#### Containers
+1. Add a provided Visio container to the diagram.
+2. If an existing container name is not desired you can delete the container name to save vertical space.
+3. If a logo is desired on the container you can add one of the provided logo icons to the container border.
+4. if an object will be placed over multiple containers simultanenously the containers must be locked under FORMAT then unlocked after the object has been put into position.
+
+![ContainerWithLogo](/images/containerwithlogo.png)
 
 #### Icons & Lines
 1. Drag an icon to the diagram. 
