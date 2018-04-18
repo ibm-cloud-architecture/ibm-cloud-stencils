@@ -31,8 +31,8 @@
 #### Snap & Glue
 1. Snap & Glue is enabled by default and helps with aligning icons and drawing lines among other things.
 2. Disabling Snap & Glue allows precise icon placement when an icon won't go where you want it because of alignment.
-3. To disable, uncheck Snap & Glue, put the icon where you want it, then go back and reenable Snap & Glue.
-4. If you don't have Snap & Glue in the Quick Access Toolbar at the top of Visio, go to File -> Options -> Quick Access Toolbar, search All Commands and add Snap & Glue to the Quick Access Toolbar.
+3. To disable Snap & Glue, select Snap & Glue menu in the Quick Access Toolbar, uncheck Snap & Glue, select OK and exit Snap & Glue menu, put the icon where you want it, then go back and reenable Snap & Glue.
+4. If you don't have Snap & Glue in the Quick Access Toolbar, go to File -> Options -> Quick Access Toolbar, search All Commands and add Snap & Glue to the Quick Access Toolbar.
 
 ![SnapAndGlue](/images/snapandglue.png)
 
