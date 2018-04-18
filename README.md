@@ -34,6 +34,8 @@
 3. To disable, uncheck Snap & Glue, put the icon where you want it, then go back and reenable Snap & Glue.
 4. If you don't have Snap & Glue in the Quick Access Toolbar at the top of Visio, go to File -> Options -> Quick Access Toolbar, search All Commands and add Snap & Glue to the Quick Access Toolbar.
 
+![SnapAndGlue](/images/snapandglue.png)
+
 #### Lines
 1. Lines are added between icons using the Connector under Tools.
 2. Weight, color, and arrows of lines can be customized under Shape Styles.  
