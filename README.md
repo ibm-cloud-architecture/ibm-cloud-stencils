@@ -46,13 +46,11 @@
 
 ### Adding IBM Cloud Icons
 
-#### Icons
+#### Icons & Lines
 1. Drag an icon to the diagram. 
 2. Add text to the new icon by clicking on the icon and typing the desired text.
 3. Customize the size and color of the text under Font.
 4. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Tools, widen and reposition the text box.  You can also move the text to other sides of the icon out of the way of lines.  When done unselect the Text Block by selecting the Pointer Tool under Tools. 
-
-#### Lines
-1. Add a line from the new icon to another icon by using the Connector under Tools. 
-2. Customize the weight and color of the line and add arrows under Shape Styles.
-3. If a line obstructs the text, select text, right-click and select Font, select solid color of white for text background, and select Bring to Front. 
+5. Add a line from the new icon to another icon by using the Connector under Tools. 
+6. Customize the weight and color of the line and add arrows under Shape Styles.
+7. If a line obstructs the text, select text, right-click and select Font, select solid color of white for text background, and select Bring to Front. 
