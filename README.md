@@ -25,6 +25,7 @@
 #### Shapes 
 1. Go to More Shapes and find the folder that you copied the stencils to.
 2. Select the stencils that you want to use in your diagrams.
+
 ![Shapes](/images/shapes.png)
 
 #### Snap & Glue
