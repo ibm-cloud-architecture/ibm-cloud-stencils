@@ -48,3 +48,5 @@
 5. Add a line from the new icon to another icon by using the Connector under Tools. 
 6. Customize the weight and color of the line and add arrows under Shape Styles.
 7. If a line obstructs the text, select text, right-click and select Font, select solid color of white for text background, and select Bring to Front. 
+
+![IconsAndLines](/images/iconsandlines.png)
