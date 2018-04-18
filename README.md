@@ -24,7 +24,7 @@
 
 #### Containers
 1. Visio containers are provided for IBM Cloud to help organize diagrams.  
-2. The provided templates are already organized with Visio containers that represent the sectional rectangle used in other IBM Cloud tools, or the provided Visio containers can be added to diagrams.
+2. The templates are already organized with Visio containers that represent the sectional rectangle used in other IBM Cloud tools.
 3. The provided Visio containers have initial sizes that vary to allow an inner container to be dropped inside an outer container which can then be customized as desired.
 4. The provided container logos can be placed on the container borders as desired.  The container logos are not provided directly with the containers due to restrictions that require empty master containers.
 5. If an object will be placed over multiple containers simultanenously the containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.  The CONTAINER TOOLS is only visible when a container is selected.
