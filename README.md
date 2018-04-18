@@ -51,7 +51,7 @@
 #### Containers
 1. Add a provided Visio container and resize as desired.
 2. If an existing container name is not desired you can delete the container name to save space.
-3. If a container logo is desired you can place one of the provided container logos on the container border.  The container logos are not provided directly with containers because objects in containers cannot be saved as master containers.
+3. If a container logo is desired you can place one of the provided container logos on the container border.  The container logos are not provided directly with ithe provided containers because objects in containers cannot be saved as master containers.
 4. if an object will be placed over multiple containers simultanenously the containers must be locked under FORMAT then unlocked after the object has been put into position.
 
 ![ContainerWithLogo](/images/containerwithlogo.png)
