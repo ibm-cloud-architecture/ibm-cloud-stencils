@@ -26,7 +26,6 @@
 ![Shapes](/images/shapes.png)
 1. Go to More Shapes and find the folder that you copied the stencils to.
 2. Select the stencils that you want to use in your diagrams.
-![Shapes](/images/shapes.png)
 
 #### Snap & Glue
 1. Snap & Glue is enabled by default and helps with aligning icons and drawing lines among other things.
