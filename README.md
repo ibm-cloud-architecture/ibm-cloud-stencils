@@ -49,7 +49,7 @@
 ### Adding Icons
 
 #### Containers
-1. Add a provided Visio container to the diagram.
+1. Add a provided Visio container.
 2. If an existing container name is not desired you can delete the container name to save space.
 3. If a logo is desired on the container you can add one of the provided logo icons to the container border.
 4. if an object will be placed over multiple containers simultanenously the containers must be locked under FORMAT then unlocked after the object has been put into position.
