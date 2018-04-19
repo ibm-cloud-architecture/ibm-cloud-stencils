@@ -57,9 +57,9 @@
 ![ContainerWithLogo](/images/containerwithlogo.png)
 
 #### Icons & Lines
-1. Add an icon to your diagram.  The provided icons have a standard size of 0.5 square inches which can be customized on the canvas as desired.
+1. Add an icon to your diagram.  The icon size is generally 0.5 square inches which can be customized as desired.
 2. Add text to the new icon by clicking on the icon and typing the desired text.
-3. Customize the size and color of the text under Font.  The Visio default for size of text is 12 pt which can be customized to 8 pt (as set in the provided templates) or other size as desired.
+3. Customize the size and color of the text under Font.  The provided templates have a text font size of 8 pt which can be customized as desired.
 4. To subscript or superscript, highlight the desired part of the text and press "Ctrl =" to make the highlighted text subscript or "Ctrl Shift =" to make the highlighted text superscript. 
 5. If any of the text wraps to next line, select text, select Text Block (Shift+Ctrl+4) under Tools, widen and reposition the text box.  You can also move the text to other sides of the icon out of the way of lines.  When done unselect the Text Block by selecting the Pointer Tool under Tools. 
 6. Add a line from the new icon to another icon by using the Connector under Tools. 
