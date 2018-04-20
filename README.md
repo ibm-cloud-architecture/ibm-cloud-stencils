@@ -54,7 +54,7 @@
 2. If an existing container name is not desired you can delete the container name to save space.
 3. If a container logo is desired you can place one of the provided container logos on the container border.  
 
-![ContainerWithLogo](/images/containerwithlogo.png)
+![Containers](/images/containers.png)
 
 #### Icons & Lines
 1. Add an icon to your diagram.  The icon size is generally 0.5 square inches which can be customized as desired.
