@@ -4,8 +4,7 @@
 
 ### Installation
 
-1. The location of local folders for shapes, templates, and drawings is defined in:
-File -> Options -> Advanced -> File Locations...
+1. The location of local folders for Visio is defined in:  File -> Options -> Advanced -> File Locations...
 2. Create a local stencils folder named IBM_Cloud_Visio_2013 in the local shapes folder.  
 3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.
 4. Create a local templates folder named IBM_Cloud_Visio_2013 in the local templates folder.  
