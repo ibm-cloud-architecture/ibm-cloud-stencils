@@ -4,10 +4,10 @@
 
 ### Installation
 
-1. The location of local folders for Visio is defined in:  File -> Options -> Advanced -> File Locations...
-2. Create a local stencils folder named IBM_Cloud_Visio_2013 in the local shapes folder.  
+1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
+2. Create a folder named IBM_Cloud_Visio_2013 in the local stencils folder.  
 3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.
-4. Create a local templates folder named IBM_Cloud_Visio_2013 in the local templates folder.  
+4. Create a folder named IBM_Cloud_Visio_2013 in the local templates folder. 
 5. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
 
 ### Setup
@@ -55,8 +55,6 @@
 2. If an existing container name is not desired you can delete the container name to save space.
 3. If a container logo is desired you can place one of the provided container logos on the container border.  
 
-![Containers](/images/containers.png)
-
 #### Icons & Lines
 1. Add an icon to your diagram.  The icon size is generally 0.5 square inches which can be customized as desired.
 2. Add text to the new icon by clicking on the icon and typing the desired text.
@@ -66,5 +64,3 @@
 6. Add a line from the new icon to another icon by using the Connector under Tools. 
 7. Customize the weight and color of the line and add arrows under Shape Styles.
 8. If a line obstructs the text, select text, right-click and select Font, select solid color of white for text background, and select Bring to Front. 
-
-![IconsAndLines](/images/iconsandlines.png)
