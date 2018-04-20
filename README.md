@@ -16,7 +16,7 @@
 
 ![Containers](/images/containers.png)
 
-2. Go to More Shapes in Visio, find the folder containing the stencils, and siect the stencils that you want to use in your diagrams.
+2. Go to More Shapes in Visio, find the folder containing the stencils, and select the stencils that you want to use in your diagrams.
 
 ![Shapes](/images/shapes.png)
 
