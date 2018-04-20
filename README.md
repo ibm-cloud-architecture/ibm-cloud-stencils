@@ -4,30 +4,31 @@
 
 ### Installation
 
-1. Create a local stencils folder: My Documents \ My Shapes \ IBM_Cloud_Visio_2013
-2. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.
-3. Create a local templates folder: My Documents \ My Shapes \ IBM_Cloud_Visio_2013\Templates 
-4. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
-5. Select one of the tamplate files to bring up a fully editable diagram in Visio using standard colors below.
-6. Delete any icons and connecting lines that are not needed. 
-7. Proceed with creating your custom Visio diagram for IBM Cloud.
+1. The location of local folders for shapes, templates, and drawings is defined in File -> Options -> Advanced -> File Locations...
+2. Create a local stencils folder named IBM_Cloud_Visio_2013 in the local shapes folder.  
+3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.
+4. Create a local templates folder named IBM_Cloud_Visio_2013 in the local templates folder.  
+5. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
+
+### Setup
+
+1. Visio containers with optional logos are provided and demonstrated in the templates to help organize diagrams.
+
+![Containers](/images/containers.png)
+
+2. Go to More Shapes in Visio, find the folder containing the stencils, and siect the stencils that you want to use in your diagrams.
+
+![Shapes](/images/shapes.png)
+
+3. Review the standard colors used in the templates.
 
 ![Colors](/images/colors.png)
 
 ### Navigating Visio
 
-#### Shapes 
-1. Go to More Shapes and find the folder that you copied the stencils to.
-2. Select the stencils that you want to use in your diagrams.
-
-![Shapes](/images/shapes.png)
-
 #### Containers
-1. Visio containers are provided for IBM Cloud to help organize diagrams.  
-2. The templates are already organized with Visio containers that represent the sectional rectangle used in other IBM Cloud tools.
-3. The provided Visio containers have initial sizes that vary to allow an inner container to be dropped inside an outer container which can then be customized as desired.
-4. The provided container logos can be placed on the container borders as desired.  The container logos are not provided directly with the containers due to a Visio requirement for empty master containers, but this also allows customization of where to place the container logo or whether to even include a container logo.
-5. If an object will be placed over multiple containers simultanenously the containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.  The CONTAINER TOOLS is only visible when a container is selected.
+1. Select a container to enable the CONTAINER TOOLS in the ribbon.
+2. If an object will be placed over multiple containers simultanenously the containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.
 
 ![RibbonWithFormat](/images/ribbonwithformat.png)
 
