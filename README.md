@@ -5,16 +5,16 @@
 ### Installation
 
 1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
-2. Create a folder named IBM_Cloud_Visio_2013 in the local stencils folder.  
+2. Create a folder named *IBM Cloud* in the local stencils folder.  
 3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.
-4. Create a folder named IBM_Cloud_Visio_2013 in the local templates folder. 
+4. Create a folder named *IBM Cloud* in the local templates folder. 
 5. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
 
 ### Setup
 
-1. Visio containers with optional logos are provided and demonstrated in the templates to help organize diagrams.
+1. Groups with Visio containers and optional logos are provided and demonstrated in the templates to help organize diagrams.
 
-![Containers](/images/containers.png)
+![Groups](/images/groups.png)
 
 2. Go to More Shapes in Visio, find the folder containing the stencils, and select the stencils that you want to use in your diagrams.
 
@@ -26,9 +26,9 @@
 
 ### Navigating Visio
 
-#### Containers
-1. Select a container to enable the CONTAINER TOOLS in the ribbon.
-2. If an object will be placed over multiple containers simultanenously the containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.
+#### Groups
+1. Select a group implemented as a Visio container to enable the CONTAINER TOOLS in the ribbon.
+2. If an object will be placed over multiple Visio containers simultanenously the Visio containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.
 
 ![RibbonWithFormat](/images/ribbonwithformat.png)
 
