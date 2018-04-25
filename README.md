@@ -42,18 +42,19 @@
 
 #### Lines & Text
 1. Lines are added between icons using the Connector under Tools.
-2. Weight, color, and arrows of lines can be customized under Shape Styles.  
-3. Size and color of the icon text can be customized under Font.
-4. Position of the icon text can be modified by selecting the Text Block (Shift+Ctrl+4) under Tools.
+2. Lines can have additional angles either by holding the shift key and dragging to break out the midpoint of the line with four new right angles, or by holding the control key to create a single angle of an arbitrary degree at the midpoint.
+3. Weight, color, and arrows of lines can be customized under Shape Styles.  
+4. Size and color of the icon text can be customized under Font.
+5. Position of the icon text can be modified by selecting the Text Block (Shift+Ctrl+4) under Tools.
 
 ![Ribbon](/images/ribbon.png)
 
 ### Adding Objects
 
-#### Containers
-1. Add a provided Visio container and resize as desired.
-2. If an existing container name is not desired you can delete the container name to save space.
-3. If a container logo is desired you can place one of the provided container logos on the container border.  
+#### Groups
+1. Add a provided group and resize as desired.
+2. If an existing group name is not desired you can delete the name to save space.
+3. If a group logo is desired you can place one of the provided logos on the group border.  
 
 #### Icons & Lines
 1. Add an icon to your diagram.  The icon size is generally 0.5 square inches which can be customized as desired.
