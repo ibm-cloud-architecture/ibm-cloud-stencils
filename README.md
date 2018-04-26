@@ -42,7 +42,7 @@
 
 #### Lines & Text
 1. Lines are added between icons using the Connector under Tools.
-2. Lines can have additional angles either by holding the shift key and dragging to break out the midpoint of the line with four new right angles, or by holding the control key to create a single angle of an arbitrary degree at the midpoint.
+2. Lines can have additional angles added either by holding the shift key and dragging to break out the midpoint of the line with four new right angles, or by holding the control key to create a single angle of an arbitrary degree at the midpoint.
 3. Weight, color, and arrows of lines can be customized under Shape Styles.  
 4. Size and color of the icon text can be customized under Font.
 5. Position of the icon text can be modified by selecting the Text Block (Shift+Ctrl+4) under Tools.
