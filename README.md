@@ -54,9 +54,9 @@
 ### Adding Objects
 
 #### Groups
-1. Add a provided group and resize as desired.
-2. If an existing group name is not desired you can delete the name to save space.
-3. If a group logo is desired you can place one of the provided logos on the group border.  
+1. Add a group and resize as desired.
+2. You can delete the group name to save space if desired.
+3. You can place a logo on the group border if desired.  
 
 #### Icons & Lines
 1. Add an icon to your diagram.  The icon size is generally 0.5 square inches which can be customized as desired.
