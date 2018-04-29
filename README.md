@@ -18,7 +18,7 @@
 
 ![Shapes](/images/shapes.png)
 
-3.Groups with Visio containers are provided and demonstrated in the templates to help organize diagrams.
+3. Groups with Visio containers are provided and demonstrated in the templates to help organize diagrams.
 
 ![Groups](/images/groups.png)
 
