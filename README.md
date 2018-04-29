@@ -12,15 +12,17 @@
 
 ### Setup
 
-1. Groups with Visio containers and optional logos are provided and demonstrated in the templates to help organize diagrams.
-
-![Groups](/images/groups.png)
+1. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that will not use along with any connection lines.
 
 2. Go to More Shapes in Visio, find the folder containing the stencils, and select the stencils that you want to use in your diagrams.
 
 ![Shapes](/images/shapes.png)
 
-3. Review the standard colors used in the templates.
+3.Groups with Visio containers are provided and demonstrated in the templates to help organize diagrams.
+
+![Groups](/images/groups.png)
+
+4. Review the standard colors used in the templates.
 
 ![Colors](/images/colors.png)
 
