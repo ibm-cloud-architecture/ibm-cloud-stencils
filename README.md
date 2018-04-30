@@ -6,7 +6,7 @@
 
 1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
 2. Create a folder named *IBM Cloud* in the local stencils folder.  
-3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.  Stencils provided as PREVIEW are particularly subject to change.
+3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.  Stencils provided as PREVIEW are subject to change.
 4. Create a folder named *IBM Cloud* in the local templates folder. 
 5. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
 
