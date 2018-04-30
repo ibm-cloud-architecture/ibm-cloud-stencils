@@ -18,7 +18,7 @@
 
 ![Shapes](/images/shapes.png)
 
-3. Groups are provided as Visio containers to help organize diagrams as demonstrated in the templates.
+3. Groups help organize diagrams as demonstrated in the templates.
 
 ![Groups](/images/groups.png)
 
@@ -28,12 +28,14 @@
 
 ### Navigating Visio
 
+<!---
 #### Groups
-1. Select a group implemented as a Visio container to enable the CONTAINER TOOLS in the ribbon.
+1. Select a group to enable the CONTAINER TOOLS in the ribbon.
 2. If an object will be placed over multiple Visio containers simultanenously the Visio containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.
 
 ![RibbonWithFormat](/images/ribbonwithformat.png)
-
+-->
+ 
 #### Snap & Glue
 1. Snap & Glue is enabled by default and helps with aligning icons and drawing lines among other things.
 2. Disabling Snap & Glue allows precise icon placement when an icon won't go where you want it because of alignment.
