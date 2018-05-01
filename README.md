@@ -28,7 +28,7 @@ Notes:
 
 ![RedesignedIcons](/images/redesignedicons.png)
 
-5. Recently added icons:
+5. Recently added icons include:
 
 ![NewIcons](/images/newicons.png)
 
