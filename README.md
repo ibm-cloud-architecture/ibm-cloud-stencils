@@ -2,29 +2,25 @@
 
 ## User Guide
 
-### Installation
+### Installation & Setup
 
 1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
 2. Create a folder named *IBM Cloud* in the local stencils folder.  
 3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.  
 4. Create a folder named *IBM Cloud* in the local templates folder. 
 5. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
-
-### Setup
-
-1. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that will not use along with any connection lines.
-
-2. Go to More Shapes in Visio, find the folder containing the stencils, and select the stencils that you want to use in your diagrams.
+6. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that will not use along with any connection lines.
+7. Go to More Shapes in Visio, find the folder containing the stencils, and select the stencils that you want to use in your diagrams.
 
 ![Shapes](/images/shapes.png)
 
 Notes:
 1. Stencils provided as PREVIEW are subject to change.
-2. Groups help organize diagrams as demonstrated in the templates.
+2. Groups help organize diagrams:
 
 ![Groups](/images/groups.png)
 
-3. Review the standard colors used in the templates.
+3. Standard colors include:
 
 ![Colors](/images/colors.png)
 
