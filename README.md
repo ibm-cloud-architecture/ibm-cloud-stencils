@@ -2,20 +2,10 @@
 
 ## User Guide
 
-### Installation & Setup
+### Notes
 
-1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
-2. Create a folder named *IBM Cloud* in the local stencils folder.  
-3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.  
-4. Create a folder named *IBM Cloud* in the local templates folder. 
-5. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
-6. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that you will not use along with any connecting lines.
-7. Go to More Shapes in Visio, find the IBM Cloud stencils, and select the ones you want to use in your diagrams.
-
-![Shapes](/images/shapes.png)
-
-Notes:
 1. Stencils provided as PREVIEW are subject to change.
+
 2. Groups are provided to help organize diagrams:
 
 ![Groups](/images/groups.png)
@@ -32,16 +22,20 @@ Notes:
 
 ![NewIcons](/images/newicons.png)
 
+### Installation & Setup
+
+1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
+2. Create a folder named *IBM Cloud* in the local stencils folder.  
+3. Copy the contents of the GitHub stencils folder (vssx files) to the local stencils folder.  
+4. Create a folder named *IBM Cloud* in the local templates folder. 
+5. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
+6. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that you will not use along with any connecting lines.
+7. Go to More Shapes in Visio, find the IBM Cloud stencils, and select the ones you want to use in your diagrams.
+
+![Shapes](/images/shapes.png)
+
 ### Navigating Visio
 
-<!---
-#### Groups
-1. Select a group to enable the CONTAINER TOOLS in the ribbon.
-2. If an object will be placed over multiple Visio containers simultanenously the Visio containers must be locked under Membership in the CONTAINER TOOLS FORMAT, then unlocked after the object has been put into position.
-
-![RibbonWithFormat](/images/ribbonwithformat.png)
--->
- 
 #### Snap & Glue
 1. Snap & Glue is enabled by default and helps with aligning icons and drawing lines among other things.
 2. Disabling Snap & Glue allows precise icon placement when an icon won't go where you want it because of alignment.
