@@ -16,15 +16,15 @@
 
 Notes:
 1. Stencils provided as PREVIEW are subject to change.
-2. Groups help organize diagrams:
+2. Groups are provided to help organize diagrams:
 
 ![Groups](/images/groups.png)
 
-3. Standard colors include:
+3. Standard colors used in templates include:
 
 ![Colors](/images/colors.png)
 
-4. Redesigned icons (some originals are still available):
+4. Redesigned icons include (some originals are still available):
 
 ![RedesignedIcons](/images/redesignedicons.png)
 
