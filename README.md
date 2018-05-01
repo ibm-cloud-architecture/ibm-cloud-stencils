@@ -10,7 +10,7 @@
 4. Create a folder named *IBM Cloud* in the local templates folder. 
 5. Copy the contents of the GitHub templates folder (vstx files) to the local templates folder.
 6. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that will not use along with any connection lines.
-7. Go to More Shapes in Visio, find the folder containing the stencils, and select the stencils that you want to use in your diagrams.
+7. Go to More Shapes in Visio, find the IBM Cloud stencils, and select the ones you want to use in your diagrams.
 
 ![Shapes](/images/shapes.png)
 
