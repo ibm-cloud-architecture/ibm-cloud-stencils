@@ -10,17 +10,17 @@
 
 ![Groups](/images/groups.png)
 
-3. Standard colors used in templates include:
-
-![Colors](/images/colors.png)
-
-4. Redesigned icons include:
+3. Redesigned icons include:
 
 ![RedesignedIcons](/images/redesignedicons.png)
 
-5. Recently added icons include:
+4. Recently added icons include:
 
 ![NewIcons](/images/newicons.png)
+
+5. Standard colors used in templates include:
+
+![Colors](/images/colors.png)
 
 ### Installation & Setup
 
