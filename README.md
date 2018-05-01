@@ -24,6 +24,10 @@ Notes:
 
 ![Colors](/images/colors.png)
 
+4. Redesigned icons (some originals are also available):
+
+![RedesignedIcons](/images/redesignedicons.png)
+
 ### Navigating Visio
 
 <!---
