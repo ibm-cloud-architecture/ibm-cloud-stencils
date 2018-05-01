@@ -28,6 +28,10 @@ Notes:
 
 ![RedesignedIcons](/images/redesignedicons.png)
 
+5. Recently added icons:
+
+![NewIcons](/images/newicons.png)
+
 ### Navigating Visio
 
 <!---
