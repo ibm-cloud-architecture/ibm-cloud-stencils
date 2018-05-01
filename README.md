@@ -24,7 +24,7 @@ Notes:
 
 ![Colors](/images/colors.png)
 
-4. Redesigned icons (some originals are also available):
+4. Redesigned icons (some originals are still available):
 
 ![RedesignedIcons](/images/redesignedicons.png)
 
