@@ -4,17 +4,17 @@
 
 ### Notes
 
-1. Stencils provided as PREVIEW are subject to change.
+1. Stencils provided as PREVIEW and other stencils are subject to change.
 
 2. Groups are provided to help organize diagrams:
 
 ![Groups](/images/groups.png)
 
-3. Redesigned icons include:
+3. Alternative icons include:
 
 ![RedesignedIcons](/images/redesignedicons.png)
 
-4. Recently added icons include:
+4. New icons include:
 
 ![NewIcons](/images/newicons.png)
 
