@@ -4,7 +4,7 @@
 
 ### Notes
 
-1. Stencils provided as PREVIEW and other stencils are subject to change.
+1. Stencils are subject to change especially stencils provided as PREVIEW.
 
 2. Groups are provided to help organize diagrams:
 
