@@ -22,6 +22,14 @@
 
 ![Colors](/images/colors.png)
 
+### Templates
+
+#### BDA Template
+![bdaarch](/images/bdaarch.png)
+
+#### IoT Template
+![iotarch](/images/iotarch.png)
+
 ### Installation & Setup
 
 1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
