@@ -14,7 +14,7 @@
 
 ![RedesignedIcons](/images/redesignedicons.png)
 
-4. New icons include:
+4. Additional icons include:
 
 ![NewIcons](/images/newicons.png)
 
