@@ -4,6 +4,7 @@
 
 1. PREVIEW stencils and other stencils are subject to change.
 2. Groups are provided to help organize diagrams.
+3. Icons not mentioned below are similar to other tools.
 
 ### Groups
 
