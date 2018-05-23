@@ -1,7 +1,11 @@
 # IBM Cloud Visio Stencils
 
-![Stencils](/stencils.md)
+Welcome to the IBM Cloud Visio Stencils.
 
-![Templates](/templates.md)
+## Components
 
-![Tutorial](/tutorial.md)
+| |
+| :--: |
+| ![Stencils](/stencils.md) | 
+| ![Templates](/templates.md) |
+| ![Tutorial](/tutorial.md) |
