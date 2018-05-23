@@ -16,10 +16,6 @@
 
 ![NewIcons](/images/newicons.png)
 
-5. Standard colors used in templates include:
-
-![Colors](/images/colors.png)
-
 ![Templates](/templates.md)
 
 ![Tutorial](/tutorial.md)

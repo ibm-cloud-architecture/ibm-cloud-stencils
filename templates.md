@@ -2,6 +2,10 @@
 
 ### Templates
 
+#### Colors
+
+![Colors](/images/colors.png)
+
 #### BDA Template
 ![bdaarch](/images/bdaarch.png)
 
