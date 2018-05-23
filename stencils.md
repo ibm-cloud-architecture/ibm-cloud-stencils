@@ -16,3 +16,5 @@
 ### Additional Icons
 
 ![NewIcons](/images/newicons.png)
+
+Return to [Components](/README.md)
