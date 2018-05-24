@@ -6,5 +6,5 @@ Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams with popular d
 
 | |
 | :---: |
-| [Microsoft Visio 2013](visio/visio.md) | 
+| [IBM Cloud Stencils for Microsoft Visio](visio/visio.md) | 
 

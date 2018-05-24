@@ -1,4 +1,4 @@
-# IBM Cloud Stencils for Microsoft Visio 2013
+# IBM Cloud Stencils for Microsoft Visio
 
 ### Legend
 
