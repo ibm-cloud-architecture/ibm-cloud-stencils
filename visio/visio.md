@@ -10,3 +10,4 @@ Welcome to the IBM Cloud Visio Stencils for creating IBM Cloud diagrams with Vis
 
 ###### Note: Stencils are subject to change.  Templates are provided to help start a fully editable diagram.  The tutorial introduces features of Visio that can be useful when creating IBM Cloud diagrams.
 
+Return to [Tools](/README.md) 
