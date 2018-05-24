@@ -12,8 +12,6 @@
 6. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that you will not use along with any connecting lines.
 7. Go to More Shapes in Visio, find the IBM Cloud stencils, and select the ones you want to use in your diagrams.
 
-![Shapes](../images/tutorial/shapes.png)
-
 ### Navigating Visio
 
 #### Snap & Glue
@@ -22,16 +20,12 @@
 3. To disable Snap & Glue, select Snap & Glue menu in the Quick Access Toolbar, uncheck Snap & Glue, select OK and exit Snap & Glue menu, put the icon where you want it, then go back and reenable Snap & Glue.
 4. If you don't have Snap & Glue in the Quick Access Toolbar, go to File -> Options -> Quick Access Toolbar, search All Commands and add Snap & Glue to the Quick Access Toolbar.
 
-![SnapAndGlue](../images/tutorial/snapandglue.png)
-
 #### Lines & Text
 1. Lines are added between icons using the Connector under Tools.
 2. Lines can have additional angles added either by holding the shift key and dragging to break out the midpoint of the line with four new right angles, or by holding the control key to create a single angle of an arbitrary degree at the midpoint.
 3. Weight, color, and arrows of lines can be customized under Shape Styles.  
 4. Size and color of the icon text can be customized under Font.
 5. Position of the icon text can be modified by selecting the Text Block (Shift+Ctrl+4) under Tools.
-
-![Ribbon](../images/tutorial/ribbon.png)
 
 ### Adding Objects
 
