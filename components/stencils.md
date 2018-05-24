@@ -19,45 +19,45 @@
 ### All Icons
 
 #### Analytics
-![Analytics](/images/icons/analytics.png)
+![Analytics](/images/stencils/analytics.png)
 
 #### Applications
-![Applications](/images/icons/applications.png)
+![Applications](/images/stencils/applications.png)
 
 #### Blockchain
-![Blockchain](/images/icons/blockchain.png)
+![Blockchain](/images/stencils/blockchain.png)
 
 #### Data
-![Data](/images/icons/data.png)
+![Data](/images/stencils/data.png)
 
 #### DevOps
-![DevOps](/images/icons/devops.png)
+![DevOps](/images/stencils/devops.png)
 
 #### Groups
-![Groups](/images/icons/groups.png)
+![Groups](/images/stencils/groups.png)
 
 #### Infrastructure
-![Infrastructure](/images/icons/infrastructure.png)
+![Infrastructure](/images/stencils/infrastructure.png)
 
 #### Management
-![Management](/images/icons/management.png)
+![Management](/images/stencils/management.png)
 
 #### Miscellaneous
-![Miscellaneous](/images/icons/miscellaneous.png)
+![Miscellaneous](/images/stencils/miscellaneous.png)
 
 #### Operations
-![Operations](/images/icons/operations.png)
+![Operations](/images/stencils/operations.png)
 
 #### Security
-![Security](/images/icons/security.png)
+![Security](/images/stencils/security.png)
 
 #### Services
-![Services](/images/icons/services.png)
+![Services](/images/stencils/services.png)
 
 #### Social
-![Social](/images/icons/social.png)
+![Social](/images/stencils/social.png)
 
 #### Users
-![Users](/images/icons/users.png)
+![Users](/images/stencils/users.png)
 
 Return to [Components](/README.md)
