@@ -4,12 +4,12 @@
 
 #### Colors
 
-![Colors](/images/templates/colors.png)
+![Colors](../images/templates/colors.png)
 
 #### BDA Template
-![bdaarch](/images/templates/bdaarch.png)
+![bdaarch](../images/templates/bdaarch.png)
 
 #### IoT Template
-![iotarch](/images/templates/iotarch.png)
+![iotarch](../images/templates/iotarch.png)
 
-Return to [Components](/README.md)
+Return to [Components](../visio.md)
