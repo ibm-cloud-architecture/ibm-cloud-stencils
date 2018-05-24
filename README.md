@@ -2,7 +2,7 @@
 
 Welcome to the IBM Cloud Visio Stencils for Visio 2013.  
 
-PREVIEW and other stencils are subject to change.  Groups are introduced to help organize diagrams.  Templates are provided to start a fully editable diagram.  The tutorial introduces some features of Visio for working with the IBM Cloud Visio Stencils.
+PREVIEW stencils and other stencils are subject to change.  Groups are introduced to help organize diagrams.  Templates are provided to start a fully editable diagram.  The tutorial introduces some features of Visio for working with the IBM Cloud Visio Stencils.
 
 ## Components
 
