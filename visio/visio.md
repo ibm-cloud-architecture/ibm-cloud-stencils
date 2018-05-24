@@ -1,6 +1,6 @@
-# IBM Cloud Visio Stencils
+# IBM Cloud Stencils for Microsoft Visio 2013
 
-Welcome to the IBM Cloud Visio Stencils for creating IBM Cloud diagrams with Visio 2013.  
+Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams with Microsoft Visio 2013.  
 
 ## Components
 
