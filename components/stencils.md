@@ -4,10 +4,6 @@
 
 ![Legend](/images/legend.png)
 
-### Group Icons
-
-![Groups](/images/icons/groups.png)
-
 ### Group Nesting
 
 ![Groups](/images/nesting.png)
@@ -36,6 +32,9 @@
 
 #### DevOps
 ![DevOps](/images/icons/devops.png)
+
+#### Groups
+![Groups](/images/icons/groups.png)
 
 #### Infrastructure
 ![Infrastructure](/images/icons/infrastructure.png)
