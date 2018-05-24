@@ -23,7 +23,7 @@
 ![Analytics](/images/icons/analytics.png)
 
 #### Applications
-![Applications](/images/icons/applicaitons.png)
+![Applications](/images/icons/applications.png)
 
 #### Blockchain
 ![Blockchain](/images/icons/blockchain.png)
