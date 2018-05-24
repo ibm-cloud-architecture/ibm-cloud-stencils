@@ -1,6 +1,6 @@
 # IBM Cloud Stencils
 
-Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams with your favorite diagram tools.
+Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams with popular diagram tools.
 
 ## Tools
 
