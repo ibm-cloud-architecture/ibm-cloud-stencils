@@ -1,6 +1,6 @@
 # IBM Cloud Visio Stencils
 
-Welcome to the IBM Cloud Visio Stencils.  PREVIEW stencils and other Stencils are subject to change.  Groups are introduced with the Visio stencils to help organize diagrams.
+Welcome to the IBM Cloud Visio Stencils.  PREVIEW stencils and other stencils are subject to change.  Groups are introduced with the Visio stencils to help organize diagrams.
 
 ## Components
 

@@ -4,13 +4,13 @@
 
 ![Legend](/images/legend.png)
 
-### Groups
+### Group Icons
 
 ![Groups](/images/icons/groups.png)
 
-#### Nesting
+### Group Nesting
 
-![Groups](/images/icons/nesting.png)
+![Groups](/images/nesting.png)
 
 ### Alternative Icons 
 
