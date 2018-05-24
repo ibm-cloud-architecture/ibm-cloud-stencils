@@ -2,19 +2,19 @@
 
 ### Legend
 
-![Legend](/images/legend.png)
+![Legend](/images/stencils/legend.png)
 
 ### Group Nesting
 
-![Groups](/images/nesting.png)
+![Groups](/images/stencils/nesting.png)
 
 ### Alternative Icons 
 
-![RedesignedIcons](/images/redesignedicons.png)
+![RedesignedIcons](/images/stencils/alternativeicons.png)
 
 ### Additional Icons
 
-![NewIcons](/images/newicons.png)
+![NewIcons](/images/stencils/additionalicons.png)
 
 ### All Icons
 
