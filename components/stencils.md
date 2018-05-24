@@ -1,13 +1,16 @@
 # IBM Cloud Visio Stencils
 
-### Notes
+### Legend
 
-1. PREVIEW stencils and other stencils are subject to change.
-2. Groups are provided to help organize diagrams.
+![Legend](/images/legend.png)
 
 ### Groups
 
-![Groups](/images/groups.png)
+![Groups](/images/icons/groups.png)
+
+#### Nesting
+
+![Groups](/images/icons/nesting.png)
 
 ### Alternative Icons 
 
@@ -33,9 +36,6 @@
 
 #### DevOps
 ![DevOps](/images/icons/devops.png)
-
-#### Groups
-![Groups](/images/icons/groups.png)
 
 #### Infrastructure
 ![Infrastructure](/images/icons/infrastructure.png)
