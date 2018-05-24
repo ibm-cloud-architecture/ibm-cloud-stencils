@@ -4,12 +4,12 @@
 
 #### Colors
 
-![Colors](/images/colors.png)
+![Colors](/images/templates/colors.png)
 
 #### BDA Template
-![bdaarch](/images/bdaarch.png)
+![bdaarch](/images/templates/bdaarch.png)
 
 #### IoT Template
-![iotarch](/images/iotarch.png)
+![iotarch](/images/templates/iotarch.png)
 
 Return to [Components](/README.md)
