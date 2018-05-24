@@ -6,5 +6,5 @@ Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams.
 
 | | | |
 | :--: | :---: | :---: |
-| [![Visio](/images/Microsoft-Visio-2013-icon.png)](/visio/visio.md) | | | 
+| [![Visio](images/Microsoft-Visio-2013-icon.png)](visio/visio.md) | | | 
 
