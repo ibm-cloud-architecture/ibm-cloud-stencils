@@ -2,62 +2,62 @@
 
 ### Legend
 
-![Legend](/images/stencils/legend.png)
+![Legend](../images/stencils/legend.png)
 
 ### Group Nesting
 
-![Groups](/images/stencils/nesting.png)
+![Groups](../images/stencils/nesting.png)
 
 ### Alternative Icons 
 
-![RedesignedIcons](/images/stencils/alternativeicons.png)
+![RedesignedIcons](../images/stencils/alternativeicons.png)
 
 ### Additional Icons
 
-![NewIcons](/images/stencils/additionalicons.png)
+![NewIcons](../images/stencils/additionalicons.png)
 
 ### All Icons
 
 #### Analytics
-![Analytics](/images/stencils/analytics.png)
+![Analytics](../images/stencils/analytics.png)
 
 #### Applications
-![Applications](/images/stencils/applications.png)
+![Applications](../images/stencils/applications.png)
 
 #### Blockchain
-![Blockchain](/images/stencils/blockchain.png)
+![Blockchain](../images/stencils/blockchain.png)
 
 #### Data
-![Data](/images/stencils/data.png)
+![Data](../images/stencils/data.png)
 
 #### DevOps
-![DevOps](/images/stencils/devops.png)
+![DevOps](../images/stencils/devops.png)
 
 #### Groups
-![Groups](/images/stencils/groups.png)
+![Groups](../images/stencils/groups.png)
 
 #### Infrastructure
-![Infrastructure](/images/stencils/infrastructure.png)
+![Infrastructure](../images/stencils/infrastructure.png)
 
 #### Management
-![Management](/images/stencils/management.png)
+![Management](../images/stencils/management.png)
 
 #### Miscellaneous
-![Miscellaneous](/images/stencils/miscellaneous.png)
+![Miscellaneous](../images/stencils/miscellaneous.png)
 
 #### Operations
-![Operations](/images/stencils/operations.png)
+![Operations](../images/stencils/operations.png)
 
 #### Security
-![Security](/images/stencils/security.png)
+![Security](../images/stencils/security.png)
 
 #### Services
-![Services](/images/stencils/services.png)
+![Services](../images/stencils/services.png)
 
 #### Social
-![Social](/images/stencils/social.png)
+![Social](../images/stencils/social.png)
 
 #### Users
-![Users](/images/stencils/users.png)
+![Users](../images/stencils/users.png)
 
-Return to [Components](/README.md)
+Return to [Components](../visio.md)
