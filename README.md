@@ -6,6 +6,4 @@ Welcome to the IBM Cloud Visio Stencils.  PREVIEW stencils and other stencils ar
 
 | | | |
 | :--: | :---: | :---: |
-| [![Stencils](/images/stencils_icon.png)](/components/stencils.md) | 
-| [![Templates](/images/templates_icon.png)](/components/templates.md) |
-| [![Tutorial](/images/tutorial_icon.png)](/components/tutorial.md) | 
+| [![Stencils](/images/stencils_icon.png)](/components/stencils.md) | [![Templates](/images/templates_icon.png)](/components/templates.md) | [![Tutorial](/images/tutorial_icon.png)](/components/tutorial.md) | 
