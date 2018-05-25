@@ -8,8 +8,6 @@
 
 ![Groups](../images/stencils/nesting.png)
 
-###### Note: Security groups can span subnets and zones.
-
 ### Alternative Icons 
 
 ![AlternativeIcons](../images/stencils/alternativeicons.png)
@@ -35,7 +33,7 @@
 #### DevOps
 ![DevOps](../images/stencils/devops.png)
 
-#### Groups
+#### Groups (PREVIEW)
 ![Groups](../images/stencils/groups.png)
 
 #### Infrastructure
