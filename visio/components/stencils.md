@@ -8,6 +8,8 @@
 
 ![Groups](../images/stencils/nesting.png)
 
+###### Note: Security groups can span subnets and zones.
+
 ### Alternative Icons 
 
 ![RedesignedIcons](../images/stencils/alternativeicons.png)
