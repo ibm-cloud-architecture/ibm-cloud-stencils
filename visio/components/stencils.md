@@ -12,11 +12,11 @@
 
 ### Alternative Icons 
 
-![RedesignedIcons](../images/stencils/alternativeicons.png)
+![AlternativeIcons](../images/stencils/alternativeicons.png)
 
 ### Additional Icons
 
-![NewIcons](../images/stencils/additionalicons.png)
+![AdditionalIcons](../images/stencils/additionalicons.png)
 
 ### All Icons
 
