@@ -2,7 +2,7 @@
 
 Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams with Microsoft Visio.  
 
-| Components | | |
+| | Components | |
 | :---: | :---: | :---: |
 | [![Stencils](images/stencils_icon.png)](components/stencils.md) | [![Templates](images/templates_icon.png)](components/templates.md) | [![Tutorial](images/tutorial_icon.png)](components/tutorial.md) | 
 
