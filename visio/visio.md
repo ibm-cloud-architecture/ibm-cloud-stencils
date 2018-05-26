@@ -6,6 +6,6 @@ Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams with Microsoft
 | :---: | :--- |
 | [![Stencils](images/stencils_icon.png)](components/stencils.md) | Overview of [vssx](stencils) files. | 
 | [![Templates](images/templates_icon.png)](components/templates.md) | Overview of [vstx](templates) files. |
-| [![Tutorial](images/tutorial_icon.png)](components/tutorial.md) | Introduce useful features. |
+| [![Tutorial](images/tutorial_icon.png)](components/tutorial.md) | Install and use IBM Cloud Stencils. |
 
 Return to [Tools](/README.md) 
