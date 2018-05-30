@@ -4,7 +4,7 @@ Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams with Microsoft
 
 | Components | Description |
 | :---: | :--- |
-| [![Stencils](images/stencils_icon.png)](components/stencils.md) | Overview of IBM Cloud (stencils)[stencils]. | 
+| [![Stencils](images/stencils_icon.png)](components/stencils.md) | Overview of IBM Cloud [stencils](stencils). | 
 | [![Templates](images/templates_icon.png)](components/templates.md) | Overview of IBM Cloud templates. |
 | [![Tutorial](images/tutorial_icon.png)](components/tutorial.md) | Install and use IBM Cloud stencils and templates. |
 
