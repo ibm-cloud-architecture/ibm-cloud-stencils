@@ -8,6 +8,7 @@
 2. Create a folder named *IBM Cloud* in the local stencils folder.  
 3. Copy the [vssx](../stencils) files to the local stencils folder.  
 4. Create a folder named *IBM Cloud* in the local templates folder. 
+5. Customize default text font and color by going to the Developer tab -> Drawing Explorer -> Styles, right click on Normal -> Define Styles, select Change Text and change the text defaults such as Calibri 8pt Blue, then select Change Shape->Line and change the line defaults such as 2pt Width Blue. 
 5. Copy the [vstx](../templates) files to the local templates folder.
 6. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that you will not use along with any connecting lines.
 7. Go to More Shapes in Visio, find the IBM Cloud stencils, and select the ones you want to use in your diagrams.
