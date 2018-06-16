@@ -2,7 +2,7 @@
 
 | Date | Component | Description |
 | --- | --- | --- |
-| 06/16	18 | Templates | Added text and line defaults. |
-| 06/14	18 | Stencils | Removed color from new Infrastructure icons for consistency. |
+| 06/16/18 | Templates | Added text and line defaults. |
+| 06/14/18 | Stencils | Removed color from new Infrastructure icons. |
 
-Return to [Components](/README.md)
+Return to [Components](../visio.md)
