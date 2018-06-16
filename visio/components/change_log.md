@@ -3,6 +3,6 @@
 | Date | Component | Description |
 | --- | --- | --- |
 | 06/16/18 | Templates | Added text and line defaults. |
-| 06/14/18 | Stencils | Removed color from new Infrastructure icons. |
+| 06/14/18 | Stencils | Ensured that new Infrastructure icons were consistent with rest of icons. |
 
 Return to [Components](../visio.md)
