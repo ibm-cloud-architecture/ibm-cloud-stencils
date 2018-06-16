@@ -14,6 +14,7 @@
 7. Go to More Shapes in Visio, find the IBM Cloud stencils, and select the ones you want to use in your diagrams.
 8. Groups are also provided to help organize diagrams as demonstrated int he templates.
 9. Review the standard colors used in the templates where the RGB values are used when setting colors in Visio:
+
 | Color | Hex | RGB |
 | :-- | :-- | :-- |
 | Blue | 4376BB | 67,120,187 |
