@@ -2,7 +2,7 @@
 
 | Date | Component | Description |
 | --- | --- | --- |
-| 06/16/18 | Templates | Added text and line defaults. |
+| 06/16/18 | Templates | Made text and line defaults in Visio consistent with templates. |
 | 06/14/18 | Stencils | Made new Infrastructure icons consistent with other icons. |
 
 Return to [Components](../visio.md)
