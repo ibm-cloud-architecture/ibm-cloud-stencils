@@ -8,14 +8,6 @@
 
 ![Groups](../images/stencils/nesting.png)
 
-### Alternative Icons 
-
-![AlternativeIcons](../images/stencils/alternativeicons.png)
-
-### Additional Icons
-
-![AdditionalIcons](../images/stencils/additionalicons.png)
-
 ### All Icons
 
 #### Analytics
