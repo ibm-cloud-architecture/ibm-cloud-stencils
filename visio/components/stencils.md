@@ -8,6 +8,8 @@
 
 ![Groups](../images/stencils/nesting.png)
 
+###### Note: Services can be nested in any group.
+
 ### All Icons
 
 #### Analytics
