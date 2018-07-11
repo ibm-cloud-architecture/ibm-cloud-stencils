@@ -36,6 +36,9 @@
 #### Management
 ![Management](../images/stencils/management.png)
 
+#### Miscellaneous
+![Miscellaneous](../images/stencils/miscellaneous.png)
+
 #### Operations
 ![Operations](../images/stencils/operations.png)
 
