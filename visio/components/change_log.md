@@ -1,4 +1,4 @@
-# IBM Cloud Stencils for Microsoft Visio 2013/2010-  Change Log
+# IBM Cloud Stencils for Microsoft Visio - Change Log
 
 | Date | Component | Description |
 | --- | --- | --- |
