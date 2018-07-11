@@ -27,7 +27,7 @@
 #### DevOps
 ![DevOps](../images/stencils/devops.png)
 
-#### Groups (PREVIEW)
+#### Groups
 ![Groups](../images/stencils/groups.png)
 
 #### Infrastructure
