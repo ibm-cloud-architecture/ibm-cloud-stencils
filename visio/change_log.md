@@ -8,4 +8,4 @@
 | 06/16/18 | Templates | Made text and line defaults in Visio consistent with templates. |
 | 06/14/18 | Stencils | Made new Infrastructure icons consistent with other icons. |
 
-Return to [Components](../visio.md)
+Return to [Tools](/README.md)
