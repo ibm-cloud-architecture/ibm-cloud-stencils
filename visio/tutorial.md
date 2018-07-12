@@ -4,15 +4,15 @@
 
 ### Preliminary Details
 
-Component Legend
+#### Component Legend
 
 ![Legend](images/legend.png)
 
-Standard Colors
+#### Standard Colors
 
 ![Colors](images/colors.png)
 
-Group Nesting
+#### Group Nesting
 
 ![Nesting](images/nesting.png)
 
