@@ -12,6 +12,10 @@ Standard Colors
 
 ![Colors](images/colors.png)
 
+Group Nesting
+
+![Nesting](images/nesting.png)
+
 ### Installation & Setup
 
 1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
