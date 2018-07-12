@@ -2,8 +2,10 @@
 
 Welcome to the IBM Cloud Stencils for creating IBM Cloud diagrams with Microsoft Visio 2013.  
 
-###### IBM Cloud Stencils are subject to change.  
-###### [Tutorial](tutorial.md) describes steps for using IBM Cloud Stencils.
-###### [Change Log](change_log.md) describes recent changes.
+Refer to [Tutorial](tutorial.md) for details on using IBM Cloud Stencils.
+
+Refer to [Change Log](change_log.md) for descriptions of recent changes.
+
+###### Note: IBM Cloud Stencils are subject to change.  
 
 Return to [Tools](/README.md) 
