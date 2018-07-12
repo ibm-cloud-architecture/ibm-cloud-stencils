@@ -4,7 +4,11 @@
 
 ### Preliminary Details
 
-Standard colors used in the templates:
+Component Legend
+
+![Legend](images/legend.png)
+
+Standard Colors
 
 ![Colors](images/colors.png)
 
@@ -19,14 +23,6 @@ Standard colors used in the templates:
 6. Select one of the template files to bring up a fully editable diagram in Visio and delete any icons that you will not use along with any connecting lines.
 7. Go to More Shapes in Visio, find the IBM Cloud stencils, and select the ones you want to use in your diagrams.
 8. Groups are provided to organize diagrams as demonstrated in the templates.
-9. Review the standard colors used in the templates where the RGB values are used when setting colors in Visio:
-
-| Color | Hex | RGB |
-| :-- | :-- | :-- |
-| Blue | 4376BB | 67,120,187 |
-| Red | FF0000 | 255,0,0 |
-| Green | 00882B | 0,136,43 |
-| Yellow | EDC11C | 237,193,2 |
 
 ### Navigating Visio
 
