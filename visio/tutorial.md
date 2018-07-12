@@ -5,7 +5,7 @@
 ### Preliminary Details
 
 Standard colors used in the templates:
-[Colors](images/colors.png)
+![Colors](images/colors.png)
 
 ### Installation & Setup
 
