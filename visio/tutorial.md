@@ -54,4 +54,4 @@
 7. Customize the weight and color of the line and add arrows under Shape Styles.
 8. If a line obstructs the text, select text, right-click and select Font, select solid color of white for text background, and select Bring to Front. 
 
-Return to [Components](../visio.md)
+Return to [Tools](/README.md)
