@@ -2,6 +2,11 @@
 
 ## Tutorial
 
+### Preliminary Details
+
+Standard colors used in the templates:
+[Colors](../images/colors.png)
+
 ### Installation & Setup
 
 1. Set the location of local folders for Visio:  File -> Options -> Advanced -> File Locations...
