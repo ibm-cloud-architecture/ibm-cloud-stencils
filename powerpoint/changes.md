@@ -1,4 +1,4 @@
-# IBM Cloud Stencils for Microsoft Visio - Changes
+# IBM Cloud Stencils for Microsoft PowerPoint - Changes
 
 | Date | Description |
 | --- | --- |
