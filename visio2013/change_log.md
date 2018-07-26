@@ -2,6 +2,7 @@
 
 | Date | Component | Description |
 | --- | --- | --- |
+| 07/26/18 | Stencils | Added VPC constructs to groups, infrastructure, and security. |
 | 07/11/18 | Stencils | Rearranged some infrastructure icons and add misc icons. |
 | 07/10/18 | Stencils | Added Visio 2010 version of icons (.vss) and templates (.vst). |
 | 06/21/18 | Stencils | Added subnet icon and security group icon. |
