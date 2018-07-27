@@ -2,6 +2,7 @@
 
 | Date | Description |
 | --- | --- |
+| 07/27/18 | Conslidated misc icons. |
 | 07/26/18 | Added VPC constructs to groups, infrastructure, and security. |
 | 07/11/18 | Rearranged some infrastructure icons and add misc icons. |
 | 07/10/18 | Added Visio 2010 version of icons (.vss) and templates (.vst). |
