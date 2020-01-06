@@ -5,5 +5,5 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 Introducing IBM Virtual Private Cloud diagrams:
 
-![VPCSimple](/images/vpc-experience-simple.svg] 
+![VPCSimple](/images/vpc-experience-simple.png] 
 
