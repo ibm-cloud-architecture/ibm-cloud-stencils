@@ -15,7 +15,7 @@ To update an existing diagram to the latest version for draw.io:
     3. Select all of new style, right click, select Copy.
 5. For each group in existing diagram: 
     1. For Subnet, move contents of ACL textbox to Subnet textbox, see example.
-    2. Delete existing groups tag.
+    2. Delete existing group tag.
     3. Select Edit Style (see note 1).
     4. Select all of old style, right click and select Delete, right click and select Paste to insert copied new style.
 6. Similarly for arrows from VPCarrows.xml if desired.
