@@ -1,7 +1,7 @@
 ## IBM Cloud Stencils for draw.io
 
 Introducing IBM Virtual Private Cloud diagrams for draw.io:
-![VPCSimple](/images/vpc-experience-simple.png)
+![VPCSimple](/images/vpc-experience-simple-drawio.png)
 
 The updated styles in VPCgroups.xml and VPCarrows.xml in drawio/stencils on this github have integrated the group tag (upper left corner) with the group border and also includes a few enhancements for consumability and readability.
 
