@@ -21,6 +21,7 @@ To update an existing diagram to the latest version for draw.io:
 6. Similarly for arrows from VPCarrows.xml if desired.
 7. Remove groups that were temporarily added to canvas.
 8. If Cloud Universe group was used you can either leave as is or replace with the Public Network and Enterprise Network groups in VPCgroups.xml.
+9. Tweek the diagram if more space is needed in places.
 
 Notes: 
 1. Besides Edit Style draw.io also provides Copy Style and Paste Style which if used for step 4 and step 5 the style is copied but not the group tag.  
