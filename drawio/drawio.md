@@ -12,19 +12,19 @@ To update an existing diagram to the latest version for draw.io:
 4. For each group in VPCgroups.xml: 
     1. Select group to temporarily add to canvas for extracting style.
     2. Select Edit Style (see note 1).
-    3. Select all of style, right click, select Copy.
+    3. Select all of new style, right click, select Copy.
 5. For each group in existing diagram: 
-    1. For Subnet move contents of ACL textbox to Subnet textbox, see example.
+    1. For Subnet, move contents of ACL textbox to Subnet textbox, see example.
     2. Delete existing groups tag.
     3. Select Edit Style (see note 1).
-    4. Select all of previous style, right click and select Delete, right click and select Paste.
+    4. Select all of old style, right click and select Delete, right click and select Paste to insert copied new style.
 6. Similarly for arrows from VPCarrows.xml if desired.
 7. Remove groups that were temporarily added to canvas.
 8. If Cloud Universe group was used you can either leave as is or replace with the Public Network and Enterprise Network groups in VPCgroups.xml.
 
 Notes: 
 1. If you use Copy Style for step 4 and Paste Style for step 5 the style is copied but not the group tag.  
-2. You can also turn off the group tag by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg)
+2. If desired you can also turn off the group tag by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg)
 3. The path of group tags in first line of styles may change but current path will continue to be valid also.
 
 Return to [Main](/README.md)
