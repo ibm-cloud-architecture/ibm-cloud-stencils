@@ -23,7 +23,7 @@ To update an existing diagram to the latest version for draw.io:
 8. If Cloud Universe group was used you can either leave as is or replace with the Public Network and Enterprise Network groups in VPCgroups.xml.
 
 Notes: 
-1. If you use Copy Style for step 4 and Paste Style for step 5 the style is copied but not the group tag.  
+1. Besides Edit Style draw.io also provides Copy Style and Paste Style which if used for step 4 and step 5 the style is copied but not the group tag.  
 2. If desired you can also turn off the group tag by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg) or removing the image settings in the style.
 3. The path of group tags in first line of styles may change but current path will continue to be valid also.
 
