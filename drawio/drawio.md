@@ -6,8 +6,8 @@ Introducing IBM Virtual Private Cloud diagrams for draw.io:
 The updated styles in VPCgroups.xml and VPCarrows.xml in drawio/stencils on this github have integrated the group tag (upper left corner) with the group border and also includes a few enhancements for consumability and readability.
 
 To update an existing diagram to the latest version for draw.io:
-1. Copy VPCgroups.xml and VPCarrows.xml. 
-2. Backup existing diagram locally, open existing diagram in draw.io, and enable Format Panel under View.
+1. Make a local copy of VPCgroups.xml and VPCarrows.xml. 
+2. Backup existing diagram, open existing diagram in draw.io, and enable Format Panel under View.
 3. Under File select Open Library from Device... for VPCgroups.xml and VPCarrows.xml.
 4. For each group in VPCgroups.xml: select group, select Edit Style (see note 1), select all of style, right click, select Copy.
 5. For each group in existing diagram: delete existing group tag (for Subnet move contents of ACL textbox to Subnet textbox, see example), select Edit Style (see note 1), select all of existing style, right click and select Delete, right click and select Paste.
