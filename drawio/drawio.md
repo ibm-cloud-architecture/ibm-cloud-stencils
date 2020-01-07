@@ -10,9 +10,9 @@ To update an existing diagram to the latest version for draw.io:
 2. Backup existing diagram, open existing diagram in draw.io, and enable Format Panel under View.
 3. Under File select Open Library from Device... for VPCgroups.xml and VPCarrows.xml.
 4. For each group in VPCgroups.xml: 
-   a. Select group to temporarily add to canvas for extracting style.
-   b. Select Edit Style (see note 1).
-   c. Select all of style, right click, select Copy.
+    a. Select group to temporarily add to canvas for extracting style.
+    b. Select Edit Style (see note 1).
+    c. Select all of style, right click, select Copy.
 5. For each group in existing diagram: 
 Delete existing group tag (for Subnet move contents of ACL textbox to Subnet textbox, see example), select Edit Style (see note 1), select all of existing style, right click and select Delete, right click and select Paste.
 6. Similarly for arrows from VPCarrows.xml if desired.
