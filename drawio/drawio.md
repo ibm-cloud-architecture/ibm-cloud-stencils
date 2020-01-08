@@ -1,9 +1,9 @@
 ## IBM Cloud Stencils for draw.io
 
-Introducing IBM Virtual Private Cloud diagrams for draw.io:
+IBM Virtual Private Cloud diagrams for draw.io:
 ![VPCSimple](/images/vpc-experience-simple-drawio.png)
 
-The updated styles in VPCgroups.xml and VPCarrows.xml in drawio/stencils on this github have integrated the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
+To be used in conjuction with the IBM Cloud Stencils on draw.io, the updated styles in VPCgroups.xml and VPCarrows.xml in drawio/stencils on this github have integrated the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
 
 To update an existing diagram to the latest version for draw.io:
 1. Make a local copy of VPCgroups.xml and VPCarrows.xml. 
@@ -25,7 +25,8 @@ To update an existing diagram to the latest version for draw.io:
 
 Notes: 
 1. Besides Edit Style draw.io also provides Copy Style and Paste Style which if used for step 4 and step 5 the style is copied but not the group tag.  
-2. If desired you can also turn off the group tag by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg) or removing the image settings in the style.
-3. The path of group tags in first line of styles may change but current path will continue to be valid also.
+2. If desired, the group tag can be turned off by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg) or removing the image settings in the style.
+3. Path of group tags in first line of styles will change but current path will continue to be valid also.
+4. Some group tags in VPCgroups.xml won't initially match the example above.
 
 Return to [Main](/README.md)
