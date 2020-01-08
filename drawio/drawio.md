@@ -29,4 +29,4 @@ Notes:
 3. Path of group tags in first line of styles will change but current path will continue to be valid also.
 4. Some group tags in VPCgroups.xml won't initially match the example above.
 
-Return to [Main](/README.md)
+Return to [README](/README.md)
