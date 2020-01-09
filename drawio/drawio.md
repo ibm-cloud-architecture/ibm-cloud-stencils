@@ -8,7 +8,7 @@
     1. IBM / VPC (on draw.io)
     2. IBM / VPC Groups (VPCgroups.xml on this github)
     3. IBM / VPC Arrows (VPCarrows.xml on this github)
-    4. IBM / * (any other IBM-provided icon on draw.io)
+    4. IBM / * (other IBM icons on draw.io)
 2. VPC Groups integrates the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
 3. Group name (e.g. IBM Cloud) could be deleted in some cases if desired since the group tag designates what the group is or vice versa.
 4. Group tag can be turned off by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg) or removing the image settings in the style.
