@@ -6,3 +6,4 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 | Tool |
 | :---: |
 | [draw.io](/drawio/drawio.md)
+| [powerpoint](/powerpoint/powerpoint.md)
