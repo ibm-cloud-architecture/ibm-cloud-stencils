@@ -11,9 +11,9 @@
 2. VPC Groups includes the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
 3. Group name (e.g. IBM Cloud) can be deleted if desired if you want the group tag alone to identify the group.
 4. Group tag can be deleted if desired.
-5. All borders are solid and 2 pt to be visible with limited space except Security Group is dashed - can be customized as desired.
-6. All lines are black to distinguish from borders and icons - can be customized as desired.
-7. All text is black and Helvetica 12 pt - can be customized as desired.
+5. Borders are solid and 2 pt to be visible with limited space except Security Group is dashed - can be customized as desired.
+6. Lines are black to distinguish from borders and icons - can be customized as desired.
+7. Text is black and Helvetica 12 pt - can be customized as desired.
 8. VPC Icons include a standard version of networking icons by request such as load balancer, public gateway, VPN gateway, etc.  Other IBM icons for the same functionality may also be available such as the load balancer icon under Infrastructure.
 
 # Upgrade Steps

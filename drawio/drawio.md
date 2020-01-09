@@ -8,16 +8,17 @@
     1. IBM / VPC (on draw.io)
     2. IBM / VPC Groups (VPCgroups.xml on this github)
     3. IBM / VPC Arrows (VPCarrows.xml on this github)
-    4. IBM / * (other IBM icons on draw.io)
+    4. Other IBM Icons
 2. VPC Groups integrates the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
 3. Group name (e.g. IBM Cloud) can be deleted if desired if you want the group tag alone to identify the group.
 4. Group tag can be turned off by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg) or removing the image settings in the style.
 5. Path of group tags at beginning of styles will change but current path will continue to be valid also.
 6. Some group tags in VPC Groups won't initially match the example above.
-7. All groups are implemented as containers except Security Group is not a container since it can span other groups. Containers are advantageous in that the contents are moved/copied along with the container.
-8. All borders and lines are 2 pt to be visible with limited space - can be customized as desired.
-9. All text and lines are black to distinguish from borders and icons, and text is Helvetica 12 pt - can be customized as desired.
-10. VPC Icons include a standard version of networking icons by customer request such as load balancer, public gateway, VPN gateway, etc.  Other icons for the same functionality can be used if desired such as the load balancer icon under IBM / Infrastructure.
+7. Groups are implemented as containers except Security Group is not a container since it can span other groups. Containers are advantageous in that the contents are moved/copied along with the container.
+8. Borders are solid and 2 pt to be visible with limited space except Security Group is dashed - can be customized as desired.
+9. Lines are black to distinguish from borders and icons - can be customized as desired.
+10. Text is black and Helvetica 12 pt - can be customized as desired.
+11. VPC Icons include a standard version of networking icons by request such as load balancer, public gateway, VPN gateway, etc.  Other IBM icons for the same functionality may also be available such as the load balancer icon under Infrastructure.
 
 # Upgrade Steps
 
