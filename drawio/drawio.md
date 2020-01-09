@@ -1,18 +1,18 @@
 ## IBM Cloud Stencils for draw.io
 
-IBM Virtual Private Cloud diagrams for draw.io:
 ![VPCSimple](/images/vpc-experience-simple-drawio.png)
 
 # Implementation Notes
 
 1. VPC stencils consists of VPC (on draw.io), VPC Groups (VPCgroups.xml on this github), and VPC Arrows (VPCarrows.xml on this github).
 2. VPC Groups integrates the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
-2. Group tag can be turned off by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg) or removing the image settings in the style.
-3. Path of group tags at beginning of styles will change but current path will continue to be valid also.
-4. Some group tags in VPC Groups won't initially match the example above.
-5. All groups are implemented as containers except Security Group is not a container since it can span other groups. Containers are advantageous in that the contents are moved/copied along with the container.
-6. All borders and lines are 2 pt to be visible with limited space - can be customized as desired.
-7. All text and lines are black to distinguish from borders and icons, and text is Helvetica 12 pt - can be customized as desired.
+3. Group name (e.g. IBM Cloud) could be deleted in some cases if desired since the group tag designates what the group is or vice versa.
+4. Group tag can be turned off by changing it to an invalid name in the style (e.g. change CloudTag.svg to CloudTagOff.svg) or removing the image settings in the style.
+5. Path of group tags at beginning of styles will change but current path will continue to be valid also.
+6. Some group tags in VPC Groups won't initially match the example above.
+7. All groups are implemented as containers except Security Group is not a container since it can span other groups. Containers are advantageous in that the contents are moved/copied along with the container.
+8. All borders and lines are 2 pt to be visible with limited space - can be customized as desired.
+9. All text and lines are black to distinguish from borders and icons, and text is Helvetica 12 pt - can be customized as desired.
 
 # Upgrade Steps
 
