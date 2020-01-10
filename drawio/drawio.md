@@ -1,6 +1,6 @@
 ## IBM Cloud Stencils for draw.io
 
-![VPCSimple](/images/vpc-experience-simple-drawio.png)
+![VPCExperience](/images/vpc-experience-drawio.png)
 
 # Implementation Notes
 
