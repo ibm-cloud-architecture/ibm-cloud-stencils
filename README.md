@@ -21,13 +21,14 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 ## VPC Groups
 
-| Style | Group |
+| Group | Style |
 | :--- | :--- |
-| Solid Blue Border | IBM Cloud<br/>VPC<br/>Public Network<br/>Enterprise Network<br/>Other Group |
-| Solid Grey Border | Region<br/>Zone |
-| Dashed Grey Border | Resource Group |
-| Solid Green Border | Subnet |
-| Dashed Red Border | Security Group |
+| IBM Cloud<br/>VPC<br/>Public Network<br/>Enterprise Network<br/>Other Group | Solid Blue Border |
+| Region | Solid Grey Border |
+| Zone | Solid Grey Border<br/>Light Grey Fill |
+| Subnet | Solid Green Border<br>Light Green Fill |
+| Security Group | Dashed Red Border |
+| Resource Group | Dashed Grey Border |
 
 ## VPC Details
 
