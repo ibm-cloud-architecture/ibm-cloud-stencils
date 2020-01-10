@@ -5,7 +5,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 # IBM Cloud VPC Stencils
 
-Styles
+## Styles
 
 | Component | Color | Font/Width |
 | :--- | :--- | ---: |
@@ -13,13 +13,12 @@ Styles
 | Lines | #000000 | 2 pt |
 | Blue Borders | #4277BB | 2 pt |
 | Grey Borders | #919191 | 2 pt |
-| Grey Fill | #E0E0E0 | 2 pt |
+| Grey Fill | #E0E0E0 | |
 | Green Borders | #00882B | 2 pt |
-| Green Fill | #E6F0E2 | 2 pt |
+| Green Fill | #E6F0E2 | |
 | Red Borders | #FD0000 | 2 pt |
 
+## Tools
 
-| Tool |
-| :---: |
-| [draw.io](/drawio/drawio.md)
-| [PowerPoint](/powerpoint/powerpoint.md)
+[draw.io](/drawio/drawio.md)
+[PowerPoint](/powerpoint/powerpoint.md)
