@@ -19,6 +19,8 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 | Red Borders | #FD0000 | Dashed<br/>Solid (reserved) | 2 pt |
 | Red Fill (reserved) | #FFE4E1 | | |
 
+## VPC Groups
+
 | Style | Group |
 | :--- | :--- |
 | Solid Blue Border | IBM Cloud<br/>VPC<br/>Public Network<br/>Enterprise Network<br/>Other Group |
