@@ -17,6 +17,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 | Grey Borders | #919191 | Solid | 2 pt |
 | Grey Fill | #E0E0E0 | | |
 | Red Borders | #FD0000 | Dashed<br/>Solid (reserved) | 2 pt |
+| Red Fill (reserved) | #FFE4E1 | | |
 
 ## VPC Details
 
