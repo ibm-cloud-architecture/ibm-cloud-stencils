@@ -12,13 +12,14 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 | Text | #000000 | Helvetica 12 pt |
 | Lines | #000000 | 2 pt |
 | Blue Borders | #4277BB | 2 pt |
-| Grey Borders | #919191 | 2 pt |
-| Grey Fill | #E0E0E0 | |
 | Green Borders | #00882B | 2 pt |
 | Green Fill | #E6F0E2 | |
+| Grey Borders | #919191 | 2 pt |
+| Grey Fill | #E0E0E0 | |
 | Red Borders | #FD0000 | 2 pt |
 
-## Tools
+## Tool Details
 
 [draw.io](/drawio/drawio.md)
+
 [PowerPoint](/powerpoint/powerpoint.md)
