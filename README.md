@@ -14,7 +14,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 | Blue Borders | #4277BB | Solid | 2 pt |
 | Green Borders | #00882B | Solid | 2 pt |
 | Green Fill | #E6F0E2 | | |
-| Grey Borders | #919191 | Solid | 2 pt |
+| Grey Borders | #919191 | Dashed<br/>Solid | 2 pt |
 | Grey Fill | #E0E0E0 | | |
 | Red Borders | #FD0000 | Dashed<br/>Solid (reserved) | 2 pt |
 | Red Fill (reserved) | #FFE4E1 | | |
