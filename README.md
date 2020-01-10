@@ -10,7 +10,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 | Component | Color | Solid/Dashed | Font/Width |
 | :--- | :--- | ---: | ---: |
 | Text | #000000 | | Helvetica 12 pt |
-| Lines | #000000 | Solid/Dashed | 2 pt |
+| Lines | #000000 | Dashed<br/>Solid | 2 pt |
 | Blue Borders | #4277BB | Solid | 2 pt |
 | Green Borders | #00882B | Solid | 2 pt |
 | Green Fill | #E6F0E2 | | |
