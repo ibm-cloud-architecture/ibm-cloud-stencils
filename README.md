@@ -7,17 +7,17 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 ## VPC Styles
 
-| Style | Color | Font/Width |
-| :--- | :--- | ---: |
-| Text | #000000 | Helvetica 12 pt |
-| Lines | #000000 | 2 pt |
-| Blue Borders | #4376BB | 2 pt |
-| Green Borders | #00882B | 2 pt |
-| Green Fill | #E6F0E2 | |
-| Grey Borders | #919191 | 2 pt |
-| Grey Fill | #E0E0E0 | |
-| Red Borders | #FF0000 | 2 pt |
-| Red Fill (reserved) | #FFE4E1 | |
+| Style | Hex Color | RGB Color | Font/Width |
+| :--- | :--- | ---: | ---: |
+| Text | #000000 | | Helvetica 12 pt |
+| Lines | #000000 | | 2 pt |
+| Blue Borders | #4376BB | 67,120,187 | 2 pt |
+| Green Borders | #00882B | 0,136,43 | 2 pt |
+| Green Fill | #E6F0E2 | 230,240,226 | |
+| Grey Borders | #919191 | 145,145,145 | 2 pt |
+| Grey Fill | #E0E0E0 | 224,224,224 | |
+| Red Borders | #FF0000 | 255,0,0 | 2 pt |
+| Red Fill (reserved) | #FFE4E1 | 255,228,225 | |
 
 ## VPC Groups
 

@@ -12,8 +12,7 @@
 2. VPC Groups integrates the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
 3. Path of group tags at beginning of styles will change but current path will continue to be valid also.
 4. Some group tags in VPC Groups won't initially match the example above.
-5. Groups are implemented as containers except Security Group and Resource Group are not a container since they can span other groups. Containers are advantageous in that the contents are moved/copied along with the container, or containers can be turned off in the styles if desired.
-6. VPC Icons include a standard version of networking icons by request such as load balancer, public gateway, VPN gateway, etc.  Other IBM icons for the same functionality may also be available such as the load balancer icon under Infrastructure.
+5. VPC Icons include a standard version of networking icons requested by users  such as load balancer, public gateway, VPN gateway, etc.  Other IBM icons for the same functionality may also be available such as the load balancer icon under Infrastructure.
 
 # Upgrade Steps
 
