@@ -8,7 +8,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 ## VPC Styles
 
 | Style | Hex Color | RGB Color | Font/Width |
-| :--- | :--- | ---: | ---: |
+| :--- | :--- | :--- | ---: |
 | Text | #000000 | | Helvetica 12 pt |
 | Lines | #000000 | | 2 pt |
 | Blue Borders | #4376BB | 67,120,187 | 2 pt |
