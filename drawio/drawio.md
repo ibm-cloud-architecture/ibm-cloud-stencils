@@ -4,15 +4,8 @@
 
 # Implementation Notes
 
-1. VPC stencils consists of:
-    1. IBM / VPC (on draw.io)
-    2. IBM / VPC Groups (VPCgroups.xml on this github)
-    3. IBM / VPC Arrows (VPCarrows.xml on this github)
-    4. Other IBM Icons
-2. VPC Groups integrates the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
-3. Path of group tags at beginning of styles will change but current path will continue to be valid also.
-4. Some group tags in VPC Groups won't initially match the example above.
-5. VPC Icons include a standard version of networking icons requested by users  such as load balancer, public gateway, VPN gateway, etc.  Other IBM icons for the same functionality may also be available such as the load balancer icon under Infrastructure.
+1. Path of group tags at beginning of styles will change but current path will continue to be valid also.
+2. Some group tags in VPC Groups won't initially match the example above.
 
 # Upgrade Steps
 

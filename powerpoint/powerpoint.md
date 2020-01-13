@@ -2,15 +2,6 @@
 
 ![VPCExperience](/images/ibm_vpc_architecture_powerpoint.png)
 
-# Implementation Notes
-
-1. VPC stencils for PowerPoint consists of:
-    1. VPC Icons
-    2. VPC Groups
-    3. Other IBM Icons
-2. VPC Groups includes the group tag (square icon in upper left corner) with the group border and also includes a few enhancements for consumability and readability.
-3. VPC Icons include a standard version of networking icons by request such as load balancer, public gateway, VPN gateway, etc.  Other IBM icons for the same functionality may also be available such as the load balancer icon under Infrastructure.
-
 # Upgrade Steps
 
 To update an existing diagram to the latest version on this github for PowerPoint:
