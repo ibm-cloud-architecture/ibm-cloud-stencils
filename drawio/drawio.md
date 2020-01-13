@@ -1,6 +1,6 @@
 ## IBM VPC Stencils for draw.io
 
-![VPCExperience](/images/vpc-experience-drawio.png)
+![VPCExperience](/images/ibm_vpc_architecture_drawio.png)
 
 # Implementation Notes
 

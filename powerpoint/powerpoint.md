@@ -1,6 +1,6 @@
 ## IBM Cloud Stencils for PowerPoint
 
-![VPCExperience](/images/vpc-experience-powerpoint.png)
+![VPCExperience](/images/ibm_vpc_architecture_powerpoint.png)
 
 # Implementation Notes
 
