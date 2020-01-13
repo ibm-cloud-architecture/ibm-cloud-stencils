@@ -5,7 +5,7 @@
 # Upgrade Steps
 
 To update an existing diagram to the latest version on this github for PowerPoint:
-1. Open VPCv2 PPT (all-ibm-cloud-architecture-icons-October2019-VPCv2UpdatesJanuary2020.pptx): 
+1. Open VPCv2 PPT (all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesJanuary2020.pptx): 
 2. Backup existing diagram and open existing diagram in PowerPoint.
 3. For each VPC group in diagram compare to VPC v2 PPT:
     1. For each Subnet group move contents of ACL textbox to Subnet textbox, see example.
