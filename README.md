@@ -36,3 +36,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 [draw.io](/drawio/drawio.md)
 
 [PowerPoint](/powerpoint/powerpoint.md)
+
+[Visio2013](/visio2013/visio2013.md)
+
+[Visio2010](/visio2010/visio2010.md)
