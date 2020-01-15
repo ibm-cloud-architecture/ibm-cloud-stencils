@@ -24,7 +24,7 @@ IBM VPC diagrams are similar to standard VPC diagrams with groupings that organi
 | Style | Hex Color | RGB Color | Font/Width |
 | :--- | :--- | :--- | ---: |
 | Text | #000000 | 0,0,0 | Helvetica 12 pt |
-| Lines | #000000 | 0,0,0 | 2 pt |
+| Lines / Arrows | #000000 | 0,0,0 | 2 pt |
 | Blue Borders | #4376BB | 67,120,187 | 2 pt |
 | Green Borders | #00882B | 0,136,43 | 2 pt |
 | Light Green Fill | #E6F0E2 | 230,240,226 | |
