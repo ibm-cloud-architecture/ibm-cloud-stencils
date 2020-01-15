@@ -4,9 +4,10 @@
 
 # Implementation
 
-1. Refer to VPCgroups.xml and VPCarrows.xml on this github temporarily. 
-2. Path of group tags at beginning of styles will change but current path will continue to be valid also.
-3. Some group tags in VPC Groups won't initially match the example above.
+1. Start draw.io with IBM Stencils enabled:  https://draw.io/?libs=ibm
+2. Refer to VPCgroups.xml and VPCarrows.xml on this github. 
+3. Path of group tags at beginning of styles will change but current path will continue to be valid also.
+4. Some group tags in VPC Groups won't initially match the example above.
 
 # Upgrading
 
