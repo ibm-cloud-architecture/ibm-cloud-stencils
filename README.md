@@ -5,7 +5,27 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 # IBM Cloud VPC Stencils
 
-## VPC Styles
+## Overview
+
+1. VPC stencils consists of:
+    1. VPC Icons
+    2. VPC Groups
+    3. VPC Arrows
+    4. Other IBM Icons
+2. VPC Groups are borders with a group tag in upper left corner.
+3. VPC Icons include a standard version of networking icons by user request.
+
+## Examples
+
+[draw.io](/drawio/drawio.md)
+
+[PowerPoint](/powerpoint/powerpoint.md)
+
+[Visio2013](/visio2013/visio2013.md)
+
+[Visio2010](/visio2010/visio2010.md)
+
+## Styles
 
 | Style | Hex Color | RGB Color | Font/Width |
 | :--- | :--- | :--- | ---: |
@@ -19,7 +39,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 | Red Borders | #FF0000 | 255,0,0 | 2 pt |
 | Light Red Fill (reserved) | #FFE4E1 | 255,228,225 | |
 
-## VPC Groups
+## Groups
 
 | Group | Style |
 | :--- | :--- |
@@ -30,23 +50,3 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 | Security Group | Dashed Red Border |
 | Resource Group | Dashed Grey Border |
 | (reserved) | Solid Red Border<br>Light Red Fill |
-
-## VPC Details
-
-1. VPC stencils consists of:
-    1. VPC Icons
-    2. VPC Groups
-    3. VPC Arrows
-    4. Other IBM Icons
-2. VPC Groups are borders with a group tag in upper left corner.
-3. VPC Icons include a standard version of networking icons by user request.
-
-## VPC Examples
-
-[draw.io](/drawio/drawio.md)
-
-[PowerPoint](/powerpoint/powerpoint.md)
-
-[Visio2013](/visio2013/visio2013.md)
-
-[Visio2010](/visio2010/visio2010.md)
