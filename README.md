@@ -7,7 +7,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 ## Overview
 
-IBM VPC diagrams are similar to standard VPC diagrams with groupings that organize a VPC solution for taking advantage of the functionality and availability provided by the IBM VPC platform.  The groups are borders with may have a group tag in upper left corner for an easy visual of the group identification.  
+IBM VPC diagrams are similar to standard VPC diagrams with groupings that organize a VPC solution for taking advantage of the functionality and availability provided by the IBM VPC platform.   The groupings are designed to be easily identifiable visually with differences in border color, fill color, and tag icon.  
 
 ## Examples
 
