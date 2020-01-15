@@ -7,13 +7,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 ## Overview
 
-1. VPC stencils consists of:
-    1. VPC Icons
-    2. VPC Groups
-    3. VPC Arrows
-    4. Other IBM Icons
-2. VPC Groups are borders with a group tag in upper left corner.
-3. VPC Icons include a standard version of networking icons by user request.
+IBM VPC diagrams are similar to standard VPC diagrams with groupings that organize a VPC solution for taking advantage of the functionality and availability provided by the IBM VPC platform.  The groups are borders with may have a group tag in upper left corner for an easy visual of the group identification.  
 
 ## Examples
 
