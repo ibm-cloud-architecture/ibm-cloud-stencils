@@ -2,7 +2,9 @@
 
 ![VPCExperience](/images/ibm_vpc_architecture_visio.png)
 
-# Upgrade Steps
+# Implementation
+
+# Upgrading
 
 To update an existing diagram to the latest version on this github for Visio 2010:
 1. Make a local copy of VPC Groups.vss, VPC Arrows.vss, and VPC.vss in your My Shapes folder.

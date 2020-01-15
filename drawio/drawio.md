@@ -2,13 +2,13 @@
 
 ![VPCExperience](/images/ibm_vpc_architecture_drawio.png)
 
-# Implementation Notes
+# Implementation
 
 1. Refer to VPCgroups.xml and VPCarrows.xml on this github temporarily. 
 2. Path of group tags at beginning of styles will change but current path will continue to be valid also.
 3. Some group tags in VPC Groups won't initially match the example above.
 
-# Upgrade Steps
+# Upgrading
 
 To update an existing diagram to the latest version on this github for draw.io:
 1. Make a local copy of VPCgroups.xml and VPCarrows.xml. 
