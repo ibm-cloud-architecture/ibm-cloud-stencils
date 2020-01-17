@@ -2,14 +2,14 @@
 
 ![VPCExperience](/images/ibm_vpc_architecture_drawio.png)
 
-# Implementation
+# Implementation Notes
 
 1. Start draw.io with IBM Stencils enabled:  https://draw.io/?libs=ibm
 2. Refer to VPCgroups.xml and VPCarrows.xml on this github. 
 3. Path of group tags at beginning of styles will change but current path will continue to be valid also.
 4. Some group tags in VPC Groups won't initially match the example above.
 
-# Upgrading
+# Upgrade Steps
 
 To update an existing diagram to the latest version on this github for draw.io:
 1. Make a local copy of VPCgroups.xml and VPCarrows.xml. 

@@ -2,11 +2,11 @@
 
 ![VPCExperience](/images/ibm_vpc_architecture_powerpoint.png)
 
-# Implementation
+# Implementation Notes
 
 1. Refer to all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesJanuary2020.pptx (referred to as VPCv2 PPT below) on this github temporarily.
 
-# Upgrading
+# Upgrade Steps
 
 To update an existing diagram to the latest version on this github for PowerPoint:
 1. Open VPCv2 PPT (all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesJanuary2020.pptx): 

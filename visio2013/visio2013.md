@@ -2,9 +2,9 @@
 
 ![VPCExperience](/images/ibm_vpc_architecture_visio.png)
 
-# Implementation
+# Implementation Notes
 
-# Upgrading
+# Upgrade Steps
 
 To update an existing diagram to the latest version on this github for Visio 2013:
 1. Make a local copy of VPC Groups.vssx, VPC Arrows.vssx, and VPC.vssx in your My Shapes folder.
