@@ -26,7 +26,7 @@ To update an existing diagram to the latest version on this github for draw.io:
     4. Select all of old style, right click and select Delete, right click and select Paste to insert copied new style.
 6. Similarly for connectors from Connectors.xml if desired.
 7. Remove groups that were temporarily added to canvas.
-8. If Cloud Universe group was used you can either leave as is or replace with the Public Network and Enterprise Network groups in VPCgroups.xml.
+8. If Cloud Universe group was used you can either leave as is or replace with the Public Network and Enterprise Network groups in Groups.xml.
 9. Tweek the diagram if more space is needed in places.
 
 Return to [README](/README.md)
