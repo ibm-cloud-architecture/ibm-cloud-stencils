@@ -7,7 +7,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 ## Overview
 
-IBM VPC diagrams are similar to standard VPC diagrams with groupings that organize a VPC solution to visually show the functionality and availability of the IBM VPC platform.   The groupings are easily identifiable with differences in group border color, group fill color, solid vs dashed group border, group icon, etc.
+IBM VPC diagrams are similar to standard VPC diagrams with groupings that organize a VPC solution to visually show the functionality and availability of the IBM VPC platform.   
 
 ## Examples
 
@@ -42,5 +42,6 @@ IBM VPC diagrams are similar to standard VPC diagrams with groupings that organi
 | Zone | Solid Grey Border<br/>Light Grey Fill |
 | Subnet | Solid Green Border<br>Light Green Fill |
 | Security Group | Dashed Red Border |
+| Reserved Group | Dashed Green Border |
 | Resource Group | Dashed Grey Border |
 | (reserved) | Solid Red Border<br>Light Red Fill |
