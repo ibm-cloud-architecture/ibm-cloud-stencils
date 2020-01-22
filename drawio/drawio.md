@@ -5,7 +5,10 @@
 # Implementation Notes
 
 1. Use draw.io with IBM Stencils enabled:  https://draw.io/?libs=ibm
-2. Refer to Boxes.xml and Connectors.xml on this github. Path of tags (upper left corner of some boxes) at beginning of styles will change and some tags won't initially match the example above.
+2. Refer to Boxes.xml and Connectors.xml on this github. The tags (upper left corner of boxes) have some changes and the final path mentioned in the Box.xml styles on this github will change.
+3. The boxes are not implemented as draw.io containers due to a potential expansion problem but grouping boxes has a similar effect as containers. 
+4. Before exporting ia diagrams to svg, select the entire diagram, then check the Selection Only and Crop, and check the Embed Images if the svg will be used offline.  If the Selection Only and Crop is not done the resulting svg file may have extra white space (potentially significant) around the diagram which can also be removed by reducing the width and height in the svg itself.
+
 
 # Upgrade Steps
 
