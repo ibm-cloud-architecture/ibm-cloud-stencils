@@ -7,7 +7,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 ## Overview
 
-IBM VPC diagrams are similar to standard VPC diagrams with groupings that organize a VPC solution to visually show the functionality and availability of the IBM VPC platform.   
+IBM VPC diagrams are similar to standard VPC diagrams that are designed to help organize a VPC solution to visually show the functionality and availability of the IBM VPC platform.   
 
 ## Examples
 
