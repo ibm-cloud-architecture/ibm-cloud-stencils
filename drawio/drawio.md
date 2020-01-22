@@ -16,18 +16,18 @@ To update an existing diagram to the latest version on this github for draw.io:
 1. Make a local copy of Boxes.xml and Connectors.xml. 
 2. Backup existing diagram, open existing diagram in draw.io, and enable Format Panel under View.
 3. Under File select Open Library from Device... for Boxes.xml and Connectors.xml.
-4. For each group in Boxes.xml: 
-    1. Select group to temporarily add to canvas for extracting style.
+4. For each box in Boxes.xml: 
+    1. Select box to temporarily add to canvas for extracting style.
     2. Select Edit Style (draw.io also provides Copy Style which copies the style but not the image settings).
     3. Select all of new style, right click, select Copy.
-5. For each group in existing diagram: 
+5. For each box in existing diagram: 
     1. For Subnet, move contents of ACL textbox to Subnet textbox, see example.
-    2. Delete existing group tag.
+    2. Delete existing box tag.
     3. Select Edit Style (draw.io also provides Paste Style which along with Copy Style copies the style but not the image settings).
     4. Select all of old style, right click and select Delete, right click and select Paste to insert copied new style.
 6. Similarly for connectors from Connectors.xml if desired.
-7. Remove groups that were temporarily added to canvas.
-8. If Cloud Universe group was used you can either leave as is or replace with the Public Network and Enterprise Network groups in Boxes.xml.
+7. Remove boxes that were temporarily added to canvas.
+8. If Cloud Universe box was used either leave as is or replace with the Public Network and Enterprise Network boxes in Boxes.xml.
 9. Tweek the diagram if more space is needed in places.
 
 Return to [README](/README.md)
