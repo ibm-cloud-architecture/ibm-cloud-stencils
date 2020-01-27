@@ -48,7 +48,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 | Group | Style |
 | :--- | :--- |
-| IBM Cloud<br/>VPC<br/>Public Network<br/>Enterprise Network<br/>Other Group | Solid Blue Border |
+| VPC<br/>IBM Cloud<br/>Public Network<br/>Enterprise Network | Solid Blue Border |
 | Region | Solid Grey Border |
 | Zone | Solid Grey Border<br/>Light Grey Fill |
 | Subnet | Solid Green Border<br>Light Green Fill |
