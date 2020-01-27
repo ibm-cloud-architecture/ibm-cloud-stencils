@@ -28,7 +28,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 5. Added boxes for Resource Group and Reserved Group (actual name coming).
 6. Added general boxes for Public Network and Enterprise Network.
 7. Added icons for Power Instance and Transit Gateway.
-8. Added connectors with elbows and dashes. 
+8. Added additional connectors based on usage. 
 
 ## Styles
 
