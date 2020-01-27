@@ -3,7 +3,7 @@
 Create IBM Cloud diagrams with enterprise tools using IBM Cloud Stencils.  
 Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectures/edit) for complete details.
 
-# IBM Cloud VPC Stencils
+# IBM Cloud Stencils for VPC
 
 ## Overview
 
@@ -19,7 +19,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 [Visio2010](/visio2010/visio2010.md)
 
-## Updates
+## Updates (January 2020)
 
 1. Separated into vpc icons, boxes, and connectors.
 2. Ensure tag remains in position with box during diagram creation in draw.io.  
