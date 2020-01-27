@@ -22,7 +22,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 ## Updates
 
 1. Separated into vpc icons, boxes, and connectors.
-2. Ensure box tag remains in position with box during diagram creation in draw.io.  
+2. Ensure tag remains in position with box during diagram creation in draw.io.  
 3. Removed use of containers for some boxes on draw.io and leave for future consideration.
 4. Added shading to boxes for zones and subnets for consumability and readability.
 5. Added boxes for Resource Group and Reserved Group (actual name coming).
