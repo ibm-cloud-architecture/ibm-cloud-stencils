@@ -5,7 +5,7 @@
 # Notes
 
 1. To use the IBM Stencils with draw.io:  https://draw.io/?libs=ibm
-2. Use the Boxes.xml and Connectors.xml on this github in conjunction with the IBM VPC Stencils on draw.io. The temporary Boxes.xml on this github has some differences including path in the final version.
+2. Use the temporary Boxes.xml and Connectors.xml on this github in conjunction with the IBM VPC Stencils on draw.io. The Boxes.xml on this github has some differences including path in the final version.
 3. To enable container-like use of the boxes, grouping boxes will create a similar effect as containers.  The draw.io container property is not enabled due to a potential problem. 
 4. To use svg when exporting a diagram, select the entire diagram, then check the Selection Only and Crop, and check the Embed Images (to include icons) if the svg will be used offline.  If the Selection Only and Crop is not done the resulting svg file may have extra white space around the diagram which can also be removed by reducing the width and height in the svg itself.
 
