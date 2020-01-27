@@ -2,9 +2,9 @@
 
 ![VPCExperience](/images/ibm_vpc_architecture_visio.png)
 
-# Implementation Notes
+# Notes
 
-# Upgrade Steps
+# Upgrading
 
 To update an existing diagram to the latest version on this github for Visio 2010:
 1. Make a local copy of Boxes.vss, Connectors.vss, and VPC.vss in your My Shapes folder.
