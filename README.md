@@ -30,6 +30,11 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 7. Added icons for Power Instance and Transit Gateway.
 8. Added additional connectors based on usage. 
 
+## Notes
+
+1. Connectors are provided by the IBM Cloud Stencils as a convenience in addition to the connectors provided by the tool.  For example, arrows can be drawn between objects directly in draw.io resulting in a single arrow connector with 1 pt width which can be left as is or updated to a double arrow or dashed line with 2 pt width similar to the provided connectors.
+2. Box tags, box titles, and box colors are provided as a visual reference but can be customized.  For example, rather than have both a box tag and box title for IBM Cloud the box would still be recognizable with one or the other.
+
 ## Styles
 
 | Style | Hex Color | RGB Color | Font/Width |

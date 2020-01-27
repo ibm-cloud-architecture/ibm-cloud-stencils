@@ -4,6 +4,8 @@
 
 # Notes
 
+1. Additional work is needed on the boxes and tags in Visio.
+
 # Upgrading
 
 To update an existing diagram to the latest version on this github for Visio 2010:

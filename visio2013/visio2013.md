@@ -4,7 +4,7 @@
 
 # Notes
 
-1. Additional work is needed on the box tag in Visio.
+1. Additional work is needed on the boxes and tags in Visio.
 
 # Upgrading
 
