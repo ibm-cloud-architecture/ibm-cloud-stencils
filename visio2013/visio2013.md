@@ -4,6 +4,8 @@
 
 # Notes
 
+1. Additional work is needed on the box tag in Visio.
+
 # Upgrading
 
 To update an existing diagram to the latest version on this github for Visio 2013:
