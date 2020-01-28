@@ -48,9 +48,9 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | Red Borders | #FF0000 | 255,0,0 |
 | Light Red Fill (reserved) | #FFE4E1 | 255,228,225 |
 
-## Groups
+## Boxes
 
-| Group | Style | Width |
+| Box | Style | Width |
 | :--- | :--- | ---: |
 | VPC<br/>IBM Cloud<br/>Public Network<br/>Enterprise Network | Solid Blue Border | 2 pt |
 | Region | Solid Grey Border | 2 pt |
