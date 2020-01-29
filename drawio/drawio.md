@@ -2,6 +2,8 @@
 
 ![VPCExperience](/images/ibm_vpc_architecture_drawio.png)
 
+![VPCGen2Experience](/images/ibm_vpc_architecture_gen2_drawio.png)
+
 # Notes
 
 1. To use the IBM Stencils with draw.io:  https://draw.io/?libs=ibm
