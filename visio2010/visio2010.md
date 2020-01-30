@@ -21,10 +21,10 @@ To update an existing diagram to the latest version on this github for Visio 201
     2. Delete existing group tag.
     3. Select border.
     4. Change to solid line if not already.
-    5. Change to 2 pt width.
+    5. Change to same width used in Boxes.
     6. Change to same color used in Boxes.
     7. Add group tag from Boxes.
-6. Change arrows and lines to 2 pt width if desired.
+6. Use 1 pt width for connectors or as desired.
 7. If Cloud Universe group was used you can either leave as is or replace with the Public Network and Enterprise Network groups in Boxes.
 8. Tweek the diagram if more space is needed in places.
 
