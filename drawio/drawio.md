@@ -3,8 +3,8 @@
 ### VPC Gen1/Gen2 Experience
 ![VPCExperience](/images/ibm_vpc_architecture_drawio.png)
 
-<!-- ### VPC Gen2 Experience -->
-<!-- ![VPCGen2Experience](/images/ibm_vpc_architecture_gen2_drawio.png) -->
+### VPC Gen2 Experience
+![VPCGen2Experience](/images/ibm_vpc_architecture_gen2_drawio.png)
 
 # Notes
 
