@@ -1,12 +1,13 @@
-## IBM VPC Stencils for Visio 2013
+# IBM VPC Stencils for Visio 2013
 
-![VPCExperience](/images/ibm_vpc_architecture_visio.png)
+## IBM VPC Architecture for Gen1/Gen2
+![VPCArchitecture](/images/ibm_vpc_architecture_visio.png)
 
-# Notes
+## Notes
 
-1. Additional work is needed on securing the tags in Visio.
+1. Additional work is needed on securing the tags.
 
-# Upgrading
+## Upgrading
 
 To update an existing diagram to the latest version on this github for Visio 2013:
 1. Make a local copy of Boxes.vssx, Connectors.vssx, and VPC.vssx in your My Shapes folder.

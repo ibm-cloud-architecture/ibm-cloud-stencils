@@ -1,12 +1,12 @@
-## IBM VPC Stencils for draw.io
+# IBM VPC Stencils for draw.io
 
-### VPC Gen1/Gen2 Experience
-![VPCExperience](/images/ibm_vpc_architecture_drawio.png)
+## IBM VPC Architecture for Gen1/Gen2
+![VPCArchitecture](/images/ibm_vpc_architecture_drawio.png)
 
-### VPC Gen2 Experience
-![VPCGen2Experience](/images/ibm_vpc_architecture_gen2_drawio.png)
+## IBM VPC Architecture for Gen2
+![VPCArchitecture](/images/ibm_vpc_architecture_gen2_drawio.png)
 
-# Notes
+## Notes
 
 1. To use the IBM Stencils with draw.io:  https://draw.io/?libs=ibm
 2. Use the temporary Boxes.xml and Connectors.xml on this github in conjunction with the IBM VPC Stencils on draw.io. The Boxes.xml on this github has some differences including path in the final version.
@@ -14,7 +14,7 @@
 4. To use svg when exporting a diagram, select the entire diagram, then check the Selection Only and Crop, and check the Embed Images (to include icons) if the svg will be used offline.  If the Selection Only and Crop is not done the resulting svg file may have extra white space around the diagram which can also be removed by reducing the width and height in the svg itself.
 
 
-# Upgrading
+## Upgrading
 
 To update an existing diagram to the latest version on this github for draw.io:
 1. Make a local copy of Boxes.xml and Connectors.xml. 

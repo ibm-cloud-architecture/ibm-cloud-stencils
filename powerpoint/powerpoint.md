@@ -1,12 +1,13 @@
-## IBM Cloud Stencils for PowerPoint
+# IBM Cloud Stencils for PowerPoint
 
-![VPCExperience](/images/ibm_vpc_architecture_powerpoint.png)
+## IBM VPC Architecture for Gen1/Gen2
+![VPCArchitecture](/images/ibm_vpc_architecture_powerpoint.png)
 
-# Notes
+## Notes
 
 1. Refer to all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesJanuary2020.pptx (referred to as VPCv2 PPT below) on this github.
 
-# Upgrading
+## Upgrading
 
 To update an existing diagram to the latest version on this github for PowerPoint:
 1. Open VPCv2 PPT.

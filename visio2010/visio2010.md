@@ -1,12 +1,13 @@
-## IBM VPC Stencils for Visio 2010
+# IBM VPC Stencils for Visio 2010
 
+## IBM VPC Architecture for Gen1/Gen2
 ![VPCExperience](/images/ibm_vpc_architecture_visio.png)
 
-# Notes
+## Notes
 
-1. Additional work is needed on securing the tags in Visio.
+1. Additional work is needed on securing the tags.
 
-# Upgrading
+## Upgrading
 
 To update an existing diagram to the latest version on this github for Visio 2010:
 1. Make a local copy of Boxes.vss, Connectors.vss, and VPC.vss in your My Shapes folder.
