@@ -9,8 +9,9 @@
 ## Notes
 
 1. To use the IBM Stencils with draw.io:  https://draw.io/?libs=ibm
-2. Evaluating whether containes enabled on all boxes is problematic - may change.
-3. To use svg when exporting a diagram, select the entire diagram, then check the Selection Only and Crop, and check the Embed Images (to include icons) if the svg will be used offline.  If the Selection Only and Crop is not done the resulting svg file may have extra white space around the diagram which can also be removed by reducing the width and height in the svg itself.
+2. Continuing to evaluate whether containers enabled on all boxes is problematic - subject to change.
+3. The ibm_vpc_archtecture template under Cloud on draw.io is outdated and being updated.
+4. To use svg when exporting a diagram, select the entire diagram, then check the Selection Only and Crop, and check the Embed Images (to include icons) if the svg will be used offline.  If the Selection Only and Crop is not done the resulting svg file may have extra white space around the diagram which can also be removed by reducing the width and height in the svg itself.
 
 ## Upgrading
 
