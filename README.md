@@ -31,7 +31,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 ## Notes
 
 1. To migrate existing diagrams to latest version of stencils:
-   1. Apply box styles from new boxes to existing diagram.
+   1. Apply box styles from new boxes to existing diagram and delete existing box tags.
    2. Apply connector styles from new connectors to existing diagram if desired.
    3. ACL is now specified as Subnet:ACL in Subnet title that can be customize as desired.
    4. Cloud Universe now consists of 3 boxes for Public Network + IBM Cloud + Enterprise Network.
