@@ -50,7 +50,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | Grey Borders | #919191 | 145,145,145 |
 | Light Grey Fill | #E0E0E0 | 224,224,224 |
 | Red Borders | #FF0000 | 255,0,0 |
-| Light Red Fill (reserved) | #FFE4E1 | 255,228,225 |
+| Light Red Fill | #FFE4E1 | 255,228,225 |
 
 ## Boxes
 
