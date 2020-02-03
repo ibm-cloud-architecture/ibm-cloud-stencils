@@ -24,15 +24,13 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 1. Separated into vpc icons, boxes, and connectors.
 2. Added box type with integrated tags and boxes on draw.io.
 3. Added shading to boxes for zones and subnets for consumability and readability.
-4. Added boxes for Resource Group and Instance Group.
+4. Added boxes for Resource Group and Reserved Group.
 5. Added general boxes for Public Network, Enterprise Network, and Cloud Services.
 6. Added width variation on boxes to signify relative importance of each border.
 7. Added icons for Power Instance and Transit Gateway.
 8. Added additional connectors based on usage. 
 
 ## Notes
-
-1. Connectors are provided by the IBM Cloud Stencils in addition to the connectors provided by the tool, for example, arrows can be drawn between objects directly in draw.io resulting in a single arrow connector which can be left as is or updated to a double arrow or dashed line similar to the provided connectors.
 
 ## Styles
 
@@ -58,7 +56,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt |
 | Subnet | Solid Green Border<br>Light Green Fill | 1 pt |
 | Security Group | Dashed Red Border | 2 pt |
-| Instance Group | Dashed Green Border | 2 pt |
+| Reserved Group | Dashed Green Border | 2 pt |
 | Resource Group | Dashed Grey Border | 2 pt |
 | Cloud Services | Solid Blue Border | 1 pt |
 | (reserved) | Solid Red Border<br>Light Red Fill | 1 pt |
