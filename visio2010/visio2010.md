@@ -5,7 +5,7 @@
 
 ## Notes
 
-1. Boxes are implemented as containers.
+1. Nongroup boxes are implemented as containers.
 2. Box tags are currently separate and can optionally be placed on upper left corner of boxes.
 
 Return to [README](/README.md)
