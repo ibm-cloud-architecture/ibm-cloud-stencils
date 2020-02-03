@@ -30,7 +30,8 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ## Notes
 
-1. To migrate existing diagrams to latest version of stencils:
+1. Instance Group product feature is not currently available. 
+2. To migrate existing diagrams to latest version of stencils:
    1. Apply box styles from new boxes to existing diagram and delete existing box tags.
    2. Apply connector styles from new connectors to existing diagram if desired.
    3. ACL is now specified as Subnet:ACL in Subnet title that can be customize as desired.
@@ -61,7 +62,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt |
 | Subnet | Solid Green Border<br>Light Green Fill | 1 pt |
 | Security Group | Dashed Red Border | 2 pt |
-| Reserved Group | Dashed Green Border | 2 pt |
+| Instance Group | Dashed Green Border | 2 pt |
 | Resource Group | Dashed Grey Border | 2 pt |
 | Cloud Services | Solid Blue Border | 1 pt |
 | (reserved) | Solid Red Border<br>Light Red Fill | 1 pt |
