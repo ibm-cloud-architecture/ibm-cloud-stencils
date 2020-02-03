@@ -24,7 +24,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 1. Organized into vpc icons, boxes, and connectors.
 2. Added box type with integrated tags on draw.io.
 3. Added shading to boxes for zones and subnets.
-4. Added width variation on all boxes.
+4. Added width variation on boxes.
 5. Added boxes for Instance Group, Resource Group, Cloud Services, Public Network, and Enterprise Network.
 6. Added icons for Power Instance and Transit Gateway.
 
@@ -32,7 +32,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 1. Instance Group feature is not currently available. 
 2. To migrate existing diagrams to latest version of stencils:
-   1. Apply box styles from new boxes to existing diagram and delete existing box tags.
+   1. Apply box styles from new boxes to existing diagram and delete existing box tags.  Note that updating box styles in existing diagrams won't take advantage of containers on draw.io.
    2. Apply connector styles from new connectors to existing diagram if desired.
    3. ACL is now specified as Subnet:ACL in Subnet title that can be customize as desired.
    4. Cloud Universe now consists of 3 boxes for Public Network + IBM Cloud + Enterprise Network.
