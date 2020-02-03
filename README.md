@@ -32,7 +32,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 1. Instance Group feature is not currently available. 
 2. To migrate existing diagrams to latest version of stencils:
-   1. Apply box styles from new boxes to existing diagram and delete existing box tags.  Note that updating styles in existing diagrams without containers won't take advantage of containers in draw.io with the new stylesi but using the grouping feature could be used to enable container-like behavior if desired.
+   1. Apply box styles from new boxes to existing diagram and delete existing box tags.  For draw.io, updating styles in existing container-less diagrams won't take advantage of containers with new styles but using the grouping feature creates container-like behavior if desired.
    2. Apply connector styles from new connectors to existing diagram if desired.
    3. ACL is now specified as Subnet:ACL in Subnet title that can be customize as desired.
    4. Cloud Universe now consists of 3 boxes for Public Network + IBM Cloud + Enterprise Network.
