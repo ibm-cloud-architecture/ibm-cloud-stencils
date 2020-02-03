@@ -30,7 +30,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ## Notes
 
-1. Instance Group product feature is not currently available. 
+1. Instance Group feature is not currently available. 
 2. To migrate existing diagrams to latest version of stencils:
    1. Apply box styles from new boxes to existing diagram and delete existing box tags.
    2. Apply connector styles from new connectors to existing diagram if desired.
