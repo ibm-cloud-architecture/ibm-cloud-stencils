@@ -22,7 +22,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 ## Updates (February 2020)
 
 1. Organized into vpc icons, boxes, and connectors.
-2. Added box type with integrated tags and boxes on draw.io.
+2. Added box type with integrated tags on draw.io.
 3. Added shading to boxes for zones and subnets.
 4. Added width variation on all boxes.
 5. Added boxes for Instance Group, Resource Group, Cloud Services, Public Network, and Enterprise Network.
