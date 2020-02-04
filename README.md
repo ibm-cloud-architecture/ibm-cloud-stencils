@@ -44,9 +44,9 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ### draw.io Issues
 
-1. There is a potential issue being investigated with draw.io when overlaying groups on multiple boxes which may cause underlying boxes to expand and have to be resized.
-2. Potential issue being investigated with draw.io when adding icons to a container where sometimes the icon does not remain with the container.
-3. There is a potential issue being investigated with the unchecking sometimes not sticking.
+1. Issue being investigated with draw.io when overlaying a group on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Response is that this is working as designed but the plan is to add an option to disable the resizing.  
+2. Issue being investigated with draw.io when adding icons to a container where sometimes the icon does not remain with the container.  Status: We are recreating test scenario.
+3. Issue being investigated with draw.io with the unchecking sometimes not sticking.  Status: Plan to discuss.
 
 ## Visio Notes
 
@@ -73,15 +73,15 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ## Box Standards
 
-| Box | Style | Width |
-| :--- | :--- | ---: |
-| IBM Cloud<br/>Public Network<br/>Enterprise Network | Solid Blue Border | 3 pt |
-| VPC | Solid Blue Border | 2 pt |
-| Region | Solid Grey Border | 2 pt |
-| Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt |
-| Subnet | Solid Green Border<br>Light Green Fill | 1 pt |
-| Instance Group | Dashed Green Border | 2 pt |
-| Resource Group | Dashed Grey Border | 2 pt |
-| Security Group | Dashed Red Border | 2 pt |
-| Cloud Services | Solid Blue Border | 1 pt |
-| (reserved) | Solid Red Border<br>Light Red Fill | 1 pt |
+| Box | Style | Width | Type |
+| :--- | :--- | ---: | --: |
+| IBM Cloud<br/>Public Network<br/>Enterprise Network | Solid Blue Border | 3 pt | Container | 
+| VPC | Solid Blue Border | 2 pt | Container |
+| Region | Solid Grey Border | 2 pt | Container |
+| Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
+| Subnet | Solid Green Border<br>Light Green Fill | 1 pt | Container |
+| Instance Group | Dashed Green Border | 2 pt | Non-container |
+| Resource Group | Dashed Grey Border | 2 pt | Non-container |
+| Security Group | Dashed Red Border | 2 pt | Non-container |
+| Cloud Services | Solid Blue Border | 1 pt | Container |
+| (reserved) | Solid Red Border<br>Light Red Fill | 1 pt | Container |
