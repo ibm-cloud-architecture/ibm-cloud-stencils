@@ -40,7 +40,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 5. Changing box border color will also change the tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
 6. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
 7. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  See issue #3.
-8. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and white space is mimimal (select entire diagram first then check the Selection Only and Crop).
+8. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram first then check the Selection Only and Crop) if embedding in a document.
 
 ### draw.io Issues
 
