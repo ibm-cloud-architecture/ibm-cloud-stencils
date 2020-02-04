@@ -35,7 +35,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 1. To use the IBM Stencils: https://draw.io/?libs=ibm
 2. Template named ibm_vpc_architecture under Cloud is currently outdated.
 3. Folders on this github are used for changes not on draw.io.
-4. Nongroup boxes are implemented as containers.  Temporary step to set container=0 (in style or uncheck property) for group boxes only.  There is a potential issue being investigated when overlaying groups on multiple boxes which may cause underlying boxes to expand and have to be resized.
+4. Nongroup boxes are implemented as containers.  Temporary step to set container=0 (in style or uncheck property) for the 3 group boxes only.  The group boxes arenamed as such and are the only dashed boxes.  There is a potential issue being investigated when overlaying groups on multiple boxes which may cause underlying boxes to expand and have to be resized.
 5. Box tag can be removed if desired by removing shape and prType properties in style.
 6. Box tag and border can change color if desired by changing border color which would deviate from the standards below but can be useful to make the border and tag invisible on white background by changing border color to white, for example to advantage of containers for Public Network and Enterprise Network but making their border and tag white.
 7. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  There is a potential issue being investigated with the unchecking sometimes not sticking.
