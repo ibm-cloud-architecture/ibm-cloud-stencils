@@ -23,8 +23,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 ## General Notes
 
 1. Instance Group feature is not currently available. 
-2. Diagrams are created without the group boxes first, then the group boxes are overlayed on one or multiple boxes as desired.
-3. To migrate existing diagrams to latest version of stencils:
+2. To migrate existing diagrams to latest version of stencils:
    1. Apply box styles from new boxes to existing diagram and delete existing box tags.  For draw.io, updating styles in existing containerless diagrams won't take advantage of containerized styles but using the grouping feature creates container-like behavior if desired.
    2. Apply connector styles from new connectors to existing diagram if desired.
    3. ACL is now specified as Subnet:ACL in Subnet title that can be customize as desired.
