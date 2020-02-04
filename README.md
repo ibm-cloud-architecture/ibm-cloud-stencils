@@ -9,15 +9,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 Use enterprise tools to create IBM VPC diagrams that are designed to organize a VPC solution to visually show the functionality and availability of the IBM VPC platform.    
 
-## Tools
-
-[draw.io](/drawio/drawio.md)
-
-[PowerPoint](/powerpoint/powerpoint.md)
-
-[Visio2013](/visio2013/visio2013.md)
-
-[Visio2010](/visio2010/visio2010.md)
+![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
 ## Updates (February 2020)
 
@@ -28,16 +20,33 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 5. Added boxes for Instance Group, Resource Group, Cloud Services, Public Network, and Enterprise Network.
 6. Added icons for Power Instance and Transit Gateway.
 
-## Notes
+## General Notes
 
 1. Instance Group feature is not currently available. 
-2. Diagrams can be created without the group boxes first, then the group boxes are overlayed on one or multiple boxes as desired.
+2. Diagrams are created without the group boxes first, then the group boxes are overlayed on one or multiple boxes as desired.
 3. To migrate existing diagrams to latest version of stencils:
    1. Apply box styles from new boxes to existing diagram and delete existing box tags.  For draw.io, updating styles in existing containerless diagrams won't take advantage of containerized styles but using the grouping feature creates container-like behavior if desired.
    2. Apply connector styles from new connectors to existing diagram if desired.
    3. ACL is now specified as Subnet:ACL in Subnet title that can be customize as desired.
    4. Cloud Universe now consists of 3 boxes for Public Network + IBM Cloud + Enterprise Network.
    5. Tweek the diagram if more or less space is needed in places.
+
+## draw.io Notes
+
+1. To use the IBM Stencils: https://draw.io/?libs=ibm
+2. Nongroup boxes are implemented as containers.
+3. Template named ibm_vpc_architecture under Cloud is currently outdated.
+4. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.
+5. When exporting diagrams to svg ensure that icons are included and white space is mimimal.  Icons use a web reference and are not included in the svg by default so if the svg will be used offline check Embed Images when exporting the svg. To minimize white space select the entire diagram first then check the Selection Only and Crop when exporting the svg.
+
+## Visio Notes
+
+1. Nongroup boxes are implemented as containers.
+2. Box tags are currently separate and can optionally be placed on upper left corner of boxes.
+
+## PowerPoint Notes
+
+1. Refer to all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx on this github.
 
 ## Styles
 
