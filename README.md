@@ -44,7 +44,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ### draw.io Issues
 
-1. Issue #723 being investigated with draw.io when overlaying a group on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Response is that this is working as designed but the plan is to add an option to disable the resizing.  
+1. Issue #723 being investigated with draw.io when overlaying a group on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Plan is to add an option to disable the resizing.  
 2. Issue #724 being investigated with draw.io when adding icons to a container where sometimes the icon does not remain with the container.  Status: Recreating test scenario.
 3. Issue #620 planned to be investigated with draw.io with the unchecking sometimes not sticking.  Status: TBD.
 
