@@ -36,7 +36,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 1. To use the IBM Stencils: https://draw.io/?libs=ibm
 2. Template named ibm_vpc_architecture under Cloud is currently outdated.
 3. Folders for draw.io on this github are used for changes not on draw.io.
-4. Nongroup boxes are implemented as containers.  Temporary step required to set container=0 (in style or uncheck property) for the 3 group boxes only.  Group boxes are named as such and are the only dashed boxes.  See issue #1 and #2.
+4. Nongroup boxes are implemented as containers.  Temporary step is required to set container=0 (in style or uncheck property) for the 3 group boxes only.  Group boxes are named as such and are the only dashed boxes.  See issue #1 and #2.
 5. Changing box color will also change the tag color allowing customization with other preferred colors.  Note that deviating from standards below might conflict with additional boxes/colors added to the stencils in the future.
 6. Changing box color to white on a white background has the effect of making the box border and tag invisible.  This can be useful with the Public Network and Enterprise Network boxes, for example, if the preference is to not show the borders for these boxes while still taking advantage of their containers.
 7. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  See issue #2.
@@ -45,7 +45,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 ### draw.io Issues
 
 1. Issue #723 being investigated with draw.io when overlaying a group on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Response is that this is working as designed but the plan is to add an option to disable the resizing.  
-2. Issue #724 being investigated with draw.io when adding icons to a container where sometimes the icon does not remain with the container.  Status: We are recreating test scenario.
+2. Issue #724 being investigated with draw.io when adding icons to a container where sometimes the icon does not remain with the container.  Status: Recreating test scenario.
 3. Issue #620 planned to be investigated with draw.io with the unchecking sometimes not sticking.  Status: TBD.
 
 ## Visio Notes
