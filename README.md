@@ -33,7 +33,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ## draw.io Notes
 
-1. To use the IBM Stencils: https://draw.io/?libs=ibm
+1. To use the IBM Stencils on draw.io: https://draw.io/?libs=ibm
 2. Template named ibm_vpc_architecture under Cloud is currently outdated.
 3. Folders for draw.io on this github are used for changes not on draw.io.
 4. Nongroup boxes are implemented as containers.  Temporary step is required to set container=0 (in style or uncheck property) for the 3 group boxes only.  Group boxes are named as such and are the only dashed boxes.  See issue #1 and #2.
