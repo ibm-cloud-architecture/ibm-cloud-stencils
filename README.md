@@ -35,9 +35,11 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 1. To use the IBM Stencils: https://draw.io/?libs=ibm
 2. Template named ibm_vpc_architecture under Cloud is currently outdated.
 3. Folders on this github are used for changes not on draw.io.
-4. Nongroup boxes are implemented as containers.  Temporary step to set container=0 for nongroup boxes.  There is a potential issue being investigated when overlaying groups on multiple boxes which may cause underlying boxes to expand and have to be resized.
-5. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  There is a potential issue being investigated with the unchecking sometimes not sticking.
-6. When exporting diagrams to svg ensure that icons are included and white space is mimimal.  Icons use a web reference and are not included in the svg by default so if the svg will be used offline check Embed Images when exporting the svg. To minimize white space select the entire diagram first then check the Selection Only and Crop when exporting the svg.
+4. Nongroup boxes are implemented as containers.  Temporary step to set container=0 (in style or uncheck property) for nongroup boxes.  There is a potential issue being investigated when overlaying groups on multiple boxes which may cause underlying boxes to expand and have to be resized.
+5. Box tag can be removed if desired by removing shape and prType properties in style.
+6. Box tag and border can change color if desired by changing color of border or made invisible on white background by changing border to white.  
+7. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  There is a potential issue being investigated with the unchecking sometimes not sticking.
+8. When exporting diagrams to svg ensure that icons are included and white space is mimimal.  Icons use a web reference and are not included in the svg by default so if the svg will be used offline check Embed Images when exporting the svg. To minimize white space select the entire diagram first then check the Selection Only and Crop when exporting the svg.
 
 ## Visio Notes
 
