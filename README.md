@@ -49,7 +49,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 1. Refer to all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx on this github.
 
-## Styles
+## Diagram Standards
 
 | Style | Hex Color | RGB Color |
 | :--- | :--- | :--- |
@@ -63,7 +63,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | Red Borders | #FF0000 | 255,0,0 |
 | Light Red Fill | #FFE4E1 | 255,228,225 |
 
-## Boxes
+## VPC Boxes
 
 | Box | Style | Width |
 | :--- | :--- | ---: |
