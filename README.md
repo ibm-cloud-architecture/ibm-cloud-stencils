@@ -50,10 +50,10 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ### draw.io Issues
 
-1. Issue #620 where setting the icon text background from white to nothing doesn't work.  Status: TBD.
+1. Issue #620 where setting the icon text background from white to nothing doesn't work.  Status: Found that this previously worked, so provided example in issue of a working style and a non-working style.
 2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Opened.
 3. Issue #723 when overlaying a box on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Working as designed but an option is being discussed to disable the auto-resizing.  
-4. Issue #724 when adding an icon to a container the icon doesn't remain with the container.  Status: Found that this scenario doesn't work with nested boxes but icons added to standalone containers does work.
+4. Issue #724 when adding an icon to a container the icon doesn't remain with the container.  Status: Found that this scenario doesn't work with nested boxes but does work with icons added to standalone containers.
 
 ## Visio Notes
 
