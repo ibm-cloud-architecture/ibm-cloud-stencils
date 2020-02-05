@@ -83,8 +83,8 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | Region | Solid Grey Border | 2 pt | Container |
 | Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
 | Subnet | Solid Green Border<br>Light Green Fill | 1 pt | Container |
+| (reserved) | Solid Red Border<br>Light Red Fill | 1 pt | Container |
+| Cloud Services | Solid Blue Border | 1 pt | Container |
 | Instance Group | Dashed Green Border | 2 pt | Non-container |
 | Resource Group | Dashed Grey Border | 2 pt | Non-container |
 | Security Group | Dashed Red Border | 2 pt | Non-container |
-| Cloud Services | Solid Blue Border | 1 pt | Container |
-| (reserved) | Solid Red Border<br>Light Red Fill | 1 pt | Container |
