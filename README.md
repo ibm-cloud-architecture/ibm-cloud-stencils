@@ -38,7 +38,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 1. To use the IBM Stencils on draw.io: https://draw.io/?libs=ibm
 2. Template named ibm_vpc_architecture under Cloud is currently outdated.
 3. Folders for draw.io on this github are used for changes not on draw.io.
-4. Nongroup boxes are implemented as containers:  
+4. Primary boxes are implemented as containers:  
    1. Temporary step to set container=0 (in style or uncheck property) for the 3 secondary boxes (Instance Group, Resource Group, Security Group), or leave as is if this isn't problematic.  See issue #2.
    2. Temporary step to resize underlying primary boxes when secondary boxes are placed across multiple primary boxes.  See issue #3.
    3. Temporary step to ensure icons remain with a box by adding icons to standalone boxes before nesting boxes, or group boxes if preferred.  See issue #4.
@@ -57,7 +57,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ## Visio Notes
 
-1. Nongroup boxes are implemented as containers.
+1. Primary boxes are implemented as containers.
 2. Box tags are currently separate and can optionally be placed on upper left corner of boxes.
 
 ## PowerPoint Notes
