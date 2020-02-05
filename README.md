@@ -25,7 +25,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 1. Instance Group feature is not currently available. 
 2. IBM VPC has a single subnet type referred to as Subnet.
 3. Subnet:ACL denotes a Subnet with an associated ACL and can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
-4. Diagram containers if available in a tool (draw.io and Visio) are useful for primary boxes but not secondary boxes.  The draw.io folks agree and would like us to use containers so we are working through a few issues as noted.  
+4. Diagram containers if available in a tool (draw.io and Visio) are useful for primary boxes but not secondary boxes.  
 5. To migrate existing diagrams to latest version of stencils:
    1. Apply box styles from new boxes to existing diagram and delete existing box tags.  For draw.io, updating styles in existing containerless diagrams won't take advantage of containerized styles but using the grouping feature creates container-like behavior if desired.
    2. Apply connector styles from new connectors to existing diagram if desired.
@@ -39,7 +39,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 2. Template named ibm_vpc_architecture under Cloud is currently outdated.
 3. Folders for draw.io on this github are used for changes not on draw.io.
 4. Nongroup boxes are implemented as containers.  Temporary step is required to set container=0 (in style or uncheck property) for the 3 group dashed boxes.  See issue #1 and #2.
-5. Changing box border color will also change the tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
+5. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
 6. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
 7. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  See issue #3.
 8. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
