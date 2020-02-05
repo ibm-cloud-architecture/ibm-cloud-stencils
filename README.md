@@ -76,7 +76,9 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 | Box | Style | Width | Type |
 | :--- | :--- | ---: | --: |
-| IBM Cloud<br/>Public Network<br/>Enterprise Network | Solid Blue Border | 3 pt | Container | 
+| IBM Cloud | Solid Blue Border | 3 pt | Container | 
+| Public Network | Solid Blue Border | 3 pt | Container | 
+| Enterprise Network | Solid Blue Border | 3 pt | Container | 
 | VPC | Solid Blue Border | 2 pt | Container |
 | Region | Solid Grey Border | 2 pt | Container |
 | Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
