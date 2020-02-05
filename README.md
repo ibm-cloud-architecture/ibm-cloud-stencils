@@ -39,7 +39,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 2. Template named ibm_vpc_architecture under Cloud is currently outdated.
 3. Folders for draw.io on this github are used for changes not on draw.io.
 4. Nongroup boxes are implemented as containers:  
-   1. Temporary step to set container=0 (in style or uncheck property) for the 3 secondary boxes (Instance Group, Resource Group, Security Group).  See issue #2.
+   1. Temporary step to set container=0 (in style or uncheck property) for the 3 secondary boxes (Instance Group, Resource Group, Security Group), or leave as is if this isn't problematic.  See issue #2.
    2. Temporary step to resize underlying primary boxes when secondary boxes are placed across multiple primary boxes.  See issue #3.
    3. Temporary step to ensure icons remain with a box by adding icons to standalone boxes before nesting boxes.  See issue #4.
 5. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
