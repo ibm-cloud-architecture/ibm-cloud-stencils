@@ -38,17 +38,22 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 1. To use the IBM Stencils on draw.io: https://draw.io/?libs=ibm
 2. Template named ibm_vpc_architecture under Cloud is currently outdated.
 3. Folders for draw.io on this github are used for changes not on draw.io.
-4. Nongroup boxes are implemented as containers.  Temporary step is required to set container=0 (in style or uncheck property) for the 3 group dashed boxes.  See issue #1 and #2.
+4. Nongroup boxes are implemented as containers:  
+   1. Temporary step to set container=0 (in style or uncheck property) for the 3 secondary boxes (Instance Group, Resource Group, Security Group).  See issue #2.
+   2. Temporary step to resize underlying primary boxes when secondary boxes are placed across multiple primary boxes.  See issue #3.
+   3. Temporary step to ensure icons remain with a box by adding icons to standalone boxes before nesting boxes.  See issue #4.
 5. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
 6. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
-7. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  See issue #3.
+7. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  
+   1. Temporary step to replace a non-working style with a working style in each icon in shaded areas, or leave with text background color of white.  See issue #1.
 8. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
 
 ### draw.io Issues
 
-1. Issue #723 being investigated with draw.io when overlaying a group on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Plan is to add an option in draw.io to disable the auto-resizing.  
-2. Issue #724 being investigated with draw.io when adding icons to a container where sometimes the icon does not remain with the container.  Status: Test scenario recreated with latest boxes and zip created and posted to issue.
-3. Issue #620 to be investigated with draw.io where setting the icon text background from white to nothing doesn't always stick.  Status: TBD.
+1. Issue #620 where setting the icon text background from white to nothing doesn't work.  Status: TBD.
+2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Opened.
+3. Issue #723 when overlaying a box on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Working as designed but an option is being discussed to disable the auto-resizing.  
+4. Issue #724 when adding an icon to a container the icon doesn't remain with the container.  Status: Found that this scenario doesn't work with nested boxes but icons added to standalone containers does work.
 
 ## Visio Notes
 
