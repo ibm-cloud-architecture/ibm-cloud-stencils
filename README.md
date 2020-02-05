@@ -23,9 +23,10 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 ## General Notes
 
 1. Instance Group feature is not currently available. 
-2. IBM VPC has a single subnet type referred to as Subnet or Subnet:ACL in the stencils to denote a Subnet with an associated ACL.
-3. Diagram containers if available in a tool (draw.io and Visio) are useful for primary boxes but not secondary boxes.  The draw.io folks would like us to use their containers so we are working through a few issues as noted.  
-4. To migrate existing diagrams to latest version of stencils:
+2. IBM VPC has a single subnet type referred to as Subnet.
+3. Subnet:ACL denotes a Subnet with an associated ACL and can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
+4. Diagram containers if available in a tool (draw.io and Visio) are useful for primary boxes but not secondary boxes.  The draw.io folks agree and would like us to use containers so we are working through a few issues as noted.  
+5. To migrate existing diagrams to latest version of stencils:
    1. Apply box styles from new boxes to existing diagram and delete existing box tags.  For draw.io, updating styles in existing containerless diagrams won't take advantage of containerized styles but using the grouping feature creates container-like behavior if desired.
    2. Apply connector styles from new connectors to existing diagram if desired.
    3. ACL is now specified as Subnet:ACL in Subnet title that can be customize as desired.
@@ -74,7 +75,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ## Box Standards
 
-| Box | Style | Width | Type |
+| Box | Style | Width | Type (if available) |
 | :--- | :--- | ---: | :--- |
 | IBM Cloud | Solid Blue Border | 3 pt | Container | 
 | Public Network | Solid Blue Border | 3 pt | Container | 
