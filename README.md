@@ -41,7 +41,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 4. Primary boxes are implemented as containers:  
    1. Temporary step to set container=0 (in style or uncheck property) for the 3 secondary boxes (Instance Group, Resource Group, Security Group), or leave as is.  See issue #2.
    2. Temporary step to resize underlying primary boxes when secondary boxes are placed across multiple primary boxes.  See issue #3.
-   3. Temporary step to ensure icons remain with a primary box by adding icons to standalone primary boxes before nesting primary boxes, or group primary boxes if preferred.  See issue #4.
+   3. Temporary step to ensure icons remain with a primary box by adding icons to standalone primary boxes before nesting primary boxes, or maybe group nested primary boxes.  See issue #4.
 5. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
 6. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
 7. When adding icons to diagrams the default white background color for text can be unchecked if desired so text has background color of shaded boxes.  
