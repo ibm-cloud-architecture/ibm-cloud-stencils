@@ -11,15 +11,6 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
-## Updates (February 2020)
-
-1. Organized into vpc icons, boxes, and connectors.
-2. Added box type with integrated tags on draw.io.
-3. Added shading to boxes for zones and subnets.
-4. Added width variation on boxes.
-5. Added boxes for Instance Group, Resource Group, Cloud Services, Public Network, and Enterprise Network.
-6. Added icons for Power Instance and Transit Gateway.
-
 ## General Notes
 
 1. Instance Group feature is not currently available. 
