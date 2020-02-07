@@ -67,7 +67,6 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | Grey Borders | #919191 | 145,145,145 |
 | Light Grey Fill | #E0E0E0 | 224,224,224 |
 | Red Borders | #FF0000 | 255,0,0 |
-| Light Red Fill | #FFE4E1 | 255,228,225 |
 
 ## Box Standards
 
@@ -79,8 +78,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | VPC | Solid Blue Border | 2 pt | Container |
 | Region | Solid Grey Border | 2 pt | Container |
 | Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
-| Subnet | Solid Green Border<br>Light Green Fill | 1 pt | Container |
-| (reserved) | Solid Red Border<br>Light Red Fill | 1 pt | Container |
+| Subnet | Solid Green Border<br>(changeable to Solid Red Border)<br>Light Green Fill | 1 pt | Container |
 | Cloud Services | Solid Blue Border | 1 pt | Container |
 | Instance Group | Dashed Green Border | 2 pt | Non-container |
 | Resource Group | Dashed Grey Border | 2 pt | Non-container |
