@@ -85,4 +85,5 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 | Security Group | Dashed Red Border | 2 pt | Non-container |
 
 Notes:
+
 a. Subnet can optionally be changed to Solid Red Border to highlight exposed resources.
