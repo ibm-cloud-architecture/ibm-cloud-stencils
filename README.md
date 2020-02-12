@@ -44,6 +44,7 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Opened.
 3. Issue #723 when overlaying a box on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Working as designed but an option is being discussed to disable the auto-resizing.  
 4. Issue #724 when adding an icon to a container the icon doesn't remain with the container.  Status: Found that this scenario works in various cases but not consistently, under discussion.
+5. Issue TBD to remove white background surrounding Floating IP icon.
 
 ## Visio Notes
 
