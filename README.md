@@ -11,6 +11,8 @@ Use enterprise tools to create IBM VPC diagrams that are designed to organize a 
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
+To create Terraform for IBM Virtual Private Cloud refer to [Terraformer](https://github.com/ibm-cloud-architecture/terraformer)
+
 ## General Notes
 
 1. Instance Group feature is not currently available. 
