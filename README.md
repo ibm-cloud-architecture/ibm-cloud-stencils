@@ -7,7 +7,7 @@ Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architec
 
 ## Overview
 
-Use enterprise tools to create IBM VPC diagrams that are designed to organize a VPC solution to visually show the functionality and availability of the IBM VPC platform.    
+IBM VPC diagrams are designed to organize a VPC solution to visually show the functionality and availability of the IBM VPC platform.    
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
@@ -19,17 +19,12 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 2. IBM VPC has a single subnet type Subnet.
 3. Subnet:ACL denotes a Subnet with an associated ACL which can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
 4. Diagram containers if available in a tool (draw.io and Visio) are used for primary boxes but not secondary boxes.  Secondary boxes are Instance Group, Resource Group, and Security Group.  
-5. To migrate existing diagrams to latest version (February 2020) of stencils:
-   1. Apply box styles from new boxes to existing diagram and delete existing box tags.  For draw.io, updating styles in existing containerless diagrams won't take advantage of containerized styles but using the grouping feature creates container-like behavior if desired.
-   2. Apply connector styles from new connectors to existing diagram if desired.
-   3. ACL is now specified as Subnet:ACL in Subnet title that can be customized as desired.
-   4. Cloud Universe now consists of 3 boxes for Public Network + IBM Cloud + Enterprise Network.
-   5. Tweek the diagram if more or less space is needed in places.
+5. To migrate existing boxes to latest boxes, apply box styles from new boxes to existing diagram.  For draw.io, updating styles in existing containerless diagrams won't take advantage of containerized styles but using the grouping feature creates container-like behavior if desired.
 
 ## draw.io Notes
 
 1. To use the IBM Stencils on draw.io: https://draw.io/?libs=ibm
-2. Template named ibm_vpc_architecture under Cloud is currently outdated.
+2. Template named ibm_vpc_architecture under Cloud on draw.io is currently outdated.
 3. Folders for draw.io on this github are used for changes not on draw.io.
 4. Primary boxes are implemented as containers:  
    1. Temporary step to set container=0 (in style or uncheck property) for the 3 secondary boxes (Instance Group, Resource Group, Security Group), or leave as is.  See issue #2.
