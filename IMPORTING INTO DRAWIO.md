@@ -5,7 +5,7 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 
 ## Import Guides
 
-<details><summary><b>Import using Download Zip</summary>
+<details><summary>Import using Download Zip</summary>
 <p>
 
 - To download all contents of the repository, navigate to the main [page](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils), click the **Clone or download** button and then select **Download ZIP**. Optionally, navigate directly to the [stencils](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils/tree/master/drawio/stencils) folder in github, right click in the XML file you wish to download and select **Save Link As**, choose or browse your desired downloads directory. Repeat as necessary for each XML file.
@@ -32,7 +32,7 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 </details>
 
 
-<details><summary><b>Import using Github Clone</summary>
+<details><summary>Import using Github Clone</summary>
 <p>
 
 Prerequistes
