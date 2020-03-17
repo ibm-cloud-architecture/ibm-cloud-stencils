@@ -1,7 +1,9 @@
 # Importing Stencil Libraries into Draw.io
 
 This easy guide provides instructions to importing draw.io stencils published in this repository (**drawio folder**).
-Stencils/icons are added and grouped using libraries, the libraries can contain one or several stencils, these are saved and generated in XML format (.xml). To use these these custom libraries, they first must be imported in order to make them available in the draw.io utility. There are basically two methods for importing libraries:
+Stencils/icons are added and grouped using libraries, the libraries can contain one or several stencils, these are saved and generated in XML format (.xml). To use these these custom libraries, they first must be imported in order to make them available in the draw.io utility. 
+
+## Import Guides
 
 <details><summary><b>Import using Download Zip</summary>
 <p>
