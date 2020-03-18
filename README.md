@@ -40,11 +40,13 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 <details><summary>Import using Github Clone</summary>
 <p>
 
-Prerequistes
+### Prerequistes
 
 - A [GitHub.com account](https://github.com/).
 - Git [CLI](https://gist.github.com/derhuerst/1b15ff4652a867391f03) or [GitHub Desktop](https://desktop.github.com/).
-- An [SSH Key associated](https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to the github.com account
+- An [SSH Key associated](https://help.github.com/en/githubauthenticating-to-github/adding-a-new-ssh-key-to-your-github-account) to the github.com account.
+ 
+### Instructions
 
 - Sign into [github](https://github.com/login?return_to=%2Fibm-cloud-architecture%2Fibm-cloud-stencils).
 - While in the main [page](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils), click the **Clone or download** button, select on **Use SSH** if not already selected (**Use HTTPS** will be displayed) and then copy the link using the copy symbol:
