@@ -1,3 +1,8 @@
+# IBM Cloud Stencils
+
+Create IBM Cloud diagrams with enterprise tools using IBM Cloud Stencils.  
+Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectures/edit) for complete details.
+
 # Importing Stencil Libraries into Draw.io
 
 This easy guide provides instructions to import stencils published in this repository (**drawio folder**) into draw.io.
@@ -84,12 +89,6 @@ $
 
 </p>
 </details>
-
-
-# IBM Cloud Stencils
-
-Create IBM Cloud diagrams with enterprise tools using IBM Cloud Stencils.  
-Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectures/edit) for complete details.
 
 # IBM Cloud Stencils for VPC
 
