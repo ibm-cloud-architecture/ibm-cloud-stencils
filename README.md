@@ -128,7 +128,6 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 1. Issue #620 where setting the icon text background from white to nothing doesn't work.  Status: Found that this previously worked, so provided example in issue of a working style and a non-working style.
 2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Opened.
 3. Issue #723 when overlaying a box on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Working as designed but an option is being discussed to disable the auto-resizing.  
-5. Issue TBD to remove white background surrounding Floating IP icon.
 
 ## Visio Notes
 
