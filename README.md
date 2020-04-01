@@ -133,12 +133,12 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 ### draw.io Issues
 
 Open Issues:
-1. Issue #620 where setting the icon text background from white to nothing doesn't work.  Status: Found that this previously worked, so provided example in issue of a working style and a non-working style.
+1. Issue #620 where setting the icon text background to transparent doesn't work.  Status: Found that this previously worked, so provided example in issue of a working style and a non-working style.
 2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Open.
 
 Fixed Issues:
 1. Issue #724 where icons dropped onto a container would not stay in the container when the container is moved.  The problem was only on FF browser.
-2. Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand and have to be resized such as when placing a security box across multiple subnet boxes.  This scenario is working as designed in draw.io so requested a way to turn off this behavior which result in a new property "expand" added to swimlanes.  The current behavior is the default with expand=1 and our boxes are set to expand=0.
+2. Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand and have to be resized such as when placing a security group box across multiple subnet boxes.  This scenario is working as designed in draw.io so draw.io added a new property "expand" to swimlanes for our boxes.  The current behavior is the default with expand=1 and our boxes are set to expand=0.
 
 ## Visio Notes
 
