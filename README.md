@@ -117,7 +117,6 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 3. Folders for draw.io on this github are used for changes not on draw.io.
 4. Primary boxes are implemented as containers:  
    1. Temporary step to set container=0 (in style or uncheck property) for the 3 secondary boxes (Instance Group, Resource Group, Security Group), or leave as is.  See issue #2.
-   2. Temporary step to resize underlying primary boxes when secondary boxes are placed across multiple primary boxes if underlying boxes expand.  See issue #3.
 5. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
 6. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
 7. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  See issue #1.
@@ -125,9 +124,15 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 
 ### draw.io Issues
 
+Open Issues:
 1. Issue #620 where setting the icon text background from white to nothing doesn't work.  Status: Found that this previously worked, so provided example in issue of a working style and a non-working style.
-2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Opened.
-3. Issue #723 when overlaying a box on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Working as designed but an option is being discussed to disable the auto-resizing.  
+2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Open.
+
+Fixed Issues:
+1. Issue #724 where icons dropped into a container would not stay in the container when the container is moved around.  The problem was only on FF.
+2. Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand such as when placing a security group box across multiple subnet boxes which then requires resizing the underlying boxes back to their original sizes.  This scenario is working as designed in draw.io so requested a way to turn off this behavior which resulted in a new property "expand" added to swimlanes.  The current behavior is the default with expand=1 and we will set expand=0.
+
+may cause underlying boxes to expand and have to be resized. Status: Working as designed but an option is being discussed to disable the auto-resizing.  
 
 ## Visio Notes
 
