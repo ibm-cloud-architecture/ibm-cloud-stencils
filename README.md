@@ -13,7 +13,7 @@ Stencils/icons are added and grouped using libraries, the libraries can contain 
 <details><summary>Import using Download Zip</summary>
 <p>
 
-- To download all contents of the repository, navigate to the main [page](https://github.com/ibm-cloud-architecture/ibm-cloud-stencils), click the **Clone or download** button and then select **Download ZIP**.
+- To download all contents of the repository, navigate to the main [page](README.md), click the **Clone or download** button and then select **Download ZIP**.
 
 - Go to your downloads directory and extract the ZIP file contents and access the folder called **drawio**, it should be located in the following path:
 
@@ -112,27 +112,29 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 
 ## draw.io Notes
 
-1. To use the IBM Stencils on draw.io: https://draw.io/?libs=ibm
-2. Template named ibm_vpc_architecture under Cloud on draw.io is currently outdated.
-3. Folders for draw.io on this github are used for changes not on draw.io.
-4. Primary boxes are implemented as containers:  
+1. To use the IBM Stencils on draw.io in your browser: https://draw.io/?libs=ibm
+2. To use the IBM Stencils on the [draw.io desktop application](https://github.com/jgraph/drawio-desktop/releases) do the following:
+
+   1. Open application and click on "+ More Shapes" in the bottom left panel.
+   2. Scroll down to the "Networking" section and check "IBM".
+   3. Click "Apply" to finish.
+
+   IBM Stencils should now be available in the embedded categories in the left panel.
+3. Template named ibm_vpc_architecture under Cloud on draw.io is currently outdated.
+4. Folders for draw.io on this github are used for changes not on draw.io.
+5. Primary boxes are implemented as containers:  
    1. Temporary step to set container=0 (in style or uncheck property) for the 3 secondary boxes (Instance Group, Resource Group, Security Group), or leave as is.  See issue #2.
-5. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
-6. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
-7. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  See issue #1.
-8. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
+   2. Temporary step to resize underlying primary boxes when secondary boxes are placed across multiple primary boxes if underlying boxes expand.  See issue #3.
+6. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
+7. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
+8. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  See issue #1.
+9. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
 
 ### draw.io Issues
 
-Open Issues:
 1. Issue #620 where setting the icon text background from white to nothing doesn't work.  Status: Found that this previously worked, so provided example in issue of a working style and a non-working style.
-2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Open.
-
-Fixed Issues:
-1. Issue #724 where icons dropped into a container would not stay in the container when the container is moved around.  The problem was only on FF.
-2. Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand such as when placing a security group box across multiple subnet boxes which then requires resizing the underlying boxes back to their original sizes.  This scenario is working as designed in draw.io so requested a way to turn off this behavior which resulted in a new property "expand" added to swimlanes.  The current behavior is the default with expand=1 and we will set expand=0.
-
-may cause underlying boxes to expand and have to be resized. Status: Working as designed but an option is being discussed to disable the auto-resizing.  
+2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Opened.
+3. Issue #723 when overlaying a box on multiple boxes which may cause underlying boxes to expand and have to be resized. Status: Working as designed but an option is being discussed to disable the auto-resizing.  
 
 ## Visio Notes
 
