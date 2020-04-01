@@ -122,10 +122,10 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
    IBM Stencils should now be available in the embedded categories in the left panel.
 3. Template named ibm_vpc_architecture under Cloud on draw.io is currently outdated.
 4. Folders for draw.io on this github are used for changes not on draw.io.
-5. Primary boxes are containers (container=1) and secondary boxes are not containers (container=0).  Secondary boxes are Instance Group, Resource Group, and Security Group.  Temporary step to set container=0 (in style or uncheck property) for the secondary boxes.  See issue #2.
+5. Primary boxes are containers (container=1) and secondary boxes are not containers (container=0).  Secondary boxes are Instance Group, Resource Group, and Security Group.  Temporary step to set container=0 (in style or uncheck property) for the secondary boxes.  *See open issue #2.*
 6. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
 7. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
-8. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  See issue #1.
+8. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #1.*
 9. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
 
 
