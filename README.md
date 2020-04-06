@@ -132,7 +132,9 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 ### draw.io Issues
 
 Open Issues:
-1. Issue #620 where setting the icon text background to transparent doesn't work.  Status: Found that this previously worked, so provided example in issue of a working style and a non-working style.
+1. Issue #620 where setting the icon text background to transparent doesn't work.  Status: Found that this issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.
+1a. Issue #839 to request moving the labelBackgroundColor=none to after the image; statement for IBM icons.
+Status: Opened.
 2. Issue #748 to remove container setting for 3 secondary boxes.  Status: Open.
 
 Fixed Issues:
