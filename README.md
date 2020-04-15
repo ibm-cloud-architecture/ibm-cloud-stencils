@@ -127,6 +127,7 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 7. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
 8. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #2 and #3.*
 9. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
+10. A new property Resize Children with default checked (corresponds to recursiveResize=1 in style) was added recently by draw.io. Our boxes now set recursiveResize=0 otherwise the contents of boxes are resized whenever the boxes are resized.  Existing diagrams have recursiveResize=1 set so if the diagram will be changed consider setting recursiveResize=0 in the style or uncheck Resize Children for boxes.
 
 
 ### draw.io Issues
