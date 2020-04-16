@@ -92,13 +92,15 @@ $
 </p>
 </details>
 
-# IBM Cloud Stencils for VPC
+# Using IBM Cloud Stencils
 
 ## Overview
 
-IBM VPC diagrams are designed to organize a VPC solution to visually show the functionality and availability of the IBM VPC platform.    
+IBM Cloud diagrams organize a solution with 1) boxes that represent the deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, and 2) groups (Instance Group, Resource Group, Security Group) that represent the deployedTo relationship for grouping services and applications deployed on boxes.
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
+
+To use catalog icons refer to [IBM Cloud Catalog Icons](https://l2fprod.github.io/myarchitecture/).
 
 To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraformer](https://github.com/ibm-cloud-architecture/terraformer).
 
@@ -107,8 +109,8 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 1. Instance Group feature is not currently available. 
 2. IBM VPC has a single subnet type Subnet.
 3. Subnet:ACL denotes a Subnet with an associated ACL which can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
-4. Diagram containers if available in a tool (draw.io and Visio) are used for primary boxes but not secondary boxes.  Secondary boxes are Instance Group, Resource Group, and Security Group.  
-5. To migrate existing boxes to latest boxes, apply box styles from new boxes to existing diagram.  For draw.io, updating styles in existing containerless diagrams won't take advantage of containerized styles but using the grouping feature creates container-like behavior if desired.
+4. Diagram containers if available in a tool (draw.io and Visio) are used for boxes but not groups.
+5. To migrate existing boxes and groups to latest, apply styles from new boxes and groups to existing diagram.  For draw.io, updating styles in existing boxes that are not yet containers won't make existing contents of a box part of the container.
 
 ## draw.io Notes
 
@@ -121,10 +123,8 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 
    IBM Stencils should now be available in the embedded categories in the left panel.
 3. Template named ibm_vpc_architecture under Cloud on draw.io is currently outdated.
-4. Folders for draw.io on this github are used for changes not on draw.io.
-5. Primary boxes are containers (container=1) and secondary boxes are not containers (container=0).  Secondary boxes are Instance Group, Resource Group, and Security Group.  Temporary step to set container=0 (in style or uncheck property) for the secondary boxes.  *See open issue #1.*
-6. Changing box border color will also change tag color allowing customization with other preferred colors, but note that deviating from standards below might conflict with boxes/colors added to the stencils in the future.
-7. Changing box border color to white on white background makes the box appear invisible, so for example if used for Public Network and Enterprise Network boxes to hide borders while still taking advantage of their containers.
+4. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
+5. Boxes are containers (container=1). Groups (Instance Group, Resource Group, Security Group) are not containers (container=0).  Temporary step to set container=0 (in style or uncheck property) for the groups.  *See open issue #1.*
 8. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #2 and #3.*
 9. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
 10. A new property Resize Children with default checked (corresponds to recursiveResize=1 in style) was added recently by draw.io. Our boxes now set recursiveResize=0 otherwise the contents of boxes are resized whenever the boxes are resized.  Existing diagrams have recursiveResize=1 set so if the diagram will be changed consider setting recursiveResize=0 in the style or uncheck Resize Children for boxes.
@@ -133,7 +133,7 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 ### draw.io Issues
 
 Open Issues:
-1. Issue #748 to remove container setting for 3 secondary boxes.<br/>Status: Open.
+1. Issue #748 to remove container setting for the 3 groups.<br/>Status: Open.
 2. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  Found that this issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
 3. Issue #839 to request moving the labelBackgroundColor=none to after the image; statement for IBM icons in lieu of #620.<br/>
 Status: Open.
@@ -144,7 +144,7 @@ Fixed Issues:
 
 ## Visio Notes
 
-1. Primary boxes are implemented as containers.
+1. Boxes are implemented as containers.
 2. Box tags are currently separate and can optionally be placed on upper left corner of boxes.
 
 ## PowerPoint Notes
@@ -164,7 +164,7 @@ Fixed Issues:
 | Light Grey Fill | #E0E0E0 | 224,224,224 |
 | Red Borders | #FF0000 | 255,0,0 |
 
-## Box Standards
+## Box/Group Standards
 
 | Box | Style | Width | Type (if available) |
 | :--- | :--- | ---: | :--- |
