@@ -164,7 +164,7 @@ Fixed Issues:
 | Light Grey Fill | #E0E0E0 | 224,224,224 |
 | Red Borders | #FF0000 | 255,0,0 |
 
-## Box Standards
+## Box/Group Standards
 
 | Box | Style | Width | Type (if available) |
 | :--- | :--- | ---: | :--- |
