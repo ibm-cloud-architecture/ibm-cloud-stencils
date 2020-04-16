@@ -96,9 +96,11 @@ $
 
 ## Overview
 
-IBM Cloud diagrams organize a solution with boxes that represent the deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc. on which services and applications are deployed.
+IBM Cloud diagrams organize a solution with primary boxes that represent the deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, and secondary boxes (Instance Group, Resource Group, Security Group) that represent the deployedTo relationship for grouping services and applications deployed on primary boxes.
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
+
+To use IBM Cloud catalog icons refer to [Catalog Icons](https://l2fprod.github.io/myarchitecture/).
 
 To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraformer](https://github.com/ibm-cloud-architecture/terraformer).
 
@@ -107,7 +109,7 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 1. Instance Group feature is not currently available. 
 2. IBM VPC has a single subnet type Subnet.
 3. Subnet:ACL denotes a Subnet with an associated ACL which can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
-4. Diagram containers if available in a tool (draw.io and Visio) are used for primary boxes but not secondary boxes.  Secondary boxes are Instance Group, Resource Group, and Security Group.  
+4. Diagram containers if available in a tool (draw.io and Visio) are used for primary boxes.
 5. To migrate existing boxes to latest boxes, apply box styles from new boxes to existing diagram.  For draw.io, updating styles in existing containerless diagrams won't take advantage of containerized styles but using the grouping feature creates container-like behavior if desired.
 
 ## draw.io Notes
