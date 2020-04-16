@@ -96,7 +96,7 @@ $
 
 ## Overview
 
-IBM Cloud diagrams organize a solution to visually show the functionality and availability of the IBM Cloud platform.    
+IBM Cloud diagrams organize a solution with boxes that represent the deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc. on which services and applications are deployed.
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
