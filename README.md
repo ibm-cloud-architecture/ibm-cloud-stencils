@@ -96,7 +96,7 @@ $
 
 ## Overview
 
-IBM Cloud diagrams organize a solution with 1) boxes that represent the deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, and 2) groups (Instance Group, Resource Group, Security Group) that represent the deployedTo relationship for grouping services and applications deployed on boxes.
+IBM Cloud diagrams organize a solution with 1) boxes that represent the deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed, and 2) groups that represent the deployedTo relationship for grouping services and applications deployed to one or more boxes.
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
