@@ -108,10 +108,9 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 
 1. Instance Group feature is not currently available. 
 2. Floating IP icon is an arrow where the dot represents a NIC pointing outwards from an instance. 
-3. IBM VPC has a single subnet type Subnet.
-4. Subnet:ACL denotes a Subnet with an associated ACL which can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
-5. Diagram containers if available in a tool (draw.io and Visio) are used for boxes but not groups.
-6. To migrate existing boxes and groups to latest, apply styles from new boxes and groups to existing diagram.  For draw.io, updating styles in existing boxes that are not yet containers won't make existing contents of a box part of the container.
+3. IBM VPC has a single subnet type Subnet where Subnet:ACL denotes a Subnet with an associated ACL which can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
+4. Diagram containers if available in a tool (draw.io and Visio) are used for boxes but not groups.
+5. To migrate existing boxes and groups to latest, apply styles from new boxes and groups to existing diagram.  For draw.io, updating styles in existing boxes that are not yet containers won't make existing contents of a box part of the container.
 
 ## draw.io Notes
 
