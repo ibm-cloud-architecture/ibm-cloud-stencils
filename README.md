@@ -159,7 +159,7 @@ Fixed Issues:
 | Style | Hex Color | RGB Color |
 | :--- | :--- | :--- |
 | Text (Helvetica 12 pt) | #000000 | 0,0,0 |
-| Connectors (1 pt and 2 p5) | #000000 | 0,0,0 |
+| Connectors (1 pt and 2 pt) | #000000 | 0,0,0 |
 | Blue Borders | #4376BB | 67,120,187 |
 | Light Blue Fill | #DFF8FF | 223,248,255 |
 | Green Borders | #00882B | 0,136,43 |
