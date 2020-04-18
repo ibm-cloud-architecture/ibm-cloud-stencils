@@ -179,7 +179,7 @@ Fixed Issues:
 | Region | Solid Grey Border | 2 pt | Container |
 | Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
 | VPC | Solid Blue Border | 2 pt | Container |
-| Subnet | Solid Green Border (a)<br>Light Green Fill | 1 pt | Container |
+| Subnet | Solid Green Border<br/>or Solid Red Border<br>Light Green Fill | 1 pt | Container |
 | Public Network | Solid Blue Border | 3 pt | Container | 
 | Enterprise Network | Solid Blue Border | 3 pt | Container | 
 | Cloud Services | Solid Blue Border | 1 pt | Container |
@@ -190,7 +190,3 @@ Fixed Issues:
 | Instance Group | Dashed Green Border | 2 pt | Non-container |
 | Resource Group | Dashed Grey Border | 2 pt | Non-container |
 | Security Group | Dashed Red Border | 2 pt | Non-container |
-
-Notes:
-
-a. Subnet can optionally be changed to Solid Red Border to highlight exposed resources.
