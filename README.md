@@ -189,8 +189,8 @@ Fixed Issues:
 | Kubernetes Service | <img src="/images/KubeServiceTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | Kubernetes Pod | | Solid Purple Border<br/>Light Purple Fill | 1 pt | Container |
 | Kubernetes Replica Set | <img src="/images/KubeRSTag.png" width=25> | Solid Blue Border<br/>Light Blue Fill | 1 pt | Container |
-| Kubernetes Namespace Group | | Dashed Blue Border | 2 pt | Non-container |
-| Account Group | | Dashed Gold Border | 2 pt | Non-container |
-| Instance Group | | Dashed Green Border | 2 pt | Non-container |
-| Resource Group | | Dashed Grey Border | 2 pt | Non-container |
-| Security Group | | Dashed Red Border | 2 pt | Non-container |
+| Kubernetes Namespace Group | None | Dashed Blue Border | 2 pt | Non-container |
+| Account Group | None | Dashed Gold Border | 2 pt | Non-container |
+| Instance Group | None | Dashed Green Border | 2 pt | Non-container |
+| Resource Group | None | Dashed Grey Border | 2 pt | Non-container |
+| Security Group | None | Dashed Red Border | 2 pt | Non-container |
