@@ -97,15 +97,13 @@ $
 ## Overview
 
 IBM Cloud diagrams include:
-1. Boxes that represent the deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
-2. Groups that represent the deployedTo relationship for grouping services and applications deployed on boxes.
-3. Architecture icons that identify IBM Cloud components by background color.
-4. [Service Icons](https://l2fprod.github.io/myarchitecture/) that identify services available in the IBM Cloud catalog..
+1. Boxes which represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
+2. Groups which represent a deployedTo relationship for grouping  services and applications deployed on boxes.
+3. [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
+4. [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
-
-To use catalog icons refer to [IBM Cloud Catalog Icons](https://l2fprod.github.io/myarchitecture/).
 
 To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraformer](https://github.com/ibm-cloud-architecture/terraformer).
 
