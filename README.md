@@ -102,7 +102,6 @@ IBM Cloud diagrams include:
 3. [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
 4. [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
-
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
 To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraformer](https://github.com/ibm-cloud-architecture/terraformer).
@@ -173,20 +172,20 @@ Fixed Issues:
 
 ## Box/Group Standards
 
-| Box | Style | Width | Type |
-| :--- | :--- | ---: | :--- |
-| IBM Cloud | Solid Blue Border | 3 pt | Container | 
-| Region | Solid Grey Border | 2 pt | Container |
-| Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
-| VPC | Solid Blue Border | 2 pt | Container |
-| Subnet | Solid Green Border<br/>or Solid Red Border<br>Light Green Fill | 1 pt | Container |
-| Public Network | Solid Blue Border | 3 pt | Container | 
-| Enterprise Network | Solid Blue Border | 3 pt | Container | 
-| Cloud Services | Solid Blue Border | 1 pt | Container |
-| Kubernetes Pod | Solid Purple Border<br/>Light Purple Fill | 2 pt | Container |
-| Kubernetes Replica Set | Solid Blue Border<br/>Light Blue Fill | 2 pt | Container |
-| Kubernetes Namespace Group | Dashed Blue Border | 2 pt | Non-container |
-| Account Group | Dashed Gold Border | 2 pt | Non-container |
-| Instance Group | Dashed Green Border | 2 pt | Non-container |
-| Resource Group | Dashed Grey Border | 2 pt | Non-container |
-| Security Group | Dashed Red Border | 2 pt | Non-container |
+| Box | Tag | Style | Width | Type |
+| :--- | :--- | :--- | ---: | :--- |
+| IBM Cloud | ![Cloud Tag](/images/ibm_vpc_architecture_power_drawio.png) | Solid Blue Border | 3 pt | Container | 
+| Region | | Solid Grey Border | 2 pt | Container |
+| Zone | | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
+| VPC | | Solid Blue Border | 2 pt | Container |
+| Subnet | | Solid Green Border<br/>or Solid Red Border<br>Light Green Fill | 1 pt | Container |
+| Public Network | | Solid Blue Border | 3 pt | Container | 
+| Enterprise Network | | Solid Blue Border | 3 pt | Container | 
+| Cloud Services | | Solid Blue Border | 1 pt | Container |
+| Kubernetes Pod | | Solid Purple Border<br/>Light Purple Fill | 2 pt | Container |
+| Kubernetes Replica Set | | Solid Blue Border<br/>Light Blue Fill | 2 pt | Container |
+| Kubernetes Namespace Group | | Dashed Blue Border | 2 pt | Non-container |
+| Account Group | | Dashed Gold Border | 2 pt | Non-container |
+| Instance Group | | Dashed Green Border | 2 pt | Non-container |
+| Resource Group | | Dashed Grey Border | 2 pt | Non-container |
+| Security Group | | Dashed Red Border | 2 pt | Non-container |
