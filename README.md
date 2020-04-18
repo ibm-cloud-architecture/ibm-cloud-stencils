@@ -188,7 +188,7 @@ Fixed Issues:
 | General Kubernetes Cluster | <img src="/images/GeneralClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | OpenShift Cluster | <img src="/images/OpenShiftClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | Kubernetes Service | <img src="/images/KubeServiceTag.png" width=25> | Solid Blue Border | 2 pt | Container |
-| Kubernetes Pod | | Solid Purple Border<br/>Light Purple Fill | 1 pt | Container |
+| Kubernetes Pod | <img src="/images/KubePodTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | Kubernetes Replica Set | <img src="/images/KubeRSTag.png" width=25> | Solid Blue Border<br/>Light Blue Fill | 1 pt | Container |
 | Kubernetes Namespace Group | None | Dashed Blue Border | 2 pt | Non-container |
 | Account Group | None | Dashed Gold Border | 2 pt | Non-container |
