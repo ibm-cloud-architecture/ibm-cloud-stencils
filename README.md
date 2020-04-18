@@ -174,7 +174,7 @@ Fixed Issues:
 
 | Box | Tag | Style | Width | Type |
 | :--- | :--- | :--- | ---: | :--- |
-| IBM Cloud | ![Cloud Tag](/images/ibm_vpc_architecture_power_drawio.png) | Solid Blue Border | 3 pt | Container | 
+| IBM Cloud | ![Cloud Tag](/images/CloudTag.png) | Solid Blue Border | 3 pt | Container | 
 | Region | | Solid Grey Border | 2 pt | Container |
 | Zone | | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
 | VPC | | Solid Blue Border | 2 pt | Container |
