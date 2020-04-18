@@ -175,9 +175,9 @@ Fixed Issues:
 | Box | Tag | Style | Width | Type |
 | :--- | :--- | :--- | ---: | :--- |
 | IBM Cloud | <img src="/images/CloudTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
-| Region | | Solid Grey Border | 2 pt | Container |
-| Zone | | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
-| VPC | | Solid Blue Border | 2 pt | Container |
+| Region | <img src="/images/RegionTag.png" width=25 /> | Solid Grey Border | 2 pt | Container |
+| Zone | <img src="/images/ZoneTag.png" width=25 /> | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
+| VPC | <img src="/images/VPCTag.png" width=25 /> | Solid Blue Border | 2 pt | Container |
 | Subnet | | Solid Green Border<br/>or Solid Red Border<br>Light Green Fill | 1 pt | Container |
 | Public Network | | Solid Blue Border | 3 pt | Container | 
 | Enterprise Network | | Solid Blue Border | 3 pt | Container | 
