@@ -98,7 +98,7 @@ $
 
 IBM Cloud diagrams include:
 1. Boxes that represent the deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
-2. Groups that represent the deployedTo relationship for grouping services and applications deployed on one or more boxes.
+2. Groups that represent the deployedTo relationship for grouping services and applications deployed on boxes.
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
