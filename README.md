@@ -183,6 +183,7 @@ Fixed Issues:
 | Public Network | <img src="/images/PublicTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
 | Enterprise Network | <img src="/images/EnterpriseTag.png" width=25> | Solid Blue Border | 3 pt | Container | 
 | Cloud Services | <img src="/images/ServicesTag.png" width=25> | Solid Blue Border | 1 pt | Container |
+| Cloud Foundry | <img src="/images/FoundryTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | IBM Kubernetes Cluster | <img src="/images/KubeClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | General Kubernetes Cluster | <img src="/images/GeneralClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | OpenShift Cluster | <img src="/images/OpenShiftClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
