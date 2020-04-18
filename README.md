@@ -178,11 +178,11 @@ Fixed Issues:
 | Region | <img src="/images/RegionTag.png" width=25 /> | Solid Grey Border | 2 pt | Container |
 | Zone | <img src="/images/ZoneTag.png" width=25 /> | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
 | VPC | <img src="/images/VPCTag.png" width=25 /> | Solid Blue Border | 2 pt | Container |
-| Subnet | <img src="/images/SubnetTag.png" width=25 /> | Solid Green Border<br/>or Solid Red Border<br>Light Green Fill | 1 pt | Container |
-| Classic Infrastructure | <img src="/images/Classicag.png" width=25 /> | Solid Blue Border | 2 pt | Container | 
+| Subnet | <img src="/images/SubnetACLTag.png" width=25 /> | Solid Green Border<br/>or Solid Red Border<br>Light Green Fill | 1 pt | Container |
+| Classic Infrastructure | <img src="/images/ClassicTag.png" width=25 /> | Solid Blue Border | 2 pt | Container | 
 | Public Network | <img src="/images/PublicTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
 | Enterprise Network | <img src="/images/EnterpriseTag.png" width=25> | Solid Blue Border | 3 pt | Container | 
-| Cloud Services | <img src="/images/ServicesTag.png" widdth=25> | Solid Blue Border | 1 pt | Container |
+| Cloud Services | <img src="/images/ServicesTag.png" width=25> | Solid Blue Border | 1 pt | Container |
 | Kubernetes Pod | | Solid Purple Border<br/>Light Purple Fill | 1 pt | Container |
 | Kubernetes Replica Set | | Solid Blue Border<br/>Light Blue Fill | 1 pt | Container |
 | Kubernetes Namespace Group | | Dashed Blue Border | 2 pt | Non-container |
