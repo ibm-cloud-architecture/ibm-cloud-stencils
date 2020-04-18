@@ -127,7 +127,7 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
    IBM Stencils should now be available in the embedded categories in the left panel.
 3. Template named ibm_vpc_architecture under Cloud on draw.io is currently outdated.
 4. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
-5. Boxes are containers (container=1). Groups (Instance Group, Resource Group, Security Group) are not containers (container=0).  Temporary step to set container=0 (in style or uncheck property) for the groups.  *See open issue #1.*
+5. Boxes are containers (container=1). Groups are not containers (container=0).  Temporary step to set container=0 (in style or uncheck property) for the groups.  *See open issue #1.*
 8. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #2 and #3.*
 9. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
 10. A new property Resize Children with default checked (corresponds to recursiveResize=1 in style) was added recently by draw.io. Our boxes now set recursiveResize=0 otherwise the contents of boxes are resized whenever the boxes are resized.  Existing diagrams have recursiveResize=1 set so if the diagram will be changed consider setting recursiveResize=0 in the style or uncheck Resize Children for boxes.
@@ -136,7 +136,7 @@ To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraf
 ### draw.io Issues
 
 Open Issues:
-1. Issue #748 to remove container setting for the 3 groups.<br/>Status: Open.
+1. Issue #748 to remove container setting for groups.<br/>Status: Open.
 2. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  Found that this issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
 3. Issue #839 to request moving the labelBackgroundColor=none to after the image; statement for IBM icons in lieu of #620.<br/>
 Status: Open.
@@ -159,26 +159,34 @@ Fixed Issues:
 | Style | Hex Color | RGB Color |
 | :--- | :--- | :--- |
 | Text (Helvetica 12 pt) | #000000 | 0,0,0 |
-| Connectors (1 pt) | #000000 | 0,0,0 |
+| Connectors (1 pt and 2 p5) | #000000 | 0,0,0 |
 | Blue Borders | #4376BB | 67,120,187 |
+| Light Blue Fill | #DFF8FF | 223,248,255 |
 | Green Borders | #00882B | 0,136,43 |
 | Light Green Fill | #E6F0E2 | 230,240,226 |
 | Grey Borders | #919191 | 145,145,145 |
 | Light Grey Fill | #E0E0E0 | 224,224,224 |
+| Purple Borders | #F5C9F5 | 230,240,226 |
+| Light Purple Fill | #F4E9F5 | 244,233,229 |
 | Red Borders | #FF0000 | 255,0,0 |
+| Gold Borders | #C4982E | 196,152,46 |
 
 ## Box/Group Standards
 
-| Box | Style | Width | Type (if available) |
+| Box | Style | Width | Type |
 | :--- | :--- | ---: | :--- |
 | IBM Cloud | Solid Blue Border | 3 pt | Container | 
-| Public Network | Solid Blue Border | 3 pt | Container | 
-| Enterprise Network | Solid Blue Border | 3 pt | Container | 
-| VPC | Solid Blue Border | 2 pt | Container |
 | Region | Solid Grey Border | 2 pt | Container |
 | Zone | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
+| VPC | Solid Blue Border | 2 pt | Container |
 | Subnet | Solid Green Border (a)<br>Light Green Fill | 1 pt | Container |
+| Public Network | Solid Blue Border | 3 pt | Container | 
+| Enterprise Network | Solid Blue Border | 3 pt | Container | 
 | Cloud Services | Solid Blue Border | 1 pt | Container |
+| Kubernetes Pod | Solid Purple Border<br/>Light Purple Fill | 2 pt | Container |
+| Kubernetes Replica Set | Solid Blue Border<br/>Light Blue Fill | 2 pt | Container |
+| Kubernetes Namespace Group | Dashed Blue Border | 2 pt | Non-container |
+| Account Group | Dashed Gold Border | 2 pt | Non-container |
 | Instance Group | Dashed Green Border | 2 pt | Non-container |
 | Resource Group | Dashed Grey Border | 2 pt | Non-container |
 | Security Group | Dashed Red Border | 2 pt | Non-container |
