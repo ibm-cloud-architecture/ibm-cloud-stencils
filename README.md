@@ -104,7 +104,10 @@ IBM Cloud diagrams include:
 
 ![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
 
-To automate creation of Terraform for IBM Virtual Private Cloud refer to [Terraformer](https://github.com/ibm-cloud-architecture/terraformer).
+## Related Tools
+
+1. [Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm) for IBM Cloud.
+2. [Terraformer](https://github.com/ibm-cloud-architecture/terraformer) for IBM Virtual Private Cloud.
 
 ## General Notes
 
