@@ -106,11 +106,6 @@ IBM Cloud diagrams include:
 <img src="/images/ibm_vpc_architecture_power_drawio.png">
 </details>
 
-## Related Tools
-
-1. [Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm) for IBM Cloud.
-2. [Terraformer](https://github.com/ibm-cloud-architecture/terraformer) for IBM Virtual Private Cloud.
-
 ## Notes
 
 <details><summary>General</summary>
@@ -213,7 +208,7 @@ Fixed Issues:
 
 <details><summary>Boxes and Groups</summary>
 
-| Box | Tag | Style | Width | Type |
+| Box/Group | Tag | Style | Width | Type |
 | :--- | :--- | :--- | ---: | :--- |
 | IBM Cloud | <img src="/images/CloudTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
 | Region | <img src="/images/RegionTag.png" width=25 /> | Solid Grey Border | 2 pt | Container |
@@ -238,3 +233,9 @@ Fixed Issues:
 | Security Group | None | Dashed Red Border | 2 pt | Non-container |
 
 </details>
+
+## Related Tools
+
+1. [Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm) for IBM Cloud.
+2. [Terraformer](https://github.com/ibm-cloud-architecture/terraformer) for IBM Virtual Private Cloud.
+
