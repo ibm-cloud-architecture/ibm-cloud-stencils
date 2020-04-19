@@ -114,15 +114,26 @@ IBM Cloud diagrams include:
 ## Notes
 
 <details><summary>General</summary>
+<p>
+
 1. Instance Group feature is not currently available. 
+
 2. Floating IP icon is an arrow with a closed circle that represents a NIC pointing outwards from an instance. 
+
 3. IBM VPC has a single subnet type Subnet where Subnet:ACL denotes a Subnet with an associated ACL which can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
+
 4. Diagram containers if available in a tool (draw.io and Visio) are used for boxes but not groups.
+
 5. To migrate existing boxes and groups to latest, apply styles from new boxes and groups to existing diagram.  For draw.io, updating styles in existing boxes that are not yet containers won't make existing contents of a box part of the container.
+
+</p>
 </details>
 
-<details><summary>diagrams.net (draw.io)</summary>
+<details><summary>draw.io</summary>
+<p>
+
 1. To use the IBM Stencils on draw.io in your browser: https://draw.io/?libs=ibm
+
 2. To use the IBM Stencils on the [draw.io desktop application](https://github.com/jgraph/drawio-desktop/releases) do the following:
 
    1. Open application and click on "+ More Shapes" in the bottom left panel.
@@ -130,24 +141,35 @@ IBM Cloud diagrams include:
    3. Click "Apply" to finish.
 
    IBM Stencils should now be available in the embedded categories in the left panel.
+
 3. Template named ibm_vpc_architecture under Cloud on draw.io is currently outdated.
+
 4. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
+
 5. Boxes are containers (container=1). Groups are not containers (container=0).  Temporary step to set container=0 (in style or uncheck property) for the groups.  *See open issue #1.*
+
 8. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #2 and #3.*
+
 9. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
+
 10. A new property Resize Children with default checked (corresponds to recursiveResize=1 in style) was added recently by draw.io. Our boxes now set recursiveResize=0 otherwise the contents of boxes are resized whenever the boxes are resized.  Existing diagrams have recursiveResize=1 set so if the diagram will be changed consider setting recursiveResize=0 in the style or uncheck Resize Children for boxes.
 
-### draw.io Issues
-
 Open Issues:
+
 1. Issue #748 to remove container setting for groups.<br/>Status: Open.
+
 2. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  Found that this issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
+
 3. Issue #839 to request moving the labelBackgroundColor=none to after the image; statement for IBM icons in lieu of #620.<br/>
 Status: Open.
 
 Fixed Issues:
+
 1. Issue #724 where icons dropped onto a container would not stay in the container when the container is moved.  The problem was only on FF browser.
+
 2. Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand and have to be resized such as when placing a security group box across multiple subnet boxes.  This scenario is working as designed so draw.io added a new property "expand" to swimlanes for our boxes.  The current behavior is the default with expand=1 and our boxes are set to expand=0.
+
+</p>
 </details>
 
 <details><summary>Visio</summary>
