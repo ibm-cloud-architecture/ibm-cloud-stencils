@@ -187,10 +187,12 @@ Fixed Issues:
 
 1. Refer to all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx on this github.
 
-</p?
+</p>
 </details>
 
-## Color Standards
+## Standards
+
+<details><summary>Colors</summary>
 
 | Style | Hex Color | RGB Color |
 | :--- | :--- | :--- |
@@ -207,7 +209,9 @@ Fixed Issues:
 | Red Borders | #FF0000 | 255,0,0 |
 | Gold Borders | #C4982E | 196,152,46 |
 
-## Box/Group Standards
+</details>
+
+<details><summary>Boxes and Groups</summary>
 
 | Box | Tag | Style | Width | Type |
 | :--- | :--- | :--- | ---: | :--- |
@@ -232,3 +236,5 @@ Fixed Issues:
 | Instance Group | None | Dashed Green Border | 2 pt | Non-container |
 | Resource Group | None | Dashed Grey Border | 2 pt | Non-container |
 | Security Group | None | Dashed Red Border | 2 pt | Non-container |
+
+</details>
