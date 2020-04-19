@@ -103,7 +103,7 @@ IBM Cloud diagrams include:
 4. [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
 <details><summary>IBM VPC Architecture Example</summary>
-![VPCArchitecture](/images/ibm_vpc_architecture_power_drawio.png)
+<img src="/images/ibm_vpc_architecture_power_drawio.png">
 </details>
 
 ## Related Tools
