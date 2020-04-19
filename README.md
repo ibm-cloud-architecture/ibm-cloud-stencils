@@ -158,14 +158,14 @@ Open Issues:
 
 1. Issue #748 to remove container setting for groups.<br/>Status: Open.
 
-2. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  Found that this issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
+2. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  This issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
 
-3. Issue #839 to request moving the labelBackgroundColor=none to after the image; statement for IBM icons in lieu of #620.<br/>
+3. Issue #839 to move labelBackgroundColor=none to after image; statement for IBM icons.<br/>
 Status: Open.
 
 Fixed Issues:
 
-1. Issue #724 where icons dropped onto a container would not stay in the container when the container is moved.  The problem was only on FF browser.
+1. Issue #724 where icons dropped onto container in FF would not stay in container when container is moved.
 
 2. Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand and have to be resized such as when placing a security group box across multiple subnet boxes.  This scenario is working as designed so draw.io added a new property "expand" to swimlanes for our boxes.  The current behavior is the default with expand=1 and our boxes are set to expand=0.
 
@@ -173,12 +173,21 @@ Fixed Issues:
 </details>
 
 <details><summary>Visio</summary>
+<p>
+
 1. Boxes are implemented as containers.
+
 2. Box tags are currently separate and can optionally be placed on upper left corner of boxes.
+
+</p>
 </details>
 
 <details><summary>Powerpoint</summary>
+<p>
+
 1. Refer to all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx on this github.
+
+</p?
 </details>
 
 ## Color Standards
