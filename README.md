@@ -234,7 +234,7 @@ Fixed Issues:
 
 </details>
 
-## Related Tools
+## Tools
 
 1. [Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm) for IBM Cloud.
 2. [Terraformer](https://github.com/ibm-cloud-architecture/terraformer) for IBM Virtual Private Cloud.
