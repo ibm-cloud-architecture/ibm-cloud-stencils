@@ -200,7 +200,7 @@ Fixed Issues:
 | Grey Borders | #919191 | 145,145,145 |
 | Light Grey Fill | #E0E0E0 | 224,224,224 |
 | Purple Borders | #B99ACD | 185,154,205 |
-| Light Purple Fill | #F4EDFC | 244,237,252 |
+| Light Purple Fill | #F0E8FF | 245,232,255 |
 | Red Borders | #FF0000 | 255,0,0 |
 | Gold Borders | #C4982E | 196,152,46 |
 
