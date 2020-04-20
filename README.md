@@ -194,13 +194,13 @@ Fixed Issues:
 | Text (Helvetica 12 pt) | #000000 | 0,0,0 |
 | Connectors (1 pt and 2 pt) | #000000 | 0,0,0 |
 | Blue Borders | #4376BB | 67,120,187 |
-| Light Blue Fill | #DFF8FF | 223,248,255 |
+| Light Blue Fill | #BFEAFF | 191,234,255 |
 | Green Borders | #00882B | 0,136,43 |
 | Light Green Fill | #E6F0E2 | 230,240,226 |
 | Grey Borders | #919191 | 145,145,145 |
 | Light Grey Fill | #E0E0E0 | 224,224,224 |
-| Purple Borders | #F5C9F5 | 230,240,226 |
-| Light Purple Fill | #F4E9F5 | 244,233,229 |
+| Purple Borders | #B99ACD | 185,154,205 |
+| Light Purple Fill | #F4EDFC | 244,237,252 |
 | Red Borders | #FF0000 | 255,0,0 |
 | Gold Borders | #C4982E | 196,152,46 |
 
