@@ -102,7 +102,9 @@ IBM Cloud diagrams include:
 3. [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
 4. [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
-<details><summary>IBM VPC Architecture Example</summary>
+## Examples
+
+<details><summary>IBM VPC Diagram</summary>
 <img src="/images/ibm_vpc_architecture_power_drawio.png">
 </details>
 
