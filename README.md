@@ -196,7 +196,7 @@ Fixed Issues:
 | Text (Helvetica 12 pt) | #000000 | 0,0,0 |
 | Connectors (1 pt and 2 pt) | #000000 | 0,0,0 |
 | Blue Borders | #4376BB | 67,120,187 |
-| Light Blue Fill | #CFEFFF | 207,245,255 |
+| Light Blue Fill | #CDEBF9 | 80,92,98 |
 | Green Borders | #00882B | 0,136,43 |
 | Light Green Fill | #E6F0E2 | 230,240,226 |
 | Grey Borders | #919191 | 145,145,145 |
