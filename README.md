@@ -102,7 +102,9 @@ IBM Cloud diagrams include:
 3. [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
 4. [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
-<details><summary>IBM VPC Architecture Example</summary>
+## Examples
+
+<details><summary>IBM VPC Diagram</summary>
 <img src="/images/ibm_vpc_architecture_power_drawio.png">
 </details>
 
@@ -211,10 +213,10 @@ Fixed Issues:
 | Box/Group | Tag | Style | Width | Type |
 | :--- | :--- | :--- | ---: | :--- |
 | IBM Cloud | <img src="/images/CloudTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
+| VPC | <img src="/images/VPCTag.png" width=25 /> | Solid Blue Border | 2 pt | Container |
 | Region | <img src="/images/RegionTag.png" width=25 /> | Solid Grey Border | 2 pt | Container |
 | Zone | <img src="/images/ZoneTag.png" width=25 /> | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
-| VPC | <img src="/images/VPCTag.png" width=25 /> | Solid Blue Border | 2 pt | Container |
-| Subnet | <img src="/images/SubnetACLTag.png" width=25 /> | Solid Green Border<br/>or Solid Red Border<br>Light Green Fill | 1 pt | Container |
+| Subnet | <img src="/images/SubnetACLTag.png" width=25 /> | Solid Green Border<br>Light Green Fill | 1 pt | Container |
 | Classic Infrastructure | <img src="/images/ClassicTag.png" width=25 /> | Solid Blue Border | 2 pt | Container | 
 | Public Network | <img src="/images/PublicTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
 | Enterprise Network | <img src="/images/EnterpriseTag.png" width=25> | Solid Blue Border | 3 pt | Container | 
@@ -224,8 +226,8 @@ Fixed Issues:
 | General Kubernetes Cluster | <img src="/images/GeneralClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | OpenShift Cluster | <img src="/images/OpenShiftClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | Kubernetes Service | <img src="/images/KubeServiceTag.png" width=25> | Solid Blue Border | 2 pt | Container |
-| Kubernetes Pod | <img src="/images/KubePodTag.png" width=25> | Solid Purple Border<br/>Light Purple Fill | 2 pt | Container |
 | Kubernetes Replica Set | <img src="/images/KubeRSTag.png" width=25> | Solid Blue Border<br/>Light Blue Fill | 2 pt | Container |
+| Kubernetes Pod | <img src="/images/KubePodTag.png" width=25> | Solid Purple Border<br/>Light Purple Fill | 2 pt | Container |
 | Kubernetes Namespace Group | None | Dashed Blue Border | 2 pt | Non-container |
 | Account Group | None | Dashed Gold Border | 2 pt | Non-container |
 | Instance Group | None | Dashed Green Border | 2 pt | Non-container |
