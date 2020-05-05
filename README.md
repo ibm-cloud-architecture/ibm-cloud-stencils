@@ -96,13 +96,13 @@ $
 
 ## Overview
 
-IBM Cloud deployment diagrams include:
+IBM Cloud deployment diagrams are organized by:
 1. Boxes which represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
 2. Groups which represent a deployedTo relationship for grouping services and applications deployed on boxes.
 
 For example, a virtual server instance is deployed on a subnet and deployed to a security group. 
 
-IBM Cloud diagram icons include: 
+IBM Cloud deployment diagram icons consist of:
 1. [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
 2. [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
