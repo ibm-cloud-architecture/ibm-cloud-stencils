@@ -214,7 +214,7 @@ Fixed Issues:
 
 <details><summary>Boxes</summary>
 
-| Box/Group | Tag | Style | Width | Type |
+| Box | Tag | Style | Width | Type |
 | :--- | :--- | :--- | ---: | :--- |
 | IBM Cloud | <img src="/images/CloudTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
 | VPC | <img src="/images/VPCTag.png" width=25 /> | Solid Blue Border | 2 pt | Container |
@@ -239,6 +239,8 @@ Fixed Issues:
 
 <details><summary>Groups</summary>
 
+| Group | Tag | Style | Width | Type |
+| :--- | :--- | :--- | ---: | :--- |
 | Kubernetes Namespace Group | <img src="/images/NamespaceGroupTag.png" width=25> | Dashed Blue Border | 2 pt | Non-container |
 | Account Group | <img src="/images/AccountGroupTag.png" width=25> | Dashed Gold Border | 2 pt | Non-container |
 | Instance Group | <img src="/images/InstanceGroupTag.png" width=25> | Dashed Green Border | 2 pt | Non-container |
