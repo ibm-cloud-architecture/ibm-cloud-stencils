@@ -96,11 +96,15 @@ $
 
 ## Overview
 
-IBM Cloud diagrams include:
-1. Boxes which represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
-2. Groups which represent a deployedTo relationship for grouping  services and applications deployed on boxes.
-3. [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
-4. [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
+IBM Cloud deployment diagrams are organized by:
+- Boxes which represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
+- Groups which represent a deployedTo relationship for grouping services and applications deployed on boxes.
+
+For example, a virtual server instance is deployed on a subnet and deployed to a security group. 
+
+IBM Cloud deployment diagram icons consist of:
+- [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
+- [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
 ## Examples
 
@@ -208,9 +212,9 @@ Fixed Issues:
 
 </details>
 
-<details><summary>Boxes and Groups</summary>
+<details><summary>Boxes</summary>
 
-| Box/Group | Tag | Style | Width | Type |
+| Name | Icon | Style | Width | Type |
 | :--- | :--- | :--- | ---: | :--- |
 | IBM Cloud | <img src="/images/CloudTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
 | VPC | <img src="/images/VPCTag.png" width=25 /> | Solid Blue Border | 2 pt | Container |
@@ -230,6 +234,13 @@ Fixed Issues:
 | Kubernetes Service | <img src="/images/KubeServiceTag.png" width=25> | Solid Blue Border | 2 pt | Container |
 | Kubernetes Replica Set | <img src="/images/KubeRSTag.png" width=25> | Solid Blue Border<br/>Light Blue Fill | 2 pt | Container |
 | Kubernetes Pod | <img src="/images/KubePodTag.png" width=25> | Solid Purple Border<br/>Light Purple Fill | 2 pt | Container |
+
+</details>
+
+<details><summary>Groups</summary>
+
+| Name | Icon | Style | Width | Type |
+| :--- | :--- | :--- | ---: | :--- |
 | Kubernetes Namespace Group | <img src="/images/NamespaceGroupTag.png" width=25> | Dashed Blue Border | 2 pt | Non-container |
 | Account Group | <img src="/images/AccountGroupTag.png" width=25> | Dashed Gold Border | 2 pt | Non-container |
 | Instance Group | <img src="/images/InstanceGroupTag.png" width=25> | Dashed Green Border | 2 pt | Non-container |
