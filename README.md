@@ -222,7 +222,7 @@ Fixed Issues:
 | Zone | <img src="/images/ZoneTag.png" width=25 /> | ZoneTag | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
 | Subnet | <img src="/images/SubnetACLTag.png" width=25 /> | SubnetTag | Solid Green Border<br>Light Green Fill | 1 pt | Container |
 | Bare Metal Server | <img src="/images/BareMetalServerTag.png" width=25 /> |BareMetalTag |  Solid Green Border | 2 pt | Container |
-| Virtual Server | <img src="/images/VirtualServerTag.png" width=25 /> | VirtualTag |  Solid Green Border| 2 pt | Container |
+| Virtual Server | <img src="/images/VirtualServerTag.png" width=25 /> | VirtualServerTag |  Solid Green Border| 2 pt | Container |
 | Classic Infrastructure | <img src="/images/ClassicTag.png" width=25 /> | ClassicTag | Solid Blue Border | 2 pt | Container | 
 | Public Network | <img src="/images/PublicTag.png" width=25 /> | PublicTag | Solid Blue Border | 3 pt | Container | 
 | Enterprise Network | <img src="/images/EnterpriseTag.png" width=25> | EnterpriseTag | Solid Blue Border | 3 pt | Container | 
