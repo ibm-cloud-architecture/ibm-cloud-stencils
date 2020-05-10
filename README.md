@@ -214,38 +214,38 @@ Fixed Issues:
 
 <details><summary>Boxes</summary>
 
-| Name | Icon | Style | Width | Type |
-| :--- | :--- | :--- | ---: | :--- |
-| IBM Cloud | <img src="/images/CloudTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
-| VPC | <img src="/images/VPCTag.png" width=25 /> | Solid Blue Border | 2 pt | Container |
-| Region | <img src="/images/RegionTag.png" width=25 /> | Solid Grey Border | 2 pt | Container |
-| Zone | <img src="/images/ZoneTag.png" width=25 /> | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
-| Subnet | <img src="/images/SubnetACLTag.png" width=25 /> | Solid Green Border<br>Light Green Fill | 1 pt | Container |
-| Bare Metal Server | <img src="/images/BareMetalServerTag.png" width=25 /> | Solid Green Border | 2 pt | Container |
-| Virtual Server | <img src="/images/VirtualServerTag.png" width=25 /> | Solid Green Border| 2 pt | Container |
-| Classic Infrastructure | <img src="/images/ClassicTag.png" width=25 /> | Solid Blue Border | 2 pt | Container | 
-| Public Network | <img src="/images/PublicTag.png" width=25 /> | Solid Blue Border | 3 pt | Container | 
-| Enterprise Network | <img src="/images/EnterpriseTag.png" width=25> | Solid Blue Border | 3 pt | Container | 
-| Cloud Services | <img src="/images/ServicesTag.png" width=25> | Solid Blue Border | 1 pt | Container |
-| Cloud Foundry | <img src="/images/FoundryTag.png" width=25> | Solid Blue Border | 2 pt | Container |
-| IBM Kubernetes Cluster | <img src="/images/KubeClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
-| General Kubernetes Cluster | <img src="/images/GeneralClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
-| OpenShift Cluster | <img src="/images/OpenShiftClusterTag.png" width=25> | Solid Blue Border | 2 pt | Container |
-| Kubernetes Service | <img src="/images/KubeServiceTag.png" width=25> | Solid Blue Border | 2 pt | Container |
-| Kubernetes Replica Set | <img src="/images/KubeRSTag.png" width=25> | Solid Blue Border<br/>Light Blue Fill | 2 pt | Container |
-| Kubernetes Pod | <img src="/images/KubePodTag.png" width=25> | Solid Purple Border<br/>Light Purple Fill | 2 pt | Container |
+| Name | Icon | Icon Name | Style | Width | Type |
+| :--- | :--- | :--- | :--- | ---: | :--- |
+| IBM Cloud | <img src="/images/CloudTag.png" width=25 /> | CloudTag | Solid Blue Border | 3 pt | Container | 
+| VPC | <img src="/images/VPCTag.png" width=25 /> | VPCTag | Solid Blue Border | 2 pt | Container |
+| Region | <img src="/images/RegionTag.png" width=25 /> | RegionTag | Solid Grey Border | 2 pt | Container |
+| Zone | <img src="/images/ZoneTag.png" width=25 /> | ZoneTag | Solid Grey Border<br/>Light Grey Fill | 1 pt | Container |
+| Subnet | <img src="/images/SubnetACLTag.png" width=25 /> | SubnetTag | Solid Green Border<br>Light Green Fill | 1 pt | Container |
+| Bare Metal Server | <img src="/images/BareMetalServerTag.png" width=25 /> |BareMetalTag |  Solid Green Border | 2 pt | Container |
+| Virtual Server | <img src="/images/VirtualServerTag.png" width=25 /> | VirtualTag |  Solid Green Border| 2 pt | Container |
+| Classic Infrastructure | <img src="/images/ClassicTag.png" width=25 /> | ClassicTag | Solid Blue Border | 2 pt | Container | 
+| Public Network | <img src="/images/PublicTag.png" width=25 /> | PublicTag | Solid Blue Border | 3 pt | Container | 
+| Enterprise Network | <img src="/images/EnterpriseTag.png" width=25> | EnterpriseTag | Solid Blue Border | 3 pt | Container | 
+| Cloud Services | <img src="/images/ServicesTag.png" width=25> | CloudServiceTag | Solid Blue Border | 1 pt | Container |
+| Cloud Foundry | <img src="/images/FoundryTag.png" width=25> | FoundryTag | Solid Blue Border | 2 pt | Container |
+| IBM Kubernetes Cluster | <img src="/images/KubeClusterTag.png" width=25> | KubeTag |  Solid Blue Border | 2 pt | Container |
+| General Kubernetes Cluster | <img src="/images/GeneralClusterTag.png" width=25> | GeneralKubeTag | Solid Blue Border | 2 pt | Container |
+| OpenShift Cluster | <img src="/images/OpenShiftClusterTag.png" width=25> | OpenShiftTag |  Solid Blue Border | 2 pt | Container |
+| Kubernetes Service | <img src="/images/KubeServiceTag.png" width=25> | KubeServiceTag | Solid Blue Border | 2 pt | Container |
+| Kubernetes Replica Set | <img src="/images/KubeRSTag.png" width=25> | KubeReplicaTag | Solid Blue Border<br/>Light Blue Fill | 2 pt | Container |
+| Kubernetes Pod | <img src="/images/KubePodTag.png" width=25> | KubePodTag | Solid Purple Border<br/>Light Purple Fill | 2 pt | Container |
 
 </details>
 
 <details><summary>Groups</summary>
 
-| Name | Icon | Style | Width | Type |
-| :--- | :--- | :--- | ---: | :--- |
-| Kubernetes Namespace Group | <img src="/images/NamespaceGroupTag.png" width=25> | Dashed Blue Border | 2 pt | Non-container |
-| Account Group | <img src="/images/AccountGroupTag.png" width=25> | Dashed Gold Border | 2 pt | Non-container |
-| Instance Group | <img src="/images/InstanceGroupTag.png" width=25> | Dashed Green Border | 2 pt | Non-container |
-| Resource Group | <img src="/images/ResourceGroupTag.png" width=25> | Dashed Grey Border | 2 pt | Non-container |
-| Security Group | <img src="/images/SecurityGroupTag.png" width=25> | Dashed Red Border | 2 pt | Non-container |
+| Name | Icon | Icon Name | Style | Width | Type |
+| :--- | :--- | :--- | :--- | ---: | :--- |
+| Kubernetes Namespace Group | <img src="/images/NamespaceGroupTag.png" width=25> | KubeGroupTag | Dashed Blue Border | 2 pt | Non-container |
+| Account Group | <img src="/images/AccountGroupTag.png" width=25> | AccountGroupTag | Dashed Gold Border | 2 pt | Non-container |
+| Instance Group | <img src="/images/InstanceGroupTag.png" width=25> | InstanceGroupTag | Dashed Green Border | 2 pt | Non-container |
+| Resource Group | <img src="/images/ResourceGroupTag.png" width=25> | ResourceGroupTag | Dashed Grey Border | 2 pt | Non-container |
+| Security Group | <img src="/images/SecurityGroupTag.png" width=25> | SecurityGroupTag | Dashed Red Border | 2 pt | Non-container |
 
 </details>
 
