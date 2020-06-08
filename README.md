@@ -249,7 +249,7 @@ Fixed Issues:
 
 </details>
 
-## Tools
+## References
 
 1. [IBM Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm)
 2. [Terraformer for VPC](https://github.com/ibm-cloud-architecture/terraformer)
