@@ -133,6 +133,7 @@ IBM Cloud deployment diagram icons consist of:
 <details><summary>draw.io</summary>
 <p>
 
+**NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**
 1. To use the IBM Stencils on draw.io in your browser: https://draw.io/?libs=ibm
 
 2. To use the IBM Stencils on the [draw.io desktop application](https://github.com/jgraph/drawio-desktop/releases) do the following:
