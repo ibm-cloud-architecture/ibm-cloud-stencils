@@ -134,6 +134,7 @@ IBM Cloud deployment diagram icons consist of:
 <p>
 
 **NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**
+
 1. To use the IBM Stencils on draw.io in your browser: https://draw.io/?libs=ibm
 
 2. To use the IBM Stencils on the [draw.io desktop application](https://github.com/jgraph/drawio-desktop/releases) do the following:
@@ -144,25 +145,21 @@ IBM Cloud deployment diagram icons consist of:
 
    IBM Stencils should now be available in the embedded categories in the left panel.
 
-3. Template named ibm_vpc_architecture under Cloud on draw.io is currently outdated.
+3. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
 
-4. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
+4. Boxes are containers (container=1). Groups are not containers (container=0).
 
-5. Boxes are containers (container=1). Groups are not containers (container=0).  Temporary step to set container=0 (in style or uncheck property) for the groups.  *See open issue #1.*
+5. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #1 and #2.*
 
-8. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #2 and #3.*
+6. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
 
-9. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
-
-10. A new property Resize Children with default checked (corresponds to recursiveResize=1 in style) was added recently by draw.io. Our boxes now set recursiveResize=0 otherwise the contents of boxes are resized whenever the boxes are resized.  Existing diagrams have recursiveResize=1 set so if the diagram will be changed consider setting recursiveResize=0 in the style or uncheck Resize Children for boxes.
+7. A new property Resize Children with default checked (corresponds to recursiveResize=1 in style) was added recently by draw.io. Our boxes now set recursiveResize=0 otherwise the contents of boxes are resized whenever the boxes are resized.  Existing diagrams have recursiveResize=1 set so if the diagram will be changed consider setting recursiveResize=0 in the style or uncheck Resize Children for boxes.
 
 Open Issues:
 
-1. Issue #748 to remove container setting for groups.<br/>Status: Open.
+1. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  This issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
 
-2. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  This issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
-
-3. Issue #839 to move labelBackgroundColor=none to after image; statement for IBM icons.<br/>
+2. Issue #839 to move labelBackgroundColor=none to after image; statement for IBM icons.<br/>
 Status: Open.
 
 Fixed Issues:
@@ -170,6 +167,8 @@ Fixed Issues:
 1. Issue #724 where icons dropped onto container in FF would not stay in container when container is moved.
 
 2. Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand and have to be resized such as when placing a security group box across multiple subnet boxes.  This scenario is working as designed so draw.io added a new property "expand" to swimlanes for our boxes.  The current behavior is the default with expand=1 and our boxes are set to expand=0.
+
+3. Issue #748 to remove container setting for groups.
 
 </p>
 </details>
@@ -253,5 +252,5 @@ Fixed Issues:
 ## References
 
 1. [IBM Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm)
-2. [Terraformer for VPC](https://github.com/ibm-cloud-architecture/terraformer)
+2. [Tabular Terraform Tool](https://github.com/ibm-cloud-architecture/tabular-terraform)
 
