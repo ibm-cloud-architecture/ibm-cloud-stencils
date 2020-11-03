@@ -109,7 +109,7 @@ IBM Cloud deployment diagram icons consist of:
 ## Examples
 
 <details><summary>IBM VPC Diagram</summary>
-<img src="/images/ibm_vpc_architecture_power_drawio.png">
+<img src="/images/ibm_vpc_architecture_drawio.png">
 </details>
 
 ## Notes
