@@ -248,9 +248,3 @@ Fixed Issues:
 | Security Group | <img src="/images/SecurityGroupTag.png" width=25> | SecurityGroupTag | Dashed Red Border | 2 pt | Non-container |
 
 </details>
-
-## References
-
-1. [IBM Terraform Provider](https://github.com/IBM-Cloud/terraform-provider-ibm)
-2. [Tabular Terraform Tool](https://github.com/ibm-cloud-architecture/tabular-terraform)
-
