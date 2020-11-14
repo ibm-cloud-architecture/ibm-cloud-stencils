@@ -102,7 +102,7 @@ IBM Cloud Diagrams are organized by boxes:
 
 For example, a virtual server instance is deployed on a subnet with solid border and deployed to a security group with dashed border. 
 
-IBM Cloud deployment diagram icons consist of:
+IBM Cloud Icons consist of:
 - [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
 - [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
