@@ -206,7 +206,7 @@ Fixed Issues:
 
 </details>
 
-<details><summary>Boxes</summary>
+<details><summary>DeployedOn Boxes</summary>
 
 | Name | Icon | Icon Name | Style | Width | Type |
 | :--- | :--- | :--- | :--- | ---: | :--- |
@@ -231,7 +231,7 @@ Fixed Issues:
 
 </details>
 
-<details><summary>Groups</summary>
+<details><summary>DeployedTo Boxes</summary>
 
 | Name | Icon | Icon Name | Style | Width | Type |
 | :--- | :--- | :--- | :--- | ---: | :--- |
