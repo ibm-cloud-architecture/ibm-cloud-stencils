@@ -96,7 +96,7 @@ $
 
 ## Overview
 
-Boxes are organized by:
+IBM Cloud Diagrams are organized by boxes:
 - Boxes with solid border are diagram containers (container=1) and represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
 - Boxes with dashed border are not diagram containers (container=0) and represent a deployedTo relationship for grouping services and applications deployed on boxes.
 
