@@ -96,11 +96,11 @@ $
 
 ## Overview
 
-IBM Cloud deployment diagrams are organized by:
-- Boxes which represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
-- Groups which represent a deployedTo relationship for grouping services and applications deployed on boxes.
+Boxes are organized by:
+- Boxes with solid border are diagram containers (container=1) and represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
+- Boxes with dashed border are not diagram containers (container=0) and represent a deployedTo relationship for grouping services and applications deployed on boxes.
 
-For example, a virtual server instance is deployed on a subnet and deployed to a security group. 
+For example, a virtual server instance is deployed on a subnet with solid border and deployed to a security group with dashed border. 
 
 IBM Cloud deployment diagram icons consist of:
 - [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
@@ -117,15 +117,13 @@ IBM Cloud deployment diagram icons consist of:
 <details><summary>General</summary>
 <p>
 
-1. Instance Group feature is not currently available. 
+1. Floating IP icon is an arrow with a closed circle that represents a NIC pointing outwards from an instance. 
 
-2. Floating IP icon is an arrow with a closed circle that represents a NIC pointing outwards from an instance. 
+2. IBM VPC has a single subnet type Subnet where Subnet:ACL denotes a Subnet with an associated ACL which can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
 
-3. IBM VPC has a single subnet type Subnet where Subnet:ACL denotes a Subnet with an associated ACL which can be customized such as SubnetName:ACLName, SubnetCIDR:ACLName, split to 2 lines, etc.
+3. Diagram containers if available in a tool (draw.io and Visio) are used as mentioned in the Overview.
 
-4. Diagram containers if available in a tool (draw.io and Visio) are used for boxes but not groups.
-
-5. To migrate existing boxes and groups to latest, apply styles from new boxes and groups to existing diagram.  For draw.io, updating styles in existing boxes that are not yet containers won't make existing contents of a box part of the container.
+4. To migrate existing boxes and groups to latest if desired, apply styles from new boxes and groups to existing diagram.  For draw.io, updating styles in existing boxes that are not yet containers won't make existing contents of a box part of the container.
 
 </p>
 </details>
