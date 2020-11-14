@@ -145,13 +145,9 @@ IBM Cloud Icons consist of:
 
 3. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
 
-4. Boxes are containers (container=1). Groups are not containers (container=0).
+4. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #1 and #2.*
 
-5. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #1 and #2.*
-
-6. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
-
-7. A new property Resize Children with default checked (corresponds to recursiveResize=1 in style) was added recently by draw.io. Our boxes now set recursiveResize=0 otherwise the contents of boxes are resized whenever the boxes are resized.  Existing diagrams have recursiveResize=1 set so if the diagram will be changed consider setting recursiveResize=0 in the style or uncheck Resize Children for boxes.
+5. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
 
 Open Issues:
 
@@ -166,7 +162,7 @@ Fixed Issues:
 
 2. Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand and have to be resized such as when placing a security group box across multiple subnet boxes.  This scenario is working as designed so draw.io added a new property "expand" to swimlanes for our boxes.  The current behavior is the default with expand=1 and our boxes are set to expand=0.
 
-3. Issue #748 to remove container setting for groups.
+3. Issue #748 to set container=0 for deployedTo boxes as mentioned in Overview.
 
 </p>
 </details>
