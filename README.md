@@ -100,7 +100,7 @@ IBM Cloud Diagrams are organized by boxes:
 - DeployedOn Boxes have a solid border implemented as diagram containers (container=1) and represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
 - DeployedTo Boxes have a dashed border not implemented as diagram containers (container=0) and represent a deployedTo relationship for grouping services and applications.
 
-For example, a virtual server instance is deployed on a subnet with solid border and deployed to a security group with dashed border. 
+For example, a virtual server instance is deployed on a subnet and deployed to a security group. 
 
 IBM Cloud Icons consist of:
 - [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
