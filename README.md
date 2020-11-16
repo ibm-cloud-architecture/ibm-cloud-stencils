@@ -112,7 +112,7 @@ DeployedTo boxes:
 - Represent a deployedTo relationship for grouping services and applications.  
 - Includes Account Group, Instance Group, Namespace Group, Resource Group, Security Group, etc.
 
-For example, a virtual server instance is *deployed on* a subnet and *deployed to* a security group. 
+For example, a virtual server instance is **deployed on** a subnet and **deployed to** a security group. 
 
 IBM Cloud Icons consist of:
 - [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
