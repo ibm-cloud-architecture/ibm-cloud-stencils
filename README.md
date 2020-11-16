@@ -110,7 +110,7 @@ DeployedTo boxes:
 	
 - Have a dashed border.
 - Are not implemented as diagram containers (container=0).
-- Are not generally nested boxes but can cross multiple box boundaries.
+- Are not nested boxes and can cross multiple box boundaries.
 - Represent a deployedTo relationship for grouping services and applications.  
 - Includes Account Group, Instance Group, Namespace Group, Resource Group, Security Group, etc.
 
