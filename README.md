@@ -105,10 +105,10 @@ Represent a deployedOn relationship for locations (logical, virtual, physical) o
 DeployedOn boxes have the following attributes:
 
 - A solid border.
+- Cannot cross multiple box boundaries.
 - Implemented as diagram containers (container=1).
 - Icons remain in box when box is moved or replicated.
 - Placement is done before deployedTo boxes have been placed.
-- Cannot cross multiple box boundaries.
 
 DeployedOn boxes include IBM Cloud, Region, Zone, VPC, Subnet, etc.
 
@@ -119,10 +119,10 @@ Represent a deployedTo relationship for grouping services and applications.
 DeployesTo boxes have the following attributes:  
 	
 - A dashed border.
+- Can cross multiple box boundaries.
 - Not implemented as diagram containers (container=0).
 - Icons do not remain in box when box is moved or replicated.
 - Placement is done after deployedOn boxes have been placed.
-- Can cross multiple box boundaries.
 
 DeployedTo boxes include Account Group, Instance Group, Namespace Group, Resource Group, Security Group, etc.
 
