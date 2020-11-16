@@ -117,7 +117,7 @@ Represent a deployedTo relationship for grouping services and applications.
 DeployesTo boxes have the following attributes:  
 	
 - A dashed border.
-- Implemented as diagram containers (container=0).
+- Not implemented as diagram containers (container=0).
 - Not nested boxes and can cross multiple box boundaries.
 
 DeployedTo boxes include Account Group, Instance Group, Namespace Group, Resource Group, Security Group, etc.
