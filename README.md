@@ -97,9 +97,9 @@ $
 ## Overview
 
 IBM Cloud Diagrams are organized by boxes (rectangular borders):
-- DeployedOn Boxes have a solid border implemented as diagram containers (container=1) and represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
+- DeployedOn Boxes have a solid border, are implemented as diagram containers (container=1)i, and represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
 	e.g. IBM Cloud, Region, Zone, VPC, Subnet, etc	
-- DeployedTo Boxes have a dashed border not implemented as diagram containers (container=0) and represent a deployedTo relationship for grouping services and applications.  
+- DeployedTo Boxes have a dashed border, are not implemented as diagram containers (container=0), and represent a deployedTo relationship for grouping services and applications.  
 	e.g. Account Group, Instance Group, Namespace Group, Resource Group, Security Group
 
 For example, a virtual server instance is deployed on a subnet and deployed to a security group. 
