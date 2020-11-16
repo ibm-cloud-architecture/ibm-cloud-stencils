@@ -102,6 +102,7 @@ DeployedOn boxes:
 
 - Have a solid border.
 - Are implemented as diagram containers (container=1).
+- Are nested boxes that don't cross multiple box boundaries.
 - Represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.  
 - Includes IBM Cloud, Region, Zone, VPC, Subnet, etc.
 
@@ -109,6 +110,7 @@ DeployedTo boxes:
 	
 - Have a dashed border.
 - Are not implemented as diagram containers (container=0).
+- Are not generally nested boxes but can cross multiple box boundaries.
 - Represent a deployedTo relationship for grouping services and applications.  
 - Includes Account Group, Instance Group, Namespace Group, Resource Group, Security Group, etc.
 
