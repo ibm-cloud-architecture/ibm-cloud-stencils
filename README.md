@@ -96,7 +96,7 @@ $
 
 ## Overview
 
-IBM Cloud Diagrams are organized by boxes (rectangular borders) -
+IBM Cloud Diagrams are organized by boxes (rectangular borders) with DeployedOn and DeployedTo relationships -
 
 ### DeployedOn Boxes
 
