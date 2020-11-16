@@ -106,7 +106,7 @@ DeployedOn boxes have the following attributes:
 
 - A solid border.
 - Implemented as diagram containers (container=1).
-- Nested boxes and don't cross multiple box boundaries.
+- May not cross multiple box boundaries.
 
 DeployedOn boxes include IBM Cloud, Region, Zone, VPC, Subnet, etc.
 
@@ -118,7 +118,7 @@ DeployesTo boxes have the following attributes:
 	
 - A dashed border.
 - Not implemented as diagram containers (container=0).
-- Not nested boxes and can cross multiple box boundaries.
+- May cross multiple box boundaries.
 
 DeployedTo boxes include Account Group, Instance Group, Namespace Group, Resource Group, Security Group, etc.
 
