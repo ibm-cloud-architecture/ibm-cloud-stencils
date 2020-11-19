@@ -175,15 +175,13 @@ IBM Cloud Icons consist of:
 
 3. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
 
-4. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #1 and #2.*
+4. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #1 below for a workaround.*
 
 5. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
 
 Open Issues:
 
 1. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  This issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
-
-2. Issue #839 to move labelBackgroundColor=none to after image; statement for IBM icons.<br/>
 Status: Open.
 
 Fixed Issues:
