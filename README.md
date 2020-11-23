@@ -126,6 +126,15 @@ DeployesTo boxes have the following attributes:
 
 DeployedTo boxes include Account Group, Instance Group, Namespace Group, Resource Group, Security Group, etc.
 
+### Box Boundaries
+
+Box border widths vary by relative importance of a boundary and shading:
+- 3pt width is used for IBM Cloud, Public Network, and Enterprise Network.
+- 2pt width is used for most boxes within IBM Cloud.
+- 1pt width is used for Cloud Services and shaded boxes within IBM Cloud.
+
+The 1pt width for shaded boxes is used since the shading already provides a border and the smaller width allows connectors to stand out.
+
 ### Box Example
 
 A virtual server instance is **deployed on** a subnet and **deployed to** a security group. 
