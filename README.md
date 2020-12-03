@@ -273,6 +273,7 @@ Fixed Issues:
 | Name | Icon | Icon Name | Style | Width | Type |
 | :--- | :--- | :--- | :--- | ---: | :--- |
 | Kubernetes Namespace Group | <img src="/images/NamespaceGroupTag.png" width=25> | KubeGroupTag | Dashed Blue Border | 2 pt | Non-container |
+| Access Group | <img src="/images/AccessGroupTag.png" width=25> | AccessGroupTag | Dashed Gold Border | 2 pt | Non-container |
 | Account Group | <img src="/images/AccountGroupTag.png" width=25> | AccountGroupTag | Dashed Gold Border | 2 pt | Non-container |
 | Instance Group | <img src="/images/InstanceGroupTag.png" width=25> | InstanceGroupTag | Dashed Green Border | 2 pt | Non-container |
 | Resource Group | <img src="/images/ResourceGroupTag.png" width=25> | ResourceGroupTag | Dashed Grey Border | 2 pt | Non-container |
