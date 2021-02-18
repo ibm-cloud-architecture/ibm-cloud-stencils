@@ -179,6 +179,7 @@ Fixed Issues:
 </p>
 </details>
 
+<!---
 ## Standards
 
 <details><summary>Colors</summary>
@@ -237,3 +238,4 @@ Fixed Issues:
 | Security Group | <img src="/images/SecurityGroupTag.png" width=25> | SecurityGroupTag | Dashed Red Border | 2 pt | Non-container |
 
 </details>
+-->
