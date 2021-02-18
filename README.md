@@ -96,53 +96,8 @@ $
 
 ## Overview
 
-IBM Cloud Diagrams are organized by boxes (rectangular borders) with deployedOn and deployedTo relationships -
-
-### DeployedOn Boxes
-
-Represent a deployedOn relationship for locations (logical, virtual, physical) of platforms, infrastructure, network, etc, on which services and applications are deployed.
-
-DeployedOn boxes have the following attributes:
-
-- A solid border.
-- Cannot cross multiple box boundaries.
-- Implemented as diagram containers (container=1).
-- Icons remain in box when box is moved or replicated.
-- Placement is done before deployedTo boxes have been placed.
-
-DeployedOn boxes include IBM Cloud, Region, Zone, VPC, Subnet, etc.
-
-### DeployedTo Boxes
-
-Represent a deployedTo relationship for grouping services and applications.
-
-DeployesTo boxes have the following attributes:  
-	
-- A dashed border.
-- Can cross multiple box boundaries.
-- Not implemented as diagram containers (container=0).
-- Icons do not remain in box when box is moved or replicated.
-- Placement is done after deployedOn boxes have been placed.
-
-DeployedTo boxes include Account Group, Instance Group, Namespace Group, Resource Group, Security Group, etc.
-
-### Box Boundaries
-
-Box border widths vary by relative importance of a boundary and shading:
-- 3pt width is used for IBM Cloud, Public Network, and Enterprise Network.
-- 2pt width is used for most boxes within IBM Cloud.
-- 1pt width is used for Cloud Services and shaded boxes within IBM Cloud.
-
-The 1pt width for shaded boxes is used since the shading already provides a border and the smaller width allows connectors to stand out.
-
-### Box Example
-
-A virtual server instance is **deployed on** a subnet and **deployed to** a security group. 
-
-### Icons
-
-IBM Cloud Icons consist of:
-- [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components by background color.
+IBM Cloud Diagrams are comprised of boxes that group icons and icons:
+- [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components.
 - [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
 ## Examples
