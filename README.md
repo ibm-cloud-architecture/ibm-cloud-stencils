@@ -16,12 +16,6 @@ IBM Diagrams are comprised of icons and boxes that group icons.
 
 ### Notes
 
-<details><summary>General</summary>
-<p>
-- Diagram containers if available in a tool (draw.io and Visio) are used for boxes.
-</p>
-</details>
-
 <details><summary>draw.io</summary>
 <p>
 
