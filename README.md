@@ -35,15 +35,6 @@ IBM Diagrams are comprised of icons and boxes that group icons.
 
 4. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
 
-5. When adding icons to diagrams the default background color for text should be transparent but instead may be white.  *See open issue #1 below for a workaround.*
-
-6. When exporting diagrams to svg ensure that icons are included (check Embed Image) if using svg offline and ensure white space is minimal (select entire diagram then check Selection Only and Crop) if embedding in a document.
-
-Open Issues:
-
-1. Issue #620 where setting the icon text background to transparent doesn't work.<br/>Status: Open.  This issue happens if labelBackgroundColor=none is before the image; statement in icon style, so place the labelBackgroundColor=none to anywhere after the image; statement.<br/>
-Status: Open.
-
 Fixed Issues:
 
 - Issue #723 where overlaying a box across other boxes may cause underlying boxes to expand and have to be resized such as when placing a security group box across multiple subnet boxes.  This scenario is working as designed so draw.io added a new property "expand" to swimlanes for our boxes.  The current behavior is the default with expand=1 and our boxes are set to expand=0.
