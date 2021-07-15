@@ -2,7 +2,7 @@
 
 ## Overview
 
-Create diagrams with IBM Stencils using enterprise tools:
+Create IBM Diagrams with IBM Stencils using enterprise diagram tools.
 
 <!--
 ## IBM v2 Stencils (coming)
@@ -21,9 +21,6 @@ Create diagrams with IBM Stencils using enterprise tools:
    IBM Stencils should now be available in the embedded categories in the left panel.
 
 3. Groups are implemented as draw.io containers.
-
-4. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
-
 </details>
 -->
 
@@ -41,23 +38,26 @@ Create diagrams with IBM Stencils using enterprise tools:
    3. Click "Apply" to finish.
 
    IBM Stencils should now be available in the embedded categories in the left panel.
+
+3. Groups are implemented as draw.io containers.
+
 </details>
 
 <details><summary>Powerpoint</summary>
 <p>
-1. Use all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx on this github.
+Use all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx on this github.
 </p>
-</details>
-
-<details><summary>OmniGraffle</summary>
 </details>
 
 <details><summary>Visio</summary>
 <p>
 
-1. Boxes are implemented as Visio containers.
+1. Groups (boxes) are implemented as Visio containers.
 
-2. Box tags are currently separate and can optionally be placed on upper left corner of boxes.
+2. Group tags are currently separate and can optionally be placed on upper left corner.
+
+<details><summary>OmniGraffle</summary>
+</details>
 
 </p>
 </details>
