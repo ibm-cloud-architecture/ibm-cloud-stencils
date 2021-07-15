@@ -1,12 +1,33 @@
 # IBM Stencils
 
-Create diagrams with IBM Stencils using enterprise tools.
+## Overview
+
+Create diagrams with IBM Stencils using enterprise tools:
+
+IBM v2 Stencils (coming):
+- <details><summary>diagrams.net (draw.io)</summary>
+<p>
+
+**NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**
+
+1. To use the IBM Stencils on draw.io/diagrams.net in your browser: https://draw.io/?libs=ibm
+
+2. To use the IBM Stencils on the [draw.io desktop application](https://github.com/jgraph/drawio-desktop/releases) do the following:
+
+   1. Open application and click on "+ More Shapes" in the bottom left panel.
+   2. Scroll down to the "Networking" section and check "IBM".
+   3. Click "Apply" to finish.
+
+   IBM Stencils should now be available in the embedded categories in the left panel.
+</details>
+
+IBM v1 Stencils
+- diagrams.net (draw.io)
+- PowerPoint
+- OmniGraffle
+- Visio
 
 ## IBM v1 Stencils
-
-### Overview
-
-IBM Diagrams are comprised of icons and boxes that group icons.
 
 ### Example
 
@@ -18,22 +39,9 @@ IBM Diagrams are comprised of icons and boxes that group icons.
 
 <details><summary>draw.io</summary>
 <p>
+1. Boxes are implemented as draw.io containers.
 
-**NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**
-
-1. To use the IBM Stencils on draw.io in your browser: https://draw.io/?libs=ibm
-
-2. To use the IBM Stencils on the [draw.io desktop application](https://github.com/jgraph/drawio-desktop/releases) do the following:
-
-   1. Open application and click on "+ More Shapes" in the bottom left panel.
-   2. Scroll down to the "Networking" section and check "IBM".
-   3. Click "Apply" to finish.
-
-   IBM Stencils should now be available in the embedded categories in the left panel.
-
-3. Boxes are implemented as draw.io containers.
-
-4. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
+2. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
 
 Fixed Issues:
 
