@@ -4,7 +4,7 @@
 
 Create diagrams with IBM Stencils using enterprise tools:
 
-###IBM v2 Stencils (coming)
+## IBM v2 Stencils (coming)
 <details><summary>diagrams.net (draw.io)</summary>
 <p>
 **NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**.
@@ -25,7 +25,7 @@ Create diagrams with IBM Stencils using enterprise tools:
 
 </details>
 
-### IBM v1 Stencils
+## IBM v1 Stencils
 <details><summary>diagrams.net (draw.io)</summary>
 <p>
 **NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**.
@@ -60,8 +60,6 @@ Create diagrams with IBM Stencils using enterprise tools:
 </p>
 </details>
 
-## IBM v1 Stencils Example
-
-<details><summary>IBM VPC Diagram using IBM v1 Stencils</summary>
+<details><summary>Examples</summary>
 <img src="/images/ibm_vpc_architecture_drawio.png">
 </details>
