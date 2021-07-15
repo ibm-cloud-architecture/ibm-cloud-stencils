@@ -4,6 +4,7 @@
 
 Create diagrams with IBM Stencils using enterprise tools:
 
+<!--
 ## IBM v2 Stencils (coming)
 <details><summary>diagrams.net (draw.io)</summary>
 <p>
@@ -24,6 +25,7 @@ Create diagrams with IBM Stencils using enterprise tools:
 4. Folders for draw.io on this github are used for changes not on draw.io and are subject to change.
 
 </details>
+-->
 
 ## IBM v1 Stencils
 <details><summary>diagrams.net (draw.io)</summary>
