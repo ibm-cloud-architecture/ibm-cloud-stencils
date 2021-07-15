@@ -5,10 +5,10 @@
 Create diagrams with IBM Stencils using enterprise tools:
 
 IBM v2 Stencils (coming):
-- <details><summary>diagrams.net (draw.io)</summary>
+<details><summary>diagrams.net (draw.io)</summary>
 <p>
 
-**NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**
+**NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**.
 
 1. To use the IBM Stencils on draw.io/diagrams.net in your browser: https://draw.io/?libs=ibm
 
