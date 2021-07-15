@@ -39,7 +39,7 @@ Create IBM Diagrams with IBM Stencils using enterprise diagram tools.
 
    IBM Stencils should now be available in the embedded categories in the left panel.
 
-3. Groups are implemented as draw.io containers.
+3. Groups (boxes) are implemented as draw.io containers.
 
 </details>
 
