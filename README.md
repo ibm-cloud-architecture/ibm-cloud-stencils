@@ -3,19 +3,19 @@
 Create IBM Cloud diagrams with enterprise tools using IBM Cloud Stencils.  
 Refer to the [IBM Architecture Center](https://www.ibm.com/cloud/garage/architectures/edit) for complete details.
 
-## IBM v1 Stencils Overview
+## Overview
 
 IBM Diagrams are comprised of boxes that group icons:
 - [Architecture Icons](https://www.ibm.com/cloud/architecture/architectures/edit) which represent IBM Cloud components.
 - [Service Icons](https://l2fprod.github.io/myarchitecture/) which represent services available in the IBM Cloud catalog.
 
-## IBM v1 Stencils Example
+## Example
 
 <details><summary>IBM VPC Diagram using IBM v1 Stencils</summary>
 <img src="/images/ibm_vpc_architecture_drawio.png">
 </details>
 
-## IBM v2 Stencils Notes
+## Notes
 
 <details><summary>General</summary>
 <p>
