@@ -62,6 +62,6 @@ Use all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx
 </p>
 </details>
 
-<details><summary>Examples</summary>
+<details><summary>Example</summary>
 <img src="/images/ibm_vpc_architecture_drawio.png">
 </details>
