@@ -4,27 +4,13 @@
 
 Create IBM Diagrams with IBM Stencils using enterprise diagram tools.
 
-<!--
-## IBM v2 Stencils (coming)
-<details><summary>diagrams.net (draw.io)</summary>
-<p>
-**NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**.
+<b><i>Note: This ibm1 icons github is being deprecated for all enterprise diagram tools supported for ibm1 diagrams, and replaced with [ibm2 icons github](https://github.com/IBM-Cloud/architecture-icons) for diagrams.net (draw.io) and PowerPoint supported for ibm2 diagrams.</i></b>
 
-1. To use the IBM Stencils on draw.io/diagrams.net in your browser: https://draw.io/?libs=ibm
-
-2. To use the IBM Stencils on the [draw.io desktop application](https://github.com/jgraph/drawio-desktop/releases) do the following:
-
-   1. Open application and click on "+ More Shapes" in the bottom left panel.
-   2. Scroll down to the "Networking" section and check "IBM".
-   3. Click "Apply" to finish.
-
-   IBM Stencils should now be available in the embedded categories in the left panel.
-
-3. Groups are implemented as draw.io containers.
-</details>
--->
+<b>If interested in diagram as code with Python for ibm2 diagrams, there is also the tool [ibmdiagrams](https://github.com/ibm/ibmdiagrams). 
 
 ## IBM v1 Stencils
+
+<!--
 <details><summary>diagrams.net (draw.io)</summary>
 <p>
 **NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**.
@@ -48,6 +34,7 @@ Create IBM Diagrams with IBM Stencils using enterprise diagram tools.
 Use all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx on this github.
 </p>
 </details>
+-->
 
 <details><summary>Visio</summary>
 <p>
