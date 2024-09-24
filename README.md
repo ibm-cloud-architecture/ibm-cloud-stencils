@@ -4,7 +4,7 @@
 
 Create IBM Diagrams with IBM Stencils using enterprise diagram tools.
 
-<b><i>Note: This ibm1 icons github is being deprecated for enterprise diagram tools supported for ibm1 diagrams, and replaced with [ibm2 icons github](https://github.com/IBM-Cloud/architecture-icons) for enterprise diagram tools supported for ibm2 diagrams.  The tool [ibmdiagrams](https://github.com/ibm/ibmdiagrams) is available for ibm2 diagrams if interested in diagram as code with Python.</i></b> 
+<b><i>Note: This ibm1 icons github is being deprecated for enterprise diagram tools supported for ibm1 diagrams, and replaced with [ibm2 icons github](https://github.com/IBM-Cloud/architecture-icons) for enterprise diagram tools supported for ibm2 diagrams.  The tool [ibmdiagrams](https://github.com/ibm/ibmdiagrams) is available for ibm2 diagrams if interested in diagram as code.</i></b> 
 
 ## IBM v1 Stencils
 
