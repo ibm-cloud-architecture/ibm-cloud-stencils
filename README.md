@@ -5,7 +5,11 @@
 Create IBM Diagrams with IBM Stencils using enterprise diagram tools.
 
 > **Important**
->Note: This ibm 1.0 icons github repository is being deprecated for enterprise diagram tools supported for ibm1 (1.0) diagrams, and replaced/superseded with: <br>- External/public [ibm 2.0 arch icons repository](https://github.com/IBM-Cloud/architecture-icons): used for enterprise diagram stencils, tools and conventions supported for ibm 2.0 diagrams. <br>- [ibmdiagrams](https://github.com/ibm/ibmdiagrams): a diagrams as code tool created for ibm 2.0 diagrams.<br>- [Internal IBM 2.0 Cloud Stencils repository](https://github.ibm.com/ibmcloud/ibm-cloud-stencils): internal repository oriented to IBMers for getting 2.0 stencils/icons, diagram templates and guidance/conventions.
+>Note: This ibm 1.0 icons github repository is being deprecated for enterprise diagram tools supported for ibm1 (1.0) diagrams, and replaced/superseded with: 
+
+- External/public [ibm 2.0 arch icons repository](https://github.com/IBM-Cloud/architecture-icons): used for enterprise diagram stencils, tools and conventions supported for ibm 2.0 diagrams. 
+- [ibmdiagrams](https://github.com/ibm/ibmdiagrams): a diagrams as code tool created for ibm 2.0 diagrams.
+- [Internal IBM 2.0 Cloud Stencils repository](https://github.ibm.com/ibmcloud/ibm-cloud-stencils): internal repository oriented to IBMers for getting 2.0 stencils/icons, diagram templates and guidance/conventions.
 
 ## IBM 1.0 Stencils
 
