@@ -1,38 +1,16 @@
-# IBM Stencils
+# IBM Stencils 1.0 - DEPRECATED
 
 ## Overview
 
 Create IBM Diagrams with IBM Stencils using enterprise diagram tools.
 
-<b><i>Note: This ibm1 icons github is being deprecated for enterprise diagram tools supported for ibm1 diagrams, and replaced with [ibm2 icons github](https://github.com/IBM-Cloud/architecture-icons) for enterprise diagram tools supported for ibm2 diagrams.  The tool [ibmdiagrams](https://github.com/ibm/ibmdiagrams) is available for ibm2 diagrams if interested in diagram as code.</i></b> 
+> **Important**
+>Note: This ibm 1.0 icons github repository is being deprecated for enterprise diagram tools supported for ibm1 (1.0) diagrams, and replaced/superseded with: <br>- External/public [ibm 2.0 arch icons repository](https://github.com/IBM-Cloud/architecture-icons): used for enterprise diagram stencils, tools and conventions supported for ibm 2.0 diagrams. <br>- [ibmdiagrams](https://github.com/ibm/ibmdiagrams): a diagrams as code tool created for ibm 2.0 diagrams.<br>- [Internal IBM 2.0 Cloud Stencils repository](https://github.ibm.com/ibmcloud/ibm-cloud-stencils): internal repository oriented to IBMers for getting 2.0 stencils/icons, diagram templates and guidance/conventions.
 
-## IBM v1 Stencils
+## IBM 1.0 Stencils
 
-<!--
-<details><summary>diagrams.net (draw.io)</summary>
-<p>
-**NOTE: For IBM internal designs/diagrams, you must use the desktop application (2.) to create or edit a diagram. The draw.io/diagrams.net web application (1.) is only approved for public designs that contain no forward-looking material**.
 
-1. To use the IBM Stencils on draw.io/diagrams.net in your browser: https://draw.io/?libs=ibm
-
-2. To use the IBM Stencils on the [draw.io desktop application](https://github.com/jgraph/drawio-desktop/releases) do the following:
-
-   1. Open application and click on "+ More Shapes" in the bottom left panel.
-   2. Scroll down to the "Networking" section and check "IBM".
-   3. Click "Apply" to finish.
-
-   IBM Stencils should now be available in the embedded categories in the left panel.
-
-3. Groups (boxes) are implemented as draw.io containers.
-
-</details>
-
-<details><summary>Powerpoint</summary>
-<p>
-Use all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx on this github.
-</p>
-</details>
--->
+Stencils in the following sections/formats are considered obsolete/deprecated and should only be used for backwards compatibility with old diagrams.
 
 <details><summary>Visio</summary>
 <p>
@@ -40,13 +18,10 @@ Use all-ibm-cloud-architecture-icons-October2019-WithVPCUpdatesFebruary2020.pptx
 1. Groups (boxes) are implemented as Visio containers.
 
 2. Group tags are currently separate and can optionally be placed on upper left corner.
+</details>
 
-<details><summary>OmniGraffle</summary>
+<details><summary>PowerPoint</summary>
 </details>
 
 </p>
-</details>
-
-<details><summary>Example</summary>
-<img src="/images/ibm_vpc_architecture_drawio.png">
 </details>
